@@ -3,6 +3,8 @@ description: Ecology | Golden Eagle Research
 theme: minima
 
 header_pages:
+  - about.md
   - research.md
   - publications.md
-  - teaching.md
+  - cv.md
+  - contact.md
