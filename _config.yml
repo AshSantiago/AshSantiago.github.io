@@ -4,9 +4,6 @@ url: "https://AshSantiago.github.io"
 
 theme: minima
 
-minima:
-  skin: classic  # we'll override colors via custom CSS
-
 header_pages:
   - about.md
   - research.md
