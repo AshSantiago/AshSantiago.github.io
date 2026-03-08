@@ -4,6 +4,9 @@ url: "https://AshSantiago.github.io"
 
 theme: minima
 
+minima:
+  skin: classic
+
 header_pages:
   - about.md
   - research.md
