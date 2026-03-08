@@ -1,6 +1,11 @@
 title: Ashley Santiago
-description: Ecology | Golden Eagle Research
-remote_theme: samanyougarg/hanuman
+description: Ecologist · Golden Eagle Research · Quantitative Ecology
+url: "https://AshSantiago.github.io"
+
+theme: minima
+
+minima:
+  skin: classic  # we'll override colors via custom CSS
 
 header_pages:
   - about.md
@@ -8,3 +13,11 @@ header_pages:
   - publications.md
   - cv.md
   - contact.md
+
+author:
+  name: Ashley Santiago
+  email: # your email here
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
