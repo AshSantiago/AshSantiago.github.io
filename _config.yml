@@ -1,6 +1,6 @@
 title: Ashley Santiago
 description: Ecology | Golden Eagle Research
-theme: hanuman
+remote_theme: hanuman
 
 header_pages:
   - about.md
