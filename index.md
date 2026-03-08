@@ -3,62 +3,41 @@ layout: default
 title: Home
 ---
 
-<table>
-<tr>
-<td width="30%">
-
-<img src="assets/profile.jpg" width="100%">
-
-</td>
-<td width="70%">
-
-# Ashley Santiago
-
-Ecologist | Golden Eagle Research | Quantitative Ecology
-
-I study **Golden Eagle ecology, survival, and population dynamics**. My research combines field ecology with statistical modeling to understand the drivers of juvenile survival and movement.
-
-My work focuses on:
-
-- Golden Eagle juvenile survival
-- Wildlife telemetry and movement ecology
-- Bayesian survival models
-- Population dynamics and conservation
-
-</td>
-</tr>
-</table>
+<div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 2rem;">
+  <img src="assets/profile.jpg" alt="Ashley Santiago" style="width: 220px; border-radius: 4px; flex-shrink: 0;">
+  <div>
+    <h1>Ashley Santiago</h1>
+    <p><em>Ecologist · Golden Eagle Research · Quantitative Ecology</em></p>
+    <p>
+      I study <strong>Golden Eagle ecology, survival, and population dynamics</strong>, 
+      combining field ecology with statistical modeling to understand the drivers of 
+      juvenile survival and movement.
+    </p>
+    <p>
+      <strong>Research interests:</strong> juvenile survival · wildlife telemetry · 
+      Bayesian survival models · population dynamics · raptor conservation
+    </p>
+  </div>
+</div>
 
 ---
 
 ## Research
 
-My research integrates field data and statistical modeling to better understand raptor population dynamics and inform conservation strategies.
+My research integrates field data and statistical modeling to understand raptor 
+population dynamics and inform conservation strategies.
 
-Learn more on the [Research](research) page.
+→ [Learn more on the Research page](research)
 
 ---
 
-## Quick Links
+## Navigation
 
-- [About](about)
-- [Research](research)
-- [Publications](publications)
-- [CV](cv)
-- [Contact](contact)
----
-
-## Quick Links
-
-- [About Me](about.html)
-- [Research](research.html)
-- [Publications](publications.html)
-- [CV](cv.html)
-- [Contact](contact.html)
+[About](about) · [Research](research) · [Publications](publications) · [CV](cv) · [Contact](contact)
 
 ---
 
 ## Affiliations
 
-Department / Lab / Organization Name  
-University or Institution
+**[Your Lab Name]**  
+Department of [X], [University Name]
