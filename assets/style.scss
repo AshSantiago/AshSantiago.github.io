@@ -1,0 +1,17 @@
+---
+---
+@import "minima";
+
+:root {
+  --sage: #7a8c6e;
+  --parchment: #f7f3ee;
+  --bark: #4a3f35;
+  --gold: #b8935a;
+}
+
+body { background-color: #f7f3ee; font-family: 'Lora', Georgia, serif; }
+.site-header { background-color: #f0f4ec; border-top: 3px solid #7a8c6e; }
+.site-title, .site-title:visited { color: #4a3f35; }
+a { color: #7a8c6e; }
+a:hover { color: #4a3f35; }
+h1, h2, h3 { font-family: 'Playfair Display', serif; color: #4a3f35; }
