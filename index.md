@@ -3,37 +3,49 @@ layout: default
 title: Home
 ---
 
+<table>
+<tr>
+<td width="30%">
+
+<img src="assets/profile.jpg" width="100%">
+
+</td>
+<td width="70%">
+
 # Ashley Santiago
 
-![Ashley Santiago](assets/profile.jpg)
+Ecologist | Golden Eagle Research | Quantitative Ecology
 
-I am a researcher studying **Golden Eagle ecology, survival, and population dynamics**.  
-My work focuses on understanding factors influencing juvenile survival using **telemetry data, ecological modeling, and Bayesian statistical approaches in R**.
+I study **Golden Eagle ecology, survival, and population dynamics**. My research combines field ecology with statistical modeling to understand the drivers of juvenile survival and movement.
 
----
+My work focuses on:
 
-## Research Focus
+- Golden Eagle juvenile survival
+- Wildlife telemetry and movement ecology
+- Bayesian survival models
+- Population dynamics and conservation
 
-My research combines field ecology and quantitative modeling to understand raptor populations and inform conservation.
-
-Current research topics include:
-
-- Juvenile **Golden Eagle survival and mortality**
-- Movement ecology using **GPS and VHF telemetry**
-- Population dynamics and demographic modeling
-- Bayesian hierarchical models for wildlife populations
-- Conservation applications for raptor management
-
-Learn more on the [Research](research.html) page.
+</td>
+</tr>
+</table>
 
 ---
 
-## Recent Updates
+## Research
 
-**2026** – New manuscript in preparation on first-year survival of Golden Eagles.  
+My research integrates field data and statistical modeling to better understand raptor population dynamics and inform conservation strategies.
 
-**2025** – Expanded telemetry dataset for juvenile eagles across multiple cohorts.
+Learn more on the [Research](research) page.
 
+---
+
+## Quick Links
+
+- [About](about)
+- [Research](research)
+- [Publications](publications)
+- [CV](cv)
+- [Contact](contact)
 ---
 
 ## Quick Links
