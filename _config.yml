@@ -1,8 +1,5 @@
 title: Ashley Santiago
 description: Ecologist · Golden Eagle Research · Quantitative Ecology
-theme: minima
-minima:
-  skin: classic
 header_pages:
   - about.md
   - research.md
