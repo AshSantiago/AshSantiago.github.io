@@ -5,18 +5,14 @@ title: Contact
 
 # Contact
 
-Email: your_email@email.com
+Email: ashleysantiago@u.boisestate.edu
 
-Institution: Your University or Organization
+Institution: Boise State University
 
-Location: City, State
-
-## Collaborations
-
-I am always interested in collaborations related to raptor ecology, population modeling, and wildlife telemetry.
+Location: Boise, ID
 
 ## Links
 
 GitHub: https://github.com/AshSantiago  
-Google Scholar: (link)  
-ORCID: (link)
+ResearchGate: https://www.researchgate.net/profile/Ashley-Santiago-9
+ORCID: https://orcid.org/my-orcid?orcid=0009-0008-8372-4077
