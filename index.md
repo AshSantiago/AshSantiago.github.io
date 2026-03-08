@@ -20,7 +20,7 @@ title: Home
   </div>
 </div>
 
----
+<hr>
 
 ## Research
 
@@ -29,7 +29,7 @@ population dynamics and inform conservation strategies.
 
 → [Learn more on the Research page](research)
 
----
+<hr>
 
 ## Affiliations
 
