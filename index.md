@@ -31,12 +31,6 @@ population dynamics and inform conservation strategies.
 
 ---
 
-## Navigation
-
-[About](about) · [Research](research) · [Publications](publications) · [CV](cv) · [Contact](contact)
-
----
-
 ## Affiliations
 
 **[Your Lab Name]**  
