@@ -5,19 +5,13 @@ title: CV
 
 # Curriculum Vitae
 
-You can either summarize your CV here or link to a PDF.
-
 [Download my CV](assets/Ashley_Santiago_CV.pdf)
 
 ## Education
 
-Ph.D. – University Name  
-M.S. – University Name  
-B.S. – University Name
-
-## Research Experience
-
-Brief description of positions.
+Ph.D. – Ecology, Evolution, and Behavior, Boise State University (current) 
+M.S. – Raptor Biology, Boise State University
+B.S. – Zoology, University of Wisconsin - Madison
 
 ## Skills
 
@@ -25,3 +19,5 @@ Brief description of positions.
 - Bayesian statistics
 - Wildlife telemetry
 - Population modeling
+- DNA Extraction
+- Bioinformatics
