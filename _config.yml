@@ -14,10 +14,6 @@ header_pages:
   - cv.md
   - contact.md
 
-author:
-  name: Ashley Santiago
-  email: # your email here
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
