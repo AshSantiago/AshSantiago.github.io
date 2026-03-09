@@ -1,4 +1,4 @@
-<img width="1847" height="1156" alt="image" src="https://github.com/user-attachments/assets/7db5f8db-f8dd-4a76-a2d7-ecfa506b1936" />---
+---
 layout: default
 title: About
 ---
