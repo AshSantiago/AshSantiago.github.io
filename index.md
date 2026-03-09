@@ -19,10 +19,9 @@ title: Home
     <h1 style="margin-top: 0.2rem; margin-bottom: 0.3rem;">Ashley Santiago</h1>
     <p style="margin: 0 0 0.8rem; color: #6b6259; font-style: italic; font-size: 0.95rem;">Ph.D. Student · Ecology, Evolution, and Behavior · Boise State University</p>
     <p style="font-size: 0.97rem; line-height: 1.8; margin: 0;">
-      I am studying <strong>Golden Eagle ecology, survival, and population dynamics</strong>, 
-      combining field ecology with statistical modeling and novel genomic approaches to understand 
-      the potential drivers of population decline and inform conservation strategies.
-      I work in the <a href="https://www.heathlab.com" target="_blank">Heath Lab</a> at Boise State University.
+      I am studying <strong>Golden Eagle ecology, survival, and population dynamics</strong>, combining field ecology with 
+      statistical modeling and novel genomic approaches to understand the potential drivers of population decline and inform 
+      conservation strategies.I work in the <a href="https://www.heathlab.com" target="_blank">Heath Lab</a> at Boise State University.
     </p>
   </div>
 </div>
@@ -66,15 +65,18 @@ title: Home
            onmouseover="this.style.borderColor='#7a8c6e'; this.style.boxShadow='0 6px 20px rgba(122,140,110,0.25)'; this.style.transform='translateY(-4px)'"
            onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
         <!-- Clean DNA helix icon -->
-        <svg width="48" height="52" viewBox="0 0 48 52" fill="none" stroke="#7a8c6e" stroke-width="1.4" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg">
-          <path d="M12 4 C20 10, 28 10, 36 4"/>
-          <path d="M12 48 C20 42, 28 42, 36 48"/>
-          <path d="M12 4 C4 12, 4 20, 12 26 C20 32, 36 32, 36 26 C36 20, 20 14, 12 20 C4 26, 4 34, 12 40 C20 46, 28 46, 36 40"/>
-          <path d="M36 4 C44 12, 44 20, 36 26 C28 32, 12 32, 12 26 C12 20, 28 14, 36 20 C44 26, 44 34, 36 40 C28 46, 20 46, 12 40"/>
-          <line x1="14" y1="15" x2="34" y2="15"/>
-          <line x1="10" y1="26" x2="38" y2="26"/>
-          <line x1="14" y1="37" x2="34" y2="37"/>
-        </svg>
+    <svg width="44" height="56" viewBox="0 0 44 56" fill="none" stroke="#7a8c6e" stroke-width="1.5" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg">
+      <!-- Left strand -->
+      <path d="M10 2 C10 12, 34 16, 34 28 C34 40, 10 44, 10 54"/>
+      <!-- Right strand -->
+      <path d="M34 2 C34 12, 10 16, 10 28 C10 40, 34 44, 34 54"/>
+      <!-- Rungs -->
+      <line x1="13" y1="10" x2="31" y2="13"/>
+      <line x1="10" y1="20" x2="34" y2="20"/>
+      <line x1="10" y1="28" x2="34" y2="28"/>
+      <line x1="10" y1="36" x2="34" y2="36"/>
+      <line x1="13" y1="43" x2="31" y2="46"/>
+    </svg>
       </div>
       <p style="font-size: 0.92rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Adult Turnover</p>
     </a>
