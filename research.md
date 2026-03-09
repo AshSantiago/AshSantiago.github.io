@@ -5,99 +5,76 @@ title: Research
 
 ## Research
 
-<p style="color: var(--muted); font-size: 1rem; line-height: 1.8; margin-bottom: 2.5rem; max-width: 680px;">
+<p style="color: #6b6259; font-size: 1rem; line-height: 1.8; margin-bottom: 2.5rem; max-width: 680px;">
 My research focuses on understanding the factors that influence survival and population dynamics 
 in Golden Eagles (<em>Aquila chrysaetos</em>), combining long-term field monitoring with 
 statistical modeling and genomic approaches.
 </p>
 
----
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.5rem; margin-top: 1rem;">
 
-<!-- TOPIC 1: Territory Occupancy -->
-<div style="display: flex; align-items: flex-start; gap: 2.5rem; margin: 2.5rem 0;">
-  <div style="flex: 1; min-width: 0;">
-    <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--sage); margin-bottom: 0.4rem;">Territory Ecology</p>
-    <h3 style="margin-top: 0; font-size: 1.3rem;">Territory Occupancy</h3>
-    <p>
-      My master's research focused on how landscape features and conspecific neighbor density influence 
-      the probability of breeding territory occupancy for Golden Eagles in Southwestern Idaho. This research 
-      used long-term monitoring data from the Morley Nelson Snake River Birds of Prey National Conservation Area, 
-      land cover data from the Rangeland Analysis Platform, and fire data from the Combined Wildland Fire Dataset 
-      to model territory-level occupancy in relation to land cover change, territory density,  and prey availability 
-      over a 30+ year period.
-    </p>
-    <p style="margin-bottom: 0;">
-      <em>Methods: occupancy modeling, Bayesian, GIS/remote sensing, long-term monitoring data</em>
-    </p>
-  </div>
-  <div style="flex-shrink: 0; width: 280px;">
-    <img src="../assets/research-occupancy.jpg" 
-         alt="Golden Eagle territory landscape"
-         onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
-         style="width: 100%; border-radius: 6px; box-shadow: 3px 3px 14px rgba(74,63,53,0.15);">
-    <div style="display: none; width: 100%; height: 200px; background: var(--sage-mist); border: 1px solid var(--sage-pale); border-radius: 6px; align-items: center; justify-content: center; flex-direction: column; gap: 0.4rem; color: var(--stone);">
-      <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="m21 15-5-5L5 21"/></svg>
-      <span style="font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase;">photo coming soon</span>
+  <a href="#territory-occupancy" style="text-decoration: none; color: inherit;">
+    <div style="background: #dde6d5; border-radius: 10px; overflow: hidden; transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 24px rgba(74,63,53,0.18)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+      <div style="width: 100%; height: 200px; background: #a8b89a; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+        <img src="../assets/research-occupancy.jpg" alt="Territory Occupancy" style="width: 100%; height: 100%; object-fit: cover;" onerror="this.style.display='none'; this.parentElement.innerHTML='<div style=\'display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;gap:0.5rem;color:#4a3f35\'><svg width=\'40\' height=\'40\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'currentColor\' stroke-width=\'1.2\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9 22 9 12 15 12 15 22\'/></svg><span style=\'font-size:0.7rem;letter-spacing:0.1em;text-transform:uppercase;opacity:0.6\'>photo coming soon</span></div>';">
+      </div>
+      <div style="padding: 1.3rem 1.4rem 1.5rem;">
+        <p style="font-size: 0.7rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.4rem; font-family: 'Lora', serif;">Territory Ecology</p>
+        <h3 style="font-family: 'Playfair Display', serif; color: #4a3f35; font-size: 1.15rem; margin: 0 0 0.6rem;">Territory Occupancy</h3>
+        <p style="font-size: 0.88rem; color: #6b6259; line-height: 1.65; margin: 0;">How landscape features and conspecific neighbor density influence the probability of breeding territory occupancy in Southwestern Idaho.</p>
+      </div>
     </div>
-  </div>
+  </a>
+
+  <a href="#first-year-survival" style="text-decoration: none; color: inherit;">
+    <div style="background: #dde6d5; border-radius: 10px; overflow: hidden; transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 24px rgba(74,63,53,0.18)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+      <div style="width: 100%; height: 200px; background: #a8b89a; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+        <img src="../assets/research-survival.jpg" alt="First-Year Survival" style="width: 100%; height: 100%; object-fit: cover;" onerror="this.style.display='none'; this.parentElement.innerHTML='<div style=\'display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;gap:0.5rem;color:#4a3f35\'><svg width=\'40\' height=\'40\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'currentColor\' stroke-width=\'1.2\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9 22 9 12 15 12 15 22\'/></svg><span style=\'font-size:0.7rem;letter-spacing:0.1em;text-transform:uppercase;opacity:0.6\'>photo coming soon</span></div>';">
+      </div>
+      <div style="padding: 1.3rem 1.4rem 1.5rem;">
+        <p style="font-size: 0.7rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.4rem; font-family: 'Lora', serif;">Survival Analysis</p>
+        <h3 style="font-family: 'Playfair Display', serif; color: #4a3f35; font-size: 1.15rem; margin: 0 0 0.6rem;">First-Year Survival</h3>
+        <p style="font-size: 0.88rem; color: #6b6259; line-height: 1.65; margin: 0;">Assessing how nest ectoparasites and disease affect first-year survival probability using Bayesian multistate modeling.</p>
+      </div>
+    </div>
+  </a>
+
+  <a href="#adult-turnover" style="text-decoration: none; color: inherit;">
+    <div style="background: #dde6d5; border-radius: 10px; overflow: hidden; transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 24px rgba(74,63,53,0.18)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+      <div style="width: 100%; height: 200px; background: #a8b89a; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+        <img src="../assets/research-genomics.jpg" alt="Adult Turnover" style="width: 100%; height: 100%; object-fit: cover;" onerror="this.style.display='none'; this.parentElement.innerHTML='<div style=\'display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;gap:0.5rem;color:#4a3f35\'><svg width=\'40\' height=\'40\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'currentColor\' stroke-width=\'1.2\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9 22 9 12 15 12 15 22\'/></svg><span style=\'font-size:0.7rem;letter-spacing:0.1em;text-transform:uppercase;opacity:0.6\'>photo coming soon</span></div>';">
+      </div>
+      <div style="padding: 1.3rem 1.4rem 1.5rem;">
+        <p style="font-size: 0.7rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.4rem; font-family: 'Lora', serif;">Population Genomics</p>
+        <h3 style="font-family: 'Playfair Display', serif; color: #4a3f35; font-size: 1.15rem; margin: 0 0 0.6rem;">Adult Turnover</h3>
+        <p style="font-size: 0.88rem; color: #6b6259; line-height: 1.65; margin: 0;">Using a genomic mark-recapture approach to evaluate adult turnover rates and estimate breeding adult survival.</p>
+      </div>
+    </div>
+  </a>
+
 </div>
 
-<hr>
+<hr style="border: none; border-top: 1px solid #dde6d5; margin: 3.5rem 0 2.5rem;">
 
-<!-- TOPIC 2: First-Year Survival -->
-<div style="display: flex; align-items: flex-start; gap: 2.5rem; margin: 2.5rem 0; flex-direction: row-reverse;">
-  <div style="flex: 1; min-width: 0;">
-    <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--sage); margin-bottom: 0.4rem;">Survival Analysis</p>
-    <h3 style="margin-top: 0; font-size: 1.3rem;">First-Year Survival</h3>
-    <p>
-      As part of my dissertation research, I am assessing the effects of nest ectoparasites, disease 
-      (trichomonosis), and nestling condition on the probability of first-year survival using a 
-      Bayesian multistate modeling framework. This work has direct conservation implications with  
-      the potential to evaluate the impact of targeted mitigation of nest parasites and disease on 
-      nestling health and post-fledging survival.
-    </p>
-    <p style="margin-bottom: 0;">
-      <em>Methods: survival modeling, Bayesian multistate models, telemetry</em>
-    </p>
-  </div>
-  <div style="flex-shrink: 0; width: 280px;">
-    <img src="../assets/research-survival.jpg" 
-         alt="Golden Eagle nestling"
-         onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
-         style="width: 100%; border-radius: 6px; box-shadow: 3px 3px 14px rgba(74,63,53,0.15);">
-    <div style="display: none; width: 100%; height: 200px; background: var(--sage-mist); border: 1px solid var(--sage-pale); border-radius: 6px; align-items: center; justify-content: center; flex-direction: column; gap: 0.4rem; color: var(--stone);">
-      <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="m21 15-5-5L5 21"/></svg>
-      <span style="font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase;">photo coming soon</span>
-    </div>
-  </div>
+<!-- DETAILED SECTIONS -->
+
+<div id="territory-occupancy" style="margin-bottom: 3rem;">
+  <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.4rem;">Territory Ecology</p>
+  <h3 style="font-family: 'Playfair Display', serif; color: #4a3f35; font-size: 1.3rem; margin-top: 0;">Territory Occupancy</h3>
+  <p>I investigate how landscape features and conspecific neighbor density influence the probability of breeding territory occupancy for Golden Eagles in Southwestern Idaho. Using long-term monitoring data from the Morley Nelson Snake River Birds of Prey National Conservation Area, I model territory-level occupancy in relation to land cover change, human disturbance, and prey availability over a 20+ year period.</p>
+  <p style="color: #6b6259; font-size: 0.88rem;"><em>Methods: occupancy modeling · GIS/remote sensing · long-term monitoring data</em></p>
 </div>
 
-<hr>
+<div id="first-year-survival" style="margin-bottom: 3rem;">
+  <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.4rem;">Survival Analysis</p>
+  <h3 style="font-family: 'Playfair Display', serif; color: #4a3f35; font-size: 1.3rem; margin-top: 0;">First-Year Survival</h3>
+  <p>I assess the effects of nest ectoparasites, disease (trichomonosis), and nestling condition on the probability of first-year survival using a Bayesian multistate modeling framework. This work has direct conservation implications, demonstrating that targeted mitigation of nest parasites and disease meaningfully improves nestling health and post-fledging survival.</p>
+  <p style="color: #6b6259; font-size: 0.88rem;"><em>Methods: Bayesian multistate models · telemetry · JAGS · R</em></p>
+</div>
 
-<!-- TOPIC 3: Adult Turnover -->
-<div style="display: flex; align-items: flex-start; gap: 2.5rem; margin: 2.5rem 0;">
-  <div style="flex: 1; min-width: 0;">
-    <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--sage); margin-bottom: 0.4rem;">Population Genomics</p>
-    <h3 style="margin-top: 0; font-size: 1.3rem;">Adult Turnover</h3>
-    <p>
-      As part of my dissertation research I will use a genomic mark-recapture approach to evaluate 
-      adult turnover rates in the southwestern Idaho Golden Eagle population. By leveraging genetic 
-      identity from feathers and blood samples collected across years, this work provides estimates 
-      of adult survival and replacement that are otherwise difficult to obtain in long-lived 
-      raptors with low resighting or capture rates.
-    </p>
-    <p style="margin-bottom: 0;">
-      <em>Methods: genomic mark-recapture, population genetics, bioinformatics, pedigrees, survival modeling</em>
-    </p>
-  </div>
-  <div style="flex-shrink: 0; width: 280px;">
-    <img src="../assets/research-genomics.jpg" 
-         alt="DNA lab work"
-         onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
-         style="width: 100%; border-radius: 6px; box-shadow: 3px 3px 14px rgba(74,63,53,0.15);">
-    <div style="display: none; width: 100%; height: 200px; background: var(--sage-mist); border: 1px solid var(--sage-pale); border-radius: 6px; align-items: center; justify-content: center; flex-direction: column; gap: 0.4rem; color: var(--stone);">
-      <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="m21 15-5-5L5 21"/></svg>
-      <span style="font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase;">photo coming soon</span>
-    </div>
-  </div>
+<div id="adult-turnover" style="margin-bottom: 3rem;">
+  <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.4rem;">Population Genomics</p>
+  <h3 style="font-family: 'Playfair Display', serif; color: #4a3f35; font-size: 1.3rem; margin-top: 0;">Adult Turnover</h3>
+  <p>I use a genomic mark-recapture approach to evaluate adult turnover rates in the southwestern Idaho Golden Eagle population. By leveraging genetic identity from feathers and blood samples collected across years, this work provides estimates of adult survival and replacement that are otherwise difficult to obtain in long-lived raptors with low resighting rates.</p>
+  <p style="color: #6b6259; font-size: 0.88rem;"><em>Methods: RADseq · genomic mark-recapture · population genetics · bioinformatics</em></p>
 </div>
