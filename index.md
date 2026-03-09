@@ -3,12 +3,12 @@ layout: default
 title: Home
 ---
 
-<!-- Landscape Hero Banner -->
-<div style="width: 100%; height: 380px; overflow: hidden; border-radius: 8px; margin-bottom: 2.5rem; position: relative;">
+<!-- Full-bleed landscape banner -->
+<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; height: 420px; overflow: hidden; margin-bottom: 3rem;">
   <img src="assets/landscape.jpg" alt="Sagebrush steppe landscape"
        style="width: 100%; height: 100%; object-fit: cover; object-position: center 40%;"
        onerror="this.parentElement.style.background='#a8b89a'; this.style.display='none';">
-  <div style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(44,40,32,0.35) 0%, transparent 60%);"></div>
+  <div style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(44,40,32,0.3) 0%, transparent 60%);"></div>
 </div>
 
 <!-- Profile photo + Bio -->
@@ -29,43 +29,58 @@ title: Home
 
 <hr style="border: none; border-top: 1px solid #dde6d5; margin: 0 auto 2.5rem; max-width: 720px;">
 
-<!-- Research Preview -->
+<!-- Research circles -->
 <div style="max-width: 720px; margin: 0 auto 2.5rem;">
-  <h2 style="font-size: 1.25rem; margin-bottom: 1.2rem;">Research</h2>
-  <p style="font-size: 1rem; line-height: 1.75; margin-bottom: 1.5rem;">My work integrates field data, statistical modeling, and genomics to understand raptor population dynamics and inform conservation management.</p>
+  <h2 style="font-size: 1.25rem; margin-bottom: 0.6rem;">Research</h2>
+  <p style="font-size: 1rem; line-height: 1.75; margin-bottom: 2rem;">My work integrates field data, statistical modeling, and genomics to understand raptor population dynamics and inform conservation management.</p>
 
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-bottom: 1.5rem;">
+  <div style="display: flex; justify-content: center; gap: 2.5rem; flex-wrap: wrap; margin-bottom: 1.8rem;">
 
-    <a href="research-occupancy" style="text-decoration: none;">
-      <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-top: 3px solid #7a8c6e; border-radius: 6px; padding: 1.1rem 1.2rem;"
-           onmouseover="this.style.boxShadow='0 4px 16px rgba(74,63,53,0.12)'; this.style.transform='translateY(-2px)'"
-           onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
-        <p style="font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: #7a8c6e; margin: 0 0 0.4rem;">Territory Occupancy</p>
-        <p style="font-size: 0.88rem; color: #4a3f35; margin: 0; line-height: 1.5;">Landscape drivers of long-term changes in golden eagle territory use in southwestern Idaho.</p>
+    <a href="research-occupancy" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 160px;">
+      <div style="width: 140px; height: 140px; border-radius: 50%; background: #dde6d5; border: 3px solid #a8b89a; display: flex; align-items: center; justify-content: center; transition: all 0.2s; overflow: hidden;"
+           onmouseover="this.style.borderColor='#7a8c6e'; this.style.boxShadow='0 6px 20px rgba(122,140,110,0.25)'; this.style.transform='translateY(-4px)'"
+           onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+        <svg width="52" height="52" viewBox="0 0 24 24" fill="none" stroke="#7a8c6e" stroke-width="1.2" xmlns="http://www.w3.org/2000/svg">
+          <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/>
+        </svg>
+      </div>
+      <div style="text-align: center;">
+        <p style="font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #7a8c6e; margin: 0 0 0.2rem;">Territory</p>
+        <p style="font-size: 0.88rem; color: #4a3f35; margin: 0; font-weight: 600;">Occupancy</p>
       </div>
     </a>
 
-    <a href="research-survival" style="text-decoration: none;">
-      <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-top: 3px solid #7a8c6e; border-radius: 6px; padding: 1.1rem 1.2rem;"
-           onmouseover="this.style.boxShadow='0 4px 16px rgba(74,63,53,0.12)'; this.style.transform='translateY(-2px)'"
-           onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
-        <p style="font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: #7a8c6e; margin: 0 0 0.4rem;">Juvenile Survival</p>
-        <p style="font-size: 0.88rem; color: #4a3f35; margin: 0; line-height: 1.5;">Age-specific survival modeling using telemetry to identify stressors on first-year eagles.</p>
+    <a href="research-survival" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 160px;">
+      <div style="width: 140px; height: 140px; border-radius: 50%; background: #dde6d5; border: 3px solid #a8b89a; display: flex; align-items: center; justify-content: center; transition: all 0.2s; overflow: hidden;"
+           onmouseover="this.style.borderColor='#7a8c6e'; this.style.boxShadow='0 6px 20px rgba(122,140,110,0.25)'; this.style.transform='translateY(-4px)'"
+           onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+        <svg width="52" height="52" viewBox="0 0 24 24" fill="none" stroke="#7a8c6e" stroke-width="1.2" xmlns="http://www.w3.org/2000/svg">
+          <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
+        </svg>
+      </div>
+      <div style="text-align: center;">
+        <p style="font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #7a8c6e; margin: 0 0 0.2rem;">Juvenile</p>
+        <p style="font-size: 0.88rem; color: #4a3f35; margin: 0; font-weight: 600;">Survival</p>
       </div>
     </a>
 
-    <a href="research-turnover" style="text-decoration: none;">
-      <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-top: 3px solid #7a8c6e; border-radius: 6px; padding: 1.1rem 1.2rem;"
-           onmouseover="this.style.boxShadow='0 4px 16px rgba(74,63,53,0.12)'; this.style.transform='translateY(-2px)'"
-           onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
-        <p style="font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: #7a8c6e; margin: 0 0 0.4rem;">Conservation Genomics</p>
-        <p style="font-size: 0.88rem; color: #4a3f35; margin: 0; line-height: 1.5;">Using genomic tools to assess population connectivity and health in a declining raptor.</p>
+    <a href="research-turnover" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 160px;">
+      <div style="width: 140px; height: 140px; border-radius: 50%; background: #dde6d5; border: 3px solid #a8b89a; display: flex; align-items: center; justify-content: center; transition: all 0.2s; overflow: hidden;"
+           onmouseover="this.style.borderColor='#7a8c6e'; this.style.boxShadow='0 6px 20px rgba(122,140,110,0.25)'; this.style.transform='translateY(-4px)'"
+           onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+        <svg width="52" height="52" viewBox="0 0 24 24" fill="none" stroke="#7a8c6e" stroke-width="1.2" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="12" cy="12" r="3"/><path d="M20.188 10.934a8.77 8.77 0 1 1-.001 2.132"/><polyline points="21 7 21 11 17 11"/>
+        </svg>
+      </div>
+      <div style="text-align: center;">
+        <p style="font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #7a8c6e; margin: 0 0 0.2rem;">Conservation</p>
+        <p style="font-size: 0.88rem; color: #4a3f35; margin: 0; font-weight: 600;">Genomics</p>
       </div>
     </a>
 
   </div>
 
-  <p style="font-size: 0.9rem; margin: 0;">
+  <p style="font-size: 0.9rem; margin: 0; text-align: center;">
     <a href="research" style="color: #7a8c6e;">→ View all research projects</a>
   </p>
 </div>
