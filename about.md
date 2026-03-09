@@ -64,24 +64,3 @@ title: About
     a project that combines a fascinating study system, dramatic landscapes, a wonderful research 
     community, and real opportunities to inform conservation management.
   </p>
-
-  <hr style="border: none; border-top: 1px solid #dde6d5; margin: 2rem 0;">
-
-  <h2 style="font-size: 1.25rem; margin-bottom: 1rem;">Education</h2>
-
-  <div style="display: flex; flex-direction: column; gap: 0.9rem;">
-    <div>
-      <p style="margin: 0; font-weight: 600; color: #4a3f35;">Ph.D. – Ecology, Evolution, and Behavior</p>
-      <p style="margin: 0.2rem 0 0; color: #6b6259; font-size: 0.9rem;">Boise State University · 2024–2028 (expected)</p>
-    </div>
-    <div>
-      <p style="margin: 0; font-weight: 600; color: #4a3f35;">M.S. – Raptor Biology</p>
-      <p style="margin: 0.2rem 0 0; color: #6b6259; font-size: 0.9rem;">Boise State University · 2022–2024</p>
-    </div>
-    <div>
-      <p style="margin: 0; font-weight: 600; color: #4a3f35;">B.S. – Zoology</p>
-      <p style="margin: 0.2rem 0 0; color: #6b6259; font-size: 0.9rem;">University of Wisconsin–Madison · 2012–2016</p>
-    </div>
-  </div>
-
-</div>
