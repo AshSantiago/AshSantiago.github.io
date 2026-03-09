@@ -27,38 +27,108 @@ ashleysantiago@u.boisestate.edu · 630-335-4195 · Boise State University, 1910 
 
 ## Employment
 
-**Quantitative Teaching Assistant** · Boise State University · Aug 2025–Present
-Taught the Intro to R lab to graduate students, held office hours, ran the weekly R User Group meetings, helped facilitate weekly Stats Hour meetings, and worked to implement coding in R in undergraduate courses.
+<div style="display: flex; flex-direction: column; gap: 1.8rem; margin-bottom: 2rem;">
 
-**Golden Eagle Research Technician** · Boise State University · Mar 2021–Aug 2025
-Surveyed golden eagle territories for occupancy and processed nestlings, contributing to a long-term study of historical nest sites in Southwestern Idaho.
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Quantitative Teaching Assistant</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Aug 2025–Present</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.5rem;">Boise State University</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">Taught the Intro to R lab to graduate students, held office hours, ran the weekly R User Group meetings, helped facilitate weekly Stats Hour meetings, and worked to implement coding in R in undergraduate courses.</p>
+  </div>
 
-**Anatomy & Physiology Teaching Assistant** · Boise State University · Jan 2022–Dec 2024
-Taught the lab section of Human Anatomy and Physiology to undergraduate students, held office hours, and produced study materials.
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Golden Eagle Research Technician</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Mar 2021–Aug 2025</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.5rem;">Boise State University</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">Surveyed golden eagle territories for occupancy and processed nestlings, contributing to a long-term study of historical nest sites in Southwestern Idaho.</p>
+  </div>
 
-**Migration Biotechnician** · Golden Gate Raptor Observatory · Aug–Dec 2021
-Managed 100+ banding and hawkwatch volunteers conducting community science during fall migration of diurnal raptors.
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Anatomy & Physiology Teaching Assistant</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Jan 2022–Dec 2024</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.5rem;">Boise State University</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">Taught the lab section of Human Anatomy and Physiology to undergraduate students, held office hours, and produced study materials.</p>
+  </div>
 
-**American Kestrel Research Technician** · Boise State University · Mar–Aug 2020
-Helped manage the local kestrel project and worked remotely to monitor kestrels at Department of Defense sites around the country using trail cameras.
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Migration Biotechnician</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Aug–Dec 2021</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.5rem;">Golden Gate Raptor Observatory</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">Managed 100+ banding and hawkwatch volunteers conducting community science during fall migration of diurnal raptors.</p>
+  </div>
 
-**Migration Crew Lead** · HawkWatch International · Aug–Oct 2019
-Responsible for training a five-person crew at a remote field site on raptor identification and safe trapping, banding, sampling procedures, data management, and public presentations.
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">American Kestrel Research Technician</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Mar–Aug 2020</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.5rem;">Boise State University</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">Helped manage the local kestrel project and worked remotely to monitor kestrels at Department of Defense sites around the country using trail cameras.</p>
+  </div>
 
-**American Kestrel Research Technician** · Boise State University · Apr–Aug 2019
-Traveled to Department of Defense sites across the country to install nest cameras and band and collect biological samples from kestrels.
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Migration Crew Lead</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Aug–Oct 2019</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.5rem;">HawkWatch International</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">Responsible for training a five-person crew at a remote field site on raptor identification and safe trapping, banding, sampling procedures, data management, and public presentations.</p>
+  </div>
 
-**Lead Bander** · HawkWatch International · Aug–Oct 2018
-Trained crew members on raptor identification and safe trapping, banding, sampling procedures, data management, and field techniques.
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">American Kestrel Research Technician</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Apr–Aug 2019</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.5rem;">Boise State University</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">Traveled to Department of Defense sites across the country to install nest cameras and band and collect biological samples from kestrels.</p>
+  </div>
 
-**Waterfowl Assistant** · Eider Project, USFWS · Jun–Aug 2018
-Captured, banded, and conducted point count and nest surveys of waterfowl species in Utqiagvik, Alaska, with focus on federally threatened Steller's Eiders.
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Lead Bander</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Aug–Oct 2018</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.5rem;">HawkWatch International</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">Trained crew members on raptor identification and safe trapping, banding, sampling procedures, data management, and field techniques.</p>
+  </div>
 
-**Field Intern** · Golden Gate Raptor Observatory · Jul 2017–Mar 2018
-Contributed to long-term monitoring of raptor migration through counting and banding of 19 species moving through the Pacific Flyway.
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Waterfowl Assistant</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Jun–Aug 2018</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.5rem;">Eider Project, USFWS · Utqiagvik, Alaska</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">Captured, banded, and conducted point count and nest surveys of waterfowl species, with focus on federally threatened Steller's Eiders.</p>
+  </div>
 
-**Raptor Care Assistant** · American Bald Eagle Foundation · May 2016–May 2017
-Responsible for husbandry and positive reinforcement training of resident birds, educational presentations, wildlife rehabilitation, and eagle point count surveys.
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Field Intern</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Jul 2017–Mar 2018</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.5rem;">Golden Gate Raptor Observatory</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">Contributed to long-term monitoring of raptor migration through counting and banding of 19 species moving through the Pacific Flyway.</p>
+  </div>
+
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Raptor Care Assistant</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">May 2016–May 2017</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.5rem;">American Bald Eagle Foundation</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">Responsible for husbandry and positive reinforcement training of resident birds, educational presentations, wildlife rehabilitation, and eagle point count surveys.</p>
+  </div>
+
+</div>
 
 ---
 
