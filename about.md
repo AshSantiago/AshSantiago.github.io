@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<div style="width: 100%; height: 380px; overflow: hidden; border-radius: 8px; margin-bottom: 2.5rem; position: relative;">
+<div style="width: 100%; height: 520px; overflow: hidden; border-radius: 8px; margin-bottom: 2.5rem; position: relative;">
   <img src="../assets/profile.jpg" alt="Ashley Santiago in the field"
        style="width: 100%; height: 100%; object-fit: cover; object-position: center 30%;"
        onerror="this.parentElement.style.background='#a8b89a'; this.style.display='none';">
