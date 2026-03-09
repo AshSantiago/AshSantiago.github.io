@@ -34,15 +34,15 @@ title: About
 
   <hr style="border: none; border-top: 1px solid #dde6d5; margin: 2rem 0;">
 
-  <h2 style="font-size: 1.25rem; margin-bottom: 1rem;">Research Interests</h2>
+<h2 style="font-size: 1.25rem; margin-bottom: 1rem;">Research Interests</h2>
 
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 0.65rem; margin-bottom: 2rem;">
-    <div style="padding: 0.75rem 1rem; background: #f0f4ec; border: 1px solid #dde6d5; border-left: 3px solid #7a8c6e; border-radius: 0 4px 4px 0; font-size: 0.88rem; color: #4a3f35;">Raptor Ecology</div>
-    <div style="padding: 0.75rem 1rem; background: #f0f4ec; border: 1px solid #dde6d5; border-left: 3px solid #7a8c6e; border-radius: 0 4px 4px 0; font-size: 0.88rem; color: #4a3f35;">Survival Modeling</div>
-    <div style="padding: 0.75rem 1rem; background: #f0f4ec; border: 1px solid #dde6d5; border-left: 3px solid #7a8c6e; border-radius: 0 4px 4px 0; font-size: 0.88rem; color: #4a3f35;">Population Dynamics</div>
-    <div style="padding: 0.75rem 1rem; background: #f0f4ec; border: 1px solid #dde6d5; border-left: 3px solid #7a8c6e; border-radius: 0 4px 4px 0; font-size: 0.88rem; color: #4a3f35;">Conservation Genomics</div>
-    <div style="padding: 0.75rem 1rem; background: #f0f4ec; border: 1px solid #dde6d5; border-left: 3px solid #7a8c6e; border-radius: 0 4px 4px 0; font-size: 0.88rem; color: #4a3f35;">Bioinformatics</div>
-    <div style="padding: 0.75rem 1rem; background: #f0f4ec; border: 1px solid #dde6d5; border-left: 3px solid #7a8c6e; border-radius: 0 4px 4px 0; font-size: 0.88rem; color: #4a3f35;">Bayesian Statistics</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.65rem; margin-bottom: 2rem;">
+    <span style="padding: 0.5rem 1.2rem; background: #f0f4ec; border: 1.5px solid #a8b89a; border-radius: 999px; font-size: 0.88rem; color: #4a3f35;">Raptor Ecology</span>
+    <span style="padding: 0.5rem 1.2rem; background: #f0f4ec; border: 1.5px solid #a8b89a; border-radius: 999px; font-size: 0.88rem; color: #4a3f35;">Survival Modeling</span>
+    <span style="padding: 0.5rem 1.2rem; background: #f0f4ec; border: 1.5px solid #a8b89a; border-radius: 999px; font-size: 0.88rem; color: #4a3f35;">Population Dynamics</span>
+    <span style="padding: 0.5rem 1.2rem; background: #f0f4ec; border: 1.5px solid #a8b89a; border-radius: 999px; font-size: 0.88rem; color: #4a3f35;">Conservation Genomics</span>
+    <span style="padding: 0.5rem 1.2rem; background: #f0f4ec; border: 1.5px solid #a8b89a; border-radius: 999px; font-size: 0.88rem; color: #4a3f35;">Bioinformatics</span>
+    <span style="padding: 0.5rem 1.2rem; background: #f0f4ec; border: 1.5px solid #a8b89a; border-radius: 999px; font-size: 0.88rem; color: #4a3f35;">Bayesian Statistics</span>
   </div>
 
   <hr style="border: none; border-top: 1px solid #dde6d5; margin: 2rem 0;">
