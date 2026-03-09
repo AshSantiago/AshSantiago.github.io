@@ -1,15 +1,16 @@
----
+<img width="1847" height="1156" alt="image" src="https://github.com/user-attachments/assets/7db5f8db-f8dd-4a76-a2d7-ecfa506b1936" />---
 layout: default
 title: About
 ---
 
 <div style="width: 100%; height: 380px; overflow: hidden; border-radius: 8px; margin-bottom: 2.5rem; position: relative;">
   <img src="../assets/profile.jpg" alt="Ashley Santiago in the field"
-       style="width: 100%; height: 100%; object-fit: cover; object-position: center top;"
+       style="width: 100%; height: 100%; object-fit: cover; object-position: center 30%;"
        onerror="this.parentElement.style.background='#a8b89a'; this.style.display='none';">
-  <div style="position: absolute; bottom: 0; left: 0; right: 0; padding: 1.5rem 2rem; background: linear-gradient(transparent, rgba(44,40,32,0.7));">
-    <h1 style="color: #f7f3ee; margin: 0; font-size: 2rem;">Ashley Santiago</h1>
-    <p style="color: rgba(247,243,238,0.85); margin: 0.3rem 0 0; font-style: italic; font-size: 0.95rem;">
+<div style="position: absolute; bottom: 1.5rem; left: 1.5rem;">
+  <div style="display: inline-block; background: rgba(247,243,238,0.82); backdrop-filter: blur(4px); padding: 1rem 1.4rem; border-radius: 6px;">
+    <h1 style="color: #4a3f35; margin: 0; font-size: 1.9rem;">Ashley Santiago</h1>
+    <p style="color: #6b6259; margin: 0.25rem 0 0; font-style: italic; font-size: 0.88rem;">
       Ecologist · Golden Eagle Research · Quantitative Ecology · Conservation Genomics
     </p>
   </div>
