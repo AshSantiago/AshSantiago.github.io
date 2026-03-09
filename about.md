@@ -11,7 +11,7 @@ title: About
     <div style="display: inline-block; background: rgba(247,243,238,0.82); backdrop-filter: blur(4px); padding: 1rem 1.4rem; border-radius: 6px;">
       <h1 style="color: #4a3f35; margin: 0; font-size: 1.9rem;">Ashley Santiago</h1>
       <p style="color: #6b6259; margin: 0.25rem 0 0; font-style: italic; font-size: 0.88rem;">
-        Ecologist · Golden Eagle Research · Quantitative Ecology · Conservation Genomics
+        Population Ecology · Raptor Research · Conservation Genomics
       </p>
     </div>
   </div>
@@ -20,12 +20,11 @@ title: About
 <div style="max-width: 720px; margin: 0 auto;">
 
   <p style="font-size: 1rem; line-height: 1.85;">
-    I am a Ph.D. student in Ecology, Evolution, and Behavior at Boise State University studying 
-    <strong>Golden Eagle ecology, survival, and population dynamics</strong>. My work focuses on 
-    uncovering the potential drivers of population decline using a combination of telemetry, 
-    statistical modeling, genomics, and bioinformatics. My goal is to bridge research and 
-    management to provide actionable conservation strategies that will have the greatest impact 
-    on population health.
+    I am a Ph.D. student in the Ecology, Evolution, and Behavior program at Boise State University studying 
+    Golden Eagle ecology, survival, and population dynamics. My work focuses on uncovering the potential 
+    drivers of population decline using a combination of telemetry, statistical modeling, genomics, and 
+    bioinformatics. My goal is to bridge research and management to provide actionable conservation strategies 
+    that will have the greatest impact on population health.
   </p>
 
   <p style="font-size: 1rem; line-height: 1.85;">
@@ -52,15 +51,11 @@ title: About
 
   <p style="font-size: 1rem; line-height: 1.85;">
     I received my B.S. in Zoology from the University of Wisconsin–Madison before spending five 
-    years in education and conservation technician positions focused on long-term raptor monitoring. 
-    Field positions with the Golden Gate Raptor Observatory, HawkWatch International, and the USFWS 
-    deepened my commitment to understanding population-level processes in birds of prey.
-  </p>
-
-  <p style="font-size: 1rem; line-height: 1.85;">
+    years in education and conservation technician positions focused on long-term raptor monitoring.     
     I became invested in using long-term monitoring data to develop conservation strategies for 
     declining populations, which led me to pursue graduate work in the Heath Lab at Boise State 
     University. Since 2021 I have been studying the Golden Eagle population in southwestern Idaho — 
     a project that combines a fascinating study system, dramatic landscapes, a wonderful research 
     community, and real opportunities to inform conservation management.
+
   </p>
