@@ -7,9 +7,9 @@ title: Home
   <img src="assets/profile.jpg" alt="Ashley Santiago" style="width: 340px; border-radius: 6px; flex-shrink: 0; box-shadow: 3px 3px 14px rgba(74,63,53,0.15);">
   <div>
     <h1>Ashley Santiago</h1>
-    <p><em>Ecologist · Golden Eagle Research · Quantitative Ecology · Conservation Genomics</em></p>
+    <p><em>Population Ecology · Raptor Research · Conservation Genomics</em></p>
     <p>
-      I am currently studying <strong>Golden Eagle ecology, survival, and population dynamics</strong>, 
+      I am currently studying Golden Eagle ecology, survival, and population dynamics, 
       combining field ecology with statistical modeling as well as novel genomic approaches to better understand the potential drivers of 
       population decline.
     </p>
@@ -29,5 +29,5 @@ population dynamics and inform conservation strategies.
 
 ## Affiliations
 
-**[Your Lab Name]**  
-Department of [X], [University Name]
+**[Heath Lab]**  
+Department of Biological Sciences, [Boise State University]
