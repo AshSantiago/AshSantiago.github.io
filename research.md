@@ -6,9 +6,7 @@ title: Research
 ## Research
 
 <p style="color: #6b6259; font-size: 1rem; line-height: 1.8; margin-bottom: 2.5rem; max-width: 680px;">
-My research focuses on understanding the factors that influence survival and population dynamics 
-in Golden Eagles (<em>Aquila chrysaetos</em>), combining long-term field monitoring with 
-statistical modeling and genomic approaches.
+My research focuses on understanding the factors that influence survival and population dynamics in Golden Eagles (<em>Aquila chrysaetos</em>), combining long-term field monitoring with statistical modeling and genomic approaches.
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.5rem; margin-top: 1rem; align-items: stretch;">
