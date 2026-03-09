@@ -212,12 +212,16 @@
   </main>
 
   <!-- FOOTER -->
-  <footer class="site-footer">
-    <div class="site-wrapper">
-      <span>{{ site.title }} · {{ site.description }}</span>
-      <span>© {{ 'now' | date: "%Y" }}</span>
-    </div>
-  </footer>
+<footer style="border-top: 1px solid #dde6d5; background: #f0f4ec; padding: 2rem 0; margin-top: 3rem;">
+  <div class="wrapper" style="display: flex; flex-direction: column; align-items: center; gap: 0.25rem; text-align: center;">
+    <p style="font-family: 'Playfair Display', serif; font-size: 1rem; color: #4a3f35; margin: 0; font-weight: 600;">Ashley Santiago</p>
+    <p style="font-size: 0.82rem; color: #6b6259; margin: 0;">PhD Student · Ecology, Evolution, and Behavior Program</p>
+    <p style="font-size: 0.82rem; color: #6b6259; margin: 0;">Department of Biological Sciences · Raptor Research Center</p>
+    <p style="font-size: 0.82rem; color: #6b6259; margin: 0;">Boise State University</p>
+    <a href="mailto:ashleysantiago@u.boisestate.edu" style="font-size: 0.82rem; color: #7a8c6e; margin-top: 0.4rem; text-decoration: none;">ashleysantiago@u.boisestate.edu</a>
+    <p style="font-size: 0.75rem; color: #8c7f72; margin-top: 0.6rem;">© {{ site.time | date: '%Y' }} Ashley Santiago</p>
+  </div>
+</footer>
 
 </body>
 </html>
