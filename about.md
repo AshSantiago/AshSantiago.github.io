@@ -7,12 +7,13 @@ title: About
   <img src="../assets/profile.jpg" alt="Ashley Santiago in the field"
        style="width: 100%; height: 100%; object-fit: cover; object-position: center 30%;"
        onerror="this.parentElement.style.background='#a8b89a'; this.style.display='none';">
-<div style="position: absolute; bottom: 1.5rem; left: 1.5rem;">
-  <div style="display: inline-block; background: rgba(247,243,238,0.82); backdrop-filter: blur(4px); padding: 1rem 1.4rem; border-radius: 6px;">
-    <h1 style="color: #4a3f35; margin: 0; font-size: 1.9rem;">Ashley Santiago</h1>
-    <p style="color: #6b6259; margin: 0.25rem 0 0; font-style: italic; font-size: 0.88rem;">
-      Ecologist · Golden Eagle Research · Quantitative Ecology · Conservation Genomics
-    </p>
+  <div style="position: absolute; bottom: 1.5rem; left: 1.5rem;">
+    <div style="display: inline-block; background: rgba(247,243,238,0.82); backdrop-filter: blur(4px); padding: 1rem 1.4rem; border-radius: 6px;">
+      <h1 style="color: #4a3f35; margin: 0; font-size: 1.9rem;">Ashley Santiago</h1>
+      <p style="color: #6b6259; margin: 0.25rem 0 0; font-style: italic; font-size: 0.88rem;">
+        Ecologist · Golden Eagle Research · Quantitative Ecology · Conservation Genomics
+      </p>
+    </div>
   </div>
 </div>
 
