@@ -14,7 +14,7 @@ title: Home
 <!-- Profile photo + Bio -->
 <div style="max-width: 720px; margin: 0 auto 2.5rem; display: flex; align-items: flex-start; gap: 2rem;">
   <img src="assets/profile.jpg" alt="Ashley Santiago"
-       style="width: 140px; height: 140px; object-fit: cover; object-position: center top; border-radius: 50%; flex-shrink: 0; box-shadow: 3px 3px 14px rgba(74,63,53,0.15); border: 3px solid #dde6d5;">
+       style="width: 190px; height: 190px; object-fit: cover; object-position: center top; border-radius: 50%; flex-shrink: 0; box-shadow: 3px 3px 14px rgba(74,63,53,0.15); border: 3px solid #dde6d5;">
   <div>
     <h1 style="margin-top: 0.2rem; margin-bottom: 0.3rem;">Ashley Santiago</h1>
     <p style="margin: 0 0 0.8rem; color: #6b6259; font-style: italic; font-size: 0.95rem;">Ph.D. Student · Ecology, Evolution, and Behavior · Boise State University</p>
