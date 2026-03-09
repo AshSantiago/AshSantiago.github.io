@@ -45,8 +45,8 @@ title: Home
         </svg>
       </div>
       <div style="text-align: center;">
-        <p style="font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #7a8c6e; margin: 0 0 0.2rem;">Territory</p>
-        <p style="font-size: 0.88rem; color: #4a3f35; margin: 0; font-weight: 600;">Occupancy</p>
+      <p style="font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #7a8c6e; font-family: 'Lora', serif; margin: 0 0 0.2rem;">Territory</p>
+      <p style="font-size: 0.95rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600;">Occupancy</p>
       </div>
     </a>
 
@@ -59,22 +59,25 @@ title: Home
         </svg>
       </div>
       <div style="text-align: center;">
-        <p style="font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #7a8c6e; margin: 0 0 0.2rem;">Juvenile</p>
-        <p style="font-size: 0.88rem; color: #4a3f35; margin: 0; font-weight: 600;">Survival</p>
+      <p style="font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #7a8c6e; font-family: 'Lora', serif; margin: 0 0 0.2rem;">Territory</p>
+      <p style="font-size: 0.95rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600;">Occupancy</p>
       </div>
     </a>
 
-    <a href="research-turnover" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 160px;">
-      <div style="width: 140px; height: 140px; border-radius: 50%; background: #dde6d5; border: 3px solid #a8b89a; display: flex; align-items: center; justify-content: center; transition: all 0.2s; overflow: hidden;"
+      <a href="research-turnover" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 160px;">
+      <div style="width: 140px; height: 140px; border-radius: 50%; background: #dde6d5; border: 3px solid #a8b89a; display: flex; align-items: center; justify-content: center; transition: all 0.2s;"
            onmouseover="this.style.borderColor='#7a8c6e'; this.style.boxShadow='0 6px 20px rgba(122,140,110,0.25)'; this.style.transform='translateY(-4px)'"
            onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
         <svg width="52" height="52" viewBox="0 0 24 24" fill="none" stroke="#7a8c6e" stroke-width="1.2" xmlns="http://www.w3.org/2000/svg">
-          <circle cx="12" cy="12" r="3"/><path d="M20.188 10.934a8.77 8.77 0 1 1-.001 2.132"/><polyline points="21 7 21 11 17 11"/>
+          <path d="M6 3c0 4 4 4 4 8s-4 4-4 8"/>
+          <path d="M18 3c0 4-4 4-4 8s4 4 4 8"/>
+          <path d="M6 8h12"/>
+          <path d="M6 16h12"/>
         </svg>
       </div>
       <div style="text-align: center;">
-        <p style="font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #7a8c6e; margin: 0 0 0.2rem;">Conservation</p>
-        <p style="font-size: 0.88rem; color: #4a3f35; margin: 0; font-weight: 600;">Genomics</p>
+        <p style="font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #7a8c6e; font-family: 'Lora', serif; margin: 0 0 0.2rem;">Adult</p>
+        <p style="font-size: 0.95rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600;">Turnover</p>
       </div>
     </a>
 
