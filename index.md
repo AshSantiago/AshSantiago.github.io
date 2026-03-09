@@ -36,49 +36,47 @@ title: Home
 
   <div style="display: flex; justify-content: center; gap: 2.5rem; flex-wrap: wrap; margin-bottom: 1.8rem;">
 
+    <!-- Territory Occupancy -->
     <a href="research-occupancy" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 160px;">
-      <div style="width: 140px; height: 140px; border-radius: 50%; background: #dde6d5; border: 3px solid #a8b89a; display: flex; align-items: center; justify-content: center; transition: all 0.2s; overflow: hidden;"
+      <div style="width: 140px; height: 140px; border-radius: 50%; background: #dde6d5; border: 3px solid #a8b89a; display: flex; align-items: center; justify-content: center; transition: all 0.2s;"
            onmouseover="this.style.borderColor='#7a8c6e'; this.style.boxShadow='0 6px 20px rgba(122,140,110,0.25)'; this.style.transform='translateY(-4px)'"
            onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
         <svg width="52" height="52" viewBox="0 0 24 24" fill="none" stroke="#7a8c6e" stroke-width="1.2" xmlns="http://www.w3.org/2000/svg">
           <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/>
         </svg>
       </div>
-      <div style="text-align: center;">
-      <p style="font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #7a8c6e; font-family: 'Lora', serif; margin: 0 0 0.2rem;">Territory</p>
-      <p style="font-size: 0.95rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600;">Occupancy</p>
-      </div>
+      <p style="font-size: 0.92rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Territory Occupancy</p>
     </a>
 
+    <!-- First-year Survival -->
     <a href="research-survival" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 160px;">
-      <div style="width: 140px; height: 140px; border-radius: 50%; background: #dde6d5; border: 3px solid #a8b89a; display: flex; align-items: center; justify-content: center; transition: all 0.2s; overflow: hidden;"
+      <div style="width: 140px; height: 140px; border-radius: 50%; background: #dde6d5; border: 3px solid #a8b89a; display: flex; align-items: center; justify-content: center; transition: all 0.2s;"
            onmouseover="this.style.borderColor='#7a8c6e'; this.style.boxShadow='0 6px 20px rgba(122,140,110,0.25)'; this.style.transform='translateY(-4px)'"
            onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
         <svg width="52" height="52" viewBox="0 0 24 24" fill="none" stroke="#7a8c6e" stroke-width="1.2" xmlns="http://www.w3.org/2000/svg">
           <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
         </svg>
       </div>
-      <div style="text-align: center;">
-      <p style="font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #7a8c6e; font-family: 'Lora', serif; margin: 0 0 0.2rem;">Territory</p>
-      <p style="font-size: 0.95rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600;">Occupancy</p>
-      </div>
+      <p style="font-size: 0.92rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">First-year Survival</p>
     </a>
 
-      <a href="research-turnover" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 160px;">
+    <!-- Adult Turnover -->
+    <a href="research-turnover" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 160px;">
       <div style="width: 140px; height: 140px; border-radius: 50%; background: #dde6d5; border: 3px solid #a8b89a; display: flex; align-items: center; justify-content: center; transition: all 0.2s;"
            onmouseover="this.style.borderColor='#7a8c6e'; this.style.boxShadow='0 6px 20px rgba(122,140,110,0.25)'; this.style.transform='translateY(-4px)'"
            onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
-        <svg width="52" height="52" viewBox="0 0 24 24" fill="none" stroke="#7a8c6e" stroke-width="1.2" xmlns="http://www.w3.org/2000/svg">
-          <path d="M6 3c0 4 4 4 4 8s-4 4-4 8"/>
-          <path d="M18 3c0 4-4 4-4 8s4 4 4 8"/>
-          <path d="M6 8h12"/>
-          <path d="M6 16h12"/>
+        <!-- Clean DNA helix icon -->
+        <svg width="48" height="52" viewBox="0 0 48 52" fill="none" stroke="#7a8c6e" stroke-width="1.4" stroke-linecap="round" xmlns="http://www.w3.org/2000/svg">
+          <path d="M12 4 C20 10, 28 10, 36 4"/>
+          <path d="M12 48 C20 42, 28 42, 36 48"/>
+          <path d="M12 4 C4 12, 4 20, 12 26 C20 32, 36 32, 36 26 C36 20, 20 14, 12 20 C4 26, 4 34, 12 40 C20 46, 28 46, 36 40"/>
+          <path d="M36 4 C44 12, 44 20, 36 26 C28 32, 12 32, 12 26 C12 20, 28 14, 36 20 C44 26, 44 34, 36 40 C28 46, 20 46, 12 40"/>
+          <line x1="14" y1="15" x2="34" y2="15"/>
+          <line x1="10" y1="26" x2="38" y2="26"/>
+          <line x1="14" y1="37" x2="34" y2="37"/>
         </svg>
       </div>
-      <div style="text-align: center;">
-        <p style="font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #7a8c6e; font-family: 'Lora', serif; margin: 0 0 0.2rem;">Adult</p>
-        <p style="font-size: 0.95rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600;">Turnover</p>
-      </div>
+      <p style="font-size: 0.92rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Adult Turnover</p>
     </a>
 
   </div>
