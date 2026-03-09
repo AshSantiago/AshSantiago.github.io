@@ -5,23 +5,45 @@ title: CV
 
 # Curriculum Vitae
 
-<p style="color: var(--muted); font-size: 0.9rem;">
+<p style="color: #8c7f72; font-size: 0.9rem;">
 ashleysantiago@u.boisestate.edu · 630-335-4195 · Boise State University, 1910 University Dr., Boise, ID 83725
 </p>
 
-<a href="assets/Ashley_Santiago_CV.pdf" style="display: inline-block; margin: 0.5rem 0 2rem; padding: 0.5rem 1.2rem; background: var(--sage-mist); border: 1px solid var(--sage-light); color: var(--bark); border-radius: 4px; font-size: 0.85rem; letter-spacing: 0.05em;">↓ Download PDF</a>
+<a href="assets/Ashley_Santiago_CV.pdf" style="display: inline-block; margin: 0.5rem 0 2rem; padding: 0.5rem 1.2rem; background: #f0f4ec; border: 1px solid #a8b89a; color: #4a3f35; border-radius: 4px; font-size: 0.85rem; letter-spacing: 0.05em; text-decoration: none;">↓ Download PDF</a>
 
 ---
 
 ## Education
 
-**Ph.D. – Ecology, Evolution, and Behavior** · Boise State University · Aug 2024–May 2028 (expected)
-*"Quantifying Age-specific Stressors on Declining Apex Predator Species (Aquila chrysaetos)"*
+<div style="display: flex; flex-direction: column; gap: 1.4rem; margin-bottom: 2rem;">
 
-**M.S. – Raptor Biology** · Boise State University · Jan 2022–Aug 2024
-*"Landscape Changes and Declines in Golden Eagle (Aquila chrysaetos) Territory Occupancy in Southwestern Idaho"*
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Ph.D. – Ecology, Evolution, and Behavior</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Aug 2024–May 2028 (expected)</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.3rem;">Boise State University</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0; font-style: italic;">"Quantifying Age-specific Stressors on Declining Apex Predator Species (Aquila chrysaetos)"</p>
+  </div>
 
-**B.S. – Zoology** · University of Wisconsin–Madison · Sep 2012–May 2016
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">M.S. – Raptor Biology</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Jan 2022–Aug 2024</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.3rem;">Boise State University</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0; font-style: italic;">"Landscape Changes and Declines in Golden Eagle (Aquila chrysaetos) Territory Occupancy in Southwestern Idaho"</p>
+  </div>
+
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">B.S. – Zoology</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Sep 2012–May 2016</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0;">University of Wisconsin–Madison</p>
+  </div>
+
+</div>
 
 ---
 
@@ -146,141 +168,351 @@ Heath, J.A., Davis, C.M., Dudek, B.M., McClure, C.J.W., Myers, K.T., Regnier, E.
 
 ## Presentations
 
-### 2025
+<div style="display: flex; flex-direction: column; gap: 2rem; margin-bottom: 2rem;">
 
-- Presentation. "Depressed First-Year Survival of Golden Eagles (*Aquila chrysaetos*) in Southwestern Idaho." Raptor Research Foundation Annual Meeting. San Jose, Costa Rica. (with J. Cruz, K.T. Myers, K.S. Warner, M.J. Stuber, and J.A. Heath)
-- Presentation. "Is there an association between land cover and home range size of Golden Eagles in southern Idaho?" Raptor Research Foundation Annual Meeting. San Jose, Costa Rica. Presented by J.A. Heath.
-- Presentation. "Nesting Phenology and Ectoparasite Presence Affect the Length of the Post-fledging Dependence Period of Golden Eagles (*Aquila chrysaetos*)." Raptor Research Foundation Annual Meeting. San Jose, Costa Rica. Presented by K.T. Myers.
-- Presentation & Poster. "Quantifying Age-specific Stressors on a Declining Apex Predator Species (*Aquila chrysaetos*) in Southwestern Idaho." Boise State Graduate Student Showcase. Boise, ID.
+  <div>
+    <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.6rem;">2025</p>
+    <div style="display: flex; flex-direction: column; gap: 0.6rem;">
+      <p style="font-size: 0.9rem; color: #6b6259; margin: 0; padding-left: 1rem; border-left: 2px solid #dde6d5;">"Depressed First-Year Survival of Golden Eagles (<em>Aquila chrysaetos</em>) in Southwestern Idaho." Raptor Research Foundation Annual Meeting. San Jose, Costa Rica. (with J. Cruz, K.T. Myers, K.S. Warner, M.J. Stuber, and J.A. Heath)</p>
+      <p style="font-size: 0.9rem; color: #6b6259; margin: 0; padding-left: 1rem; border-left: 2px solid #dde6d5;">"Is there an association between land cover and home range size of Golden Eagles in southern Idaho?" Raptor Research Foundation Annual Meeting. San Jose, Costa Rica. <em>Presented by J.A. Heath.</em></p>
+      <p style="font-size: 0.9rem; color: #6b6259; margin: 0; padding-left: 1rem; border-left: 2px solid #dde6d5;">"Nesting Phenology and Ectoparasite Presence Affect the Length of the Post-fledging Dependence Period of Golden Eagles (<em>Aquila chrysaetos</em>)." Raptor Research Foundation Annual Meeting. San Jose, Costa Rica. <em>Presented by K.T. Myers.</em></p>
+      <p style="font-size: 0.9rem; color: #6b6259; margin: 0; padding-left: 1rem; border-left: 2px solid #dde6d5;">Presentation & Poster. "Quantifying Age-specific Stressors on a Declining Apex Predator Species (<em>Aquila chrysaetos</em>) in Southwestern Idaho." Boise State Graduate Student Showcase. Boise, ID.</p>
+    </div>
+  </div>
 
-### 2024
+  <div>
+    <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.6rem;">2024</p>
+    <div style="display: flex; flex-direction: column; gap: 0.6rem;">
+      <p style="font-size: 0.9rem; color: #6b6259; margin: 0; padding-left: 1rem; border-left: 2px solid #dde6d5;">"Associations Between Landscape Changes and Declines in Golden Eagle Territory Occupancy in the Morley Nelson Snake River Birds of Prey NCA." NCA Symposium. Boise, ID.</p>
+      <p style="font-size: 0.9rem; color: #6b6259; margin: 0; padding-left: 1rem; border-left: 2px solid #dde6d5;">"Mitigating threats to nestling Golden Eagle survival and health: A prescription for the treatment of nest ectoparasites and disease." NCA Symposium. Boise, ID.</p>
+      <p style="font-size: 0.9rem; color: #6b6259; margin: 0; padding-left: 1rem; border-left: 2px solid #dde6d5;">"Associations Between Landscape Changes and Declines in Golden Eagle Territory Occupancy." American Ornithological Society Annual Meeting. Estes Park, CO.</p>
+      <p style="font-size: 0.9rem; color: #6b6259; margin: 0; padding-left: 1rem; border-left: 2px solid #dde6d5;">Thesis Defense. Boise State University.</p>
+    </div>
+  </div>
 
-- Presentation. "Associations Between Landscape Changes and Declines in Golden Eagle Territory Occupancy in the Morley Nelson Snake River Birds of Prey NCA." NCA Symposium. Boise, ID.
-- Presentation. "Mitigating threats to nestling Golden Eagle survival and health: A prescription for the treatment of nest ectoparasites and disease." NCA Symposium. Boise, ID.
-- Presentation. "Associations Between Landscape Changes and Declines in Golden Eagle Territory Occupancy." American Ornithological Society Annual Meeting. Estes Park, CO.
-- Presentation. Thesis Defense. Boise State University.
+  <div>
+    <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.6rem;">2023</p>
+    <div style="display: flex; flex-direction: column; gap: 0.6rem;">
+      <p style="font-size: 0.9rem; color: #6b6259; margin: 0; padding-left: 1rem; border-left: 2px solid #dde6d5;">"Changes in Habitat and Golden Eagle Territory Occupancy in the Morley Nelson Snake River Birds of Prey NCA from 2000–2022." Raptor Research Foundation Annual Meeting. Albuquerque, NM.</p>
+      <p style="font-size: 0.9rem; color: #6b6259; margin: 0; padding-left: 1rem; border-left: 2px solid #dde6d5;">"Mitigating threats to nestling Golden Eagle survival and health." Raptor Research Foundation Annual Meeting. Albuquerque, NM. <em>Presented by J.A. Heath.</em></p>
+      <p style="font-size: 0.9rem; color: #6b6259; margin: 0; padding-left: 1rem; border-left: 2px solid #dde6d5;">Poster. "Effects of Diet on Golden Eagle Nestling Health, Post-fledging Survival, and Dispersal in Southwestern Idaho." Raptor Research Foundation Annual Meeting. Albuquerque, NM. <em>Poster by K.T. Myers.</em></p>
+    </div>
+  </div>
 
-### 2023
+  <div>
+    <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.6rem;">2022</p>
+    <div style="display: flex; flex-direction: column; gap: 0.6rem;">
+      <p style="font-size: 0.9rem; color: #6b6259; margin: 0; padding-left: 1rem; border-left: 2px solid #dde6d5;">"The Effect of Land Cover on Golden Eagle Territory Occupancy in the Morley Nelson Snake River NCA." NCA Symposium. Boise, ID.</p>
+      <p style="font-size: 0.9rem; color: #6b6259; margin: 0; padding-left: 1rem; border-left: 2px solid #dde6d5;">"The Effect of Land Cover on Golden Eagle Territory Occupancy in the Morley Nelson Snake River NCA." Raptor Research Conference. Fort Lauderdale, FL.</p>
+      <p style="font-size: 0.9rem; color: #6b6259; margin: 0; padding-left: 1rem; border-left: 2px solid #dde6d5;">Presentation & Poster. "Declines in a Common Species: Changes in Golden Eagle Population in the Morley Nelson Snake River Birds of Prey NCA." Boise State Graduate Student Showcase. Boise, ID.</p>
+      <p style="font-size: 0.9rem; color: #6b6259; margin: 0; padding-left: 1rem; border-left: 2px solid #dde6d5;">"What intensive survey methods reveal about the Golden Eagle fledging stage and implications for demography estimates." Raptor Research Foundation Annual Meeting. Fort Lauderdale, FL. <em>Presented by C.M. Davis.</em></p>
+    </div>
+  </div>
 
-- Presentation. "Changes in Habitat and Golden Eagle Territory Occupancy in the Morley Nelson Snake River Birds of Prey NCA from 2000–2022." Raptor Research Foundation Annual Meeting. Albuquerque, NM.
-- Presentation. "Mitigating threats to nestling Golden Eagle survival and health." Raptor Research Foundation Annual Meeting. Albuquerque, NM. Presented by J.A. Heath.
-- Poster. "Effects of Diet on Golden Eagle Nestling Health, Post-fledging Survival, and Dispersal in Southwestern Idaho." Raptor Research Foundation Annual Meeting. Albuquerque, NM. Poster by K.T. Myers.
-
-### 2022
-
-- Presentation. "The Effect of Land Cover on Golden Eagle Territory Occupancy in the Morley Nelson Snake River NCA." NCA Symposium. Boise, ID.
-- Presentation. "The Effect of Land Cover on Golden Eagle Territory Occupancy in the Morley Nelson Snake River NCA." Raptor Research Conference. Fort Lauderdale, FL.
-- Presentation & Poster. "Declines in a Common Species: Changes in Golden Eagle Population in the Morley Nelson Snake River Birds of Prey NCA." Boise State Graduate Student Showcase. Boise, ID.
-- Presentation. "What intensive survey methods reveal about the Golden Eagle fledging stage and implications for demography estimates." Raptor Research Foundation Annual Meeting. Fort Lauderdale, FL. Presented by C.M. Davis.
+</div>
 
 ---
 
 ## Grants & Awards
 
-### 2025
-- COAS Travel Grant · $500 · Boise State University
-- Keppler Birds of Prey Scholarship · $900 · Boise State University
+<div style="display: flex; flex-direction: column; gap: 2rem; margin-bottom: 2rem;">
 
-### 2024
-- EEB Travel Grant · $600 · Boise State University
-- ASBSU Travel Grant · $800 · Boise State University
-- Keppler Birds of Prey Scholarship · $900 · Boise State University
-- Richard Olendorff Idaho Chapter of the Wildlife Society Scholarship · $280
-- American Ornithological Society Travel Grant · $300
+  <div>
+    <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.6rem;">2025</p>
+    <div style="display: flex; flex-direction: column; gap: 0.4rem;">
+      <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+        <span style="font-size: 0.9rem; color: #4a3f35;">COAS Travel Grant · Boise State University</span>
+        <span style="color: #8c7f72; font-size: 0.85rem;">$500</span>
+      </div>
+      <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+        <span style="font-size: 0.9rem; color: #4a3f35;">Keppler Birds of Prey Scholarship · Boise State University</span>
+        <span style="color: #8c7f72; font-size: 0.85rem;">$900</span>
+      </div>
+    </div>
+  </div>
 
-### 2023
-- COAS Travel Grant · $500 · Boise State University
-- Keppler Birds of Prey Scholarship · $900 · Boise State University
-- AOS Student Membership Award · Boise State University
+  <div>
+    <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.6rem;">2024</p>
+    <div style="display: flex; flex-direction: column; gap: 0.4rem;">
+      <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+        <span style="font-size: 0.9rem; color: #4a3f35;">EEB Travel Grant · Boise State University</span>
+        <span style="color: #8c7f72; font-size: 0.85rem;">$600</span>
+      </div>
+      <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+        <span style="font-size: 0.9rem; color: #4a3f35;">ASBSU Travel Grant · Boise State University</span>
+        <span style="color: #8c7f72; font-size: 0.85rem;">$800</span>
+      </div>
+      <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+        <span style="font-size: 0.9rem; color: #4a3f35;">Keppler Birds of Prey Scholarship · Boise State University</span>
+        <span style="color: #8c7f72; font-size: 0.85rem;">$900</span>
+      </div>
+      <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+        <span style="font-size: 0.9rem; color: #4a3f35;">Richard Olendorff Idaho Chapter of the Wildlife Society Scholarship</span>
+        <span style="color: #8c7f72; font-size: 0.85rem;">$280</span>
+      </div>
+      <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+        <span style="font-size: 0.9rem; color: #4a3f35;">American Ornithological Society Travel Grant</span>
+        <span style="color: #8c7f72; font-size: 0.85rem;">$300</span>
+      </div>
+    </div>
+  </div>
 
-### 2022
-- ASBSU Travel Grant · $400 · Boise State University
-- Trustee Fellowship in Raptor Biology Award · $1,500 · Raptor Research Center
+  <div>
+    <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.6rem;">2023</p>
+    <div style="display: flex; flex-direction: column; gap: 0.4rem;">
+      <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+        <span style="font-size: 0.9rem; color: #4a3f35;">COAS Travel Grant · Boise State University</span>
+        <span style="color: #8c7f72; font-size: 0.85rem;">$500</span>
+      </div>
+      <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+        <span style="font-size: 0.9rem; color: #4a3f35;">Keppler Birds of Prey Scholarship · Boise State University</span>
+        <span style="color: #8c7f72; font-size: 0.85rem;">$900</span>
+      </div>
+      <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+        <span style="font-size: 0.9rem; color: #4a3f35;">AOS Student Membership Award · American Ornithological Society</span>
+        <span style="color: #8c7f72; font-size: 0.85rem;">membership</span>
+      </div>
+    </div>
+  </div>
+
+  <div>
+    <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.6rem;">2022</p>
+    <div style="display: flex; flex-direction: column; gap: 0.4rem;">
+      <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+        <span style="font-size: 0.9rem; color: #4a3f35;">ASBSU Travel Grant · Boise State University</span>
+        <span style="color: #8c7f72; font-size: 0.85rem;">$400</span>
+      </div>
+      <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+        <span style="font-size: 0.9rem; color: #4a3f35;">Trustee Fellowship in Raptor Biology Award · Raptor Research Center</span>
+        <span style="color: #8c7f72; font-size: 0.85rem;">$1,500</span>
+      </div>
+    </div>
+  </div>
+
+</div>
 
 ---
 
 ## Teaching
 
-**BIOL697: Introduction to R** · Quantitative Teaching Assistant · Boise State University · Aug 2024–Present
+<div style="display: flex; flex-direction: column; gap: 1.4rem; margin-bottom: 2rem;">
 
-**BIOL228: Human Anatomy and Physiology** · Graduate Teaching Assistant · Boise State University · Jan 2022–Dec 2024
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">BIOL697: Introduction to R</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Aug 2024–Present</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0;">Quantitative Teaching Assistant · Boise State University</p>
+  </div>
 
-**Comparative Anatomy of Vertebrates** · Undergraduate Teaching Assistant · University of Wisconsin–Madison · Jan–May 2016
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">BIOL228: Human Anatomy and Physiology</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Jan 2022–Dec 2024</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0;">Graduate Teaching Assistant · Boise State University</p>
+  </div>
+
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Comparative Anatomy of Vertebrates</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Jan–May 2016</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0;">Undergraduate Teaching Assistant · University of Wisconsin–Madison</p>
+  </div>
+
+</div>
 
 ---
 
 ## Mentorship
 
-**Ava Simonich**, B.S. Student · Aug–Dec 2025
-Taught basic laboratory skills including PCR and gel electrophoresis for Golden Eagle genetic sexing.
+<div style="display: flex; flex-direction: column; gap: 1.4rem; margin-bottom: 2rem;">
 
-**Hannah Rudd**, B.S. Student · Aug–Dec 2022
-"Quantifying Eagle Nest Visitation Using Motion Sensing Nest Cameras." Vertically Integrated Program Showcase. Boise, ID.
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Ava Simonich</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Aug–Dec 2025</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.3rem;">B.S. Student · Boise State University</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">Taught basic laboratory skills including PCR and gel electrophoresis for Golden Eagle genetic sexing.</p>
+  </div>
+
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Hannah Rudd</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Aug–Dec 2022</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.3rem;">B.S. Student · Boise State University</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">"Quantifying Eagle Nest Visitation Using Motion Sensing Nest Cameras." Vertically Integrated Program Showcase. Boise, ID.</p>
+  </div>
+
+</div>
 
 ---
 
 ## Outreach
 
-**STEM Day Volunteer** · Engineering and Science Festival · Feb 2025 & 2026
+<div style="display: flex; flex-direction: column; gap: 1.4rem; margin-bottom: 2rem;">
 
-**Earth Week Presenter** · Friends of the Owyhee · 17 Apr 2023
-"Golden Eagles in the Owyhees." Homedale, ID.
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">STEM Day Volunteer</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Feb 2025 & 2026</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0;">Engineering and Science Festival</p>
+  </div>
 
-**Environmental Educator** · American Bald Eagle Foundation · May 2016–May 2017
-Mentor for the Youth Raptor Program.
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Earth Week Presenter</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Apr 2023</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.3rem;">Friends of the Owyhee · Homedale, ID</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">"Golden Eagles in the Owyhees."</p>
+  </div>
+
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Environmental Educator</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">May 2016–May 2017</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.3rem;">American Bald Eagle Foundation</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">Mentor for the Youth Raptor Program.</p>
+  </div>
+
+</div>
 
 ---
 
 ## Workshops & Training
 
-- Wilderness First Aid Certification. Boise, ID. Mar 2025.
-- "Modeling distribution, abundance, demography, and population dynamics using R, JAGS, and NIMBLE." IMEDEA, Mallorca, Spain. Oct 2024. Instructors: Michael Schaub, Marc Kéry, José Jimenez.
-- CITI Training Certified. Mar 2018–present.
+<div style="display: flex; flex-direction: column; gap: 1.2rem; margin-bottom: 2rem;">
+
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Wilderness First Aid Certification</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Mar 2025</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0;">Boise, ID</p>
+  </div>
+
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">Modeling distribution, abundance, demography, and population dynamics using R, JAGS, and NIMBLE</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Oct 2024</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.3rem;">IMEDEA · Mallorca, Spain</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">Instructors: Michael Schaub, Marc Kéry, José Jimenez.</p>
+  </div>
+
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 0.98rem;">CITI Training Certified</strong>
+      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Mar 2018–present</span>
+    </div>
+  </div>
+
+</div>
 
 ---
 
 ## Service
 
-- Reviewer, *The Southwestern Naturalist* · 2025
-- Reviewer, *Ibis* · 2024
-- Moderator, Women in Raptor Research and Conservation · 2023–Present
-- Member, American Ornithological Society · 2023–Present
-- Member, The Wildlife Society · 2023–Present
-- Moderator, Raptor Research Foundation Annual Meeting · 2022, 2025
-- Member, Raptor Research Foundation · 2019–Present
+<div style="display: flex; flex-direction: column; gap: 0.5rem; margin-bottom: 2rem;">
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+    <span style="font-size: 0.9rem; color: #4a3f35;">Reviewer, <em>The Southwestern Naturalist</em></span>
+    <span style="color: #8c7f72; font-size: 0.85rem;">2025</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+    <span style="font-size: 0.9rem; color: #4a3f35;">Reviewer, <em>Ibis</em></span>
+    <span style="color: #8c7f72; font-size: 0.85rem;">2024</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+    <span style="font-size: 0.9rem; color: #4a3f35;">Moderator, Women in Raptor Research and Conservation</span>
+    <span style="color: #8c7f72; font-size: 0.85rem;">2023–Present</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+    <span style="font-size: 0.9rem; color: #4a3f35;">Member, American Ornithological Society</span>
+    <span style="color: #8c7f72; font-size: 0.85rem;">2023–Present</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+    <span style="font-size: 0.9rem; color: #4a3f35;">Member, The Wildlife Society</span>
+    <span style="color: #8c7f72; font-size: 0.85rem;">2023–Present</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+    <span style="font-size: 0.9rem; color: #4a3f35;">Moderator, Raptor Research Foundation Annual Meeting</span>
+    <span style="color: #8c7f72; font-size: 0.85rem;">2022, 2025</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0.3rem;">
+    <span style="font-size: 0.9rem; color: #4a3f35;">Member, Raptor Research Foundation</span>
+    <span style="color: #8c7f72; font-size: 0.85rem;">2019–Present</span>
+  </div>
+</div>
 
 ---
 
 ## Permits
 
-**Federal Bird Banding Permit No. 23307** (sub-permitted)
-Authorized to band American Kestrels and Golden Eagles with special authorization to take, possess, and transport feathers, blood samples, and place auxiliary markers (transmitters) in AK, AZ, CA, FL, GA, ID, IN, KS, NE, NV, NM, NY, NC, ND, TX, and WA.
-
-**USFWS Eagle Scientific Collecting Permit No. MB41892B** (sub-permitted)
-Authorized to collect golden eagle carcasses, feathers, and non-viable eggs nationwide.
-
-**Idaho Department of Fish and Game Scientific Collecting Permit No. 108257** (sub-permitted)
-Authorized to sample, collect, and band/mark American Kestrels and Golden Eagles in ID.
+<div style="display: flex; flex-direction: column; gap: 1.2rem; margin-bottom: 2rem;">
+  <div>
+    <strong style="color: #4a3f35; font-size: 0.98rem;">Federal Bird Banding Permit No. 23307</strong>
+    <span style="color: #7a8c6e; font-size: 0.85rem;"> (sub-permitted)</span>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0.3rem 0 0;">Authorized to band American Kestrels and Golden Eagles with special authorization to take, possess, and transport feathers, blood samples, and place auxiliary markers (transmitters) in AK, AZ, CA, FL, GA, ID, IN, KS, NE, NV, NM, NY, NC, ND, TX, and WA.</p>
+  </div>
+  <div>
+    <strong style="color: #4a3f35; font-size: 0.98rem;">USFWS Eagle Scientific Collecting Permit No. MB41892B</strong>
+    <span style="color: #7a8c6e; font-size: 0.85rem;"> (sub-permitted)</span>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0.3rem 0 0;">Authorized to collect golden eagle carcasses, feathers, and non-viable eggs nationwide.</p>
+  </div>
+  <div>
+    <strong style="color: #4a3f35; font-size: 0.98rem;">Idaho Dept. of Fish and Game Scientific Collecting Permit No. 108257</strong>
+    <span style="color: #7a8c6e; font-size: 0.85rem;"> (sub-permitted)</span>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0.3rem 0 0;">Authorized to sample, collect, and band/mark American Kestrels and Golden Eagles in ID.</p>
+  </div>
+</div>
 
 ---
 
 ## Skills
 
-**Field** · Cliff-nesting raptor surveys · Migration counts · Raptor capture and processing · Blood collection and sample processing · GPS transmitter deployment and telemetry · Rappelling and rope access · Backcountry fieldwork
-
-**Laboratory** · DNA extraction (Qiagen kits; lithium-chloride chloroform) · PCR · Gel electrophoresis · Illumina sequencing preparation · DNA quantification (NanoDrop, Qubit)
-
-**Computational** · R and Bash programming · Bayesian modeling (JAGS) · Occupancy, survival, and multistate models · High-performance computing · GitHub · Reproducible research
+<div style="display: flex; flex-direction: column; gap: 1rem; margin-bottom: 2rem;">
+  <div>
+    <strong style="color: #4a3f35; font-size: 0.95rem;">Field</strong>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0.3rem 0 0;">Cliff-nesting raptor surveys · Migration counts · Raptor capture and processing · Blood collection and sample processing · GPS transmitter deployment and telemetry · Rappelling and rope access · Backcountry fieldwork</p>
+  </div>
+  <div>
+    <strong style="color: #4a3f35; font-size: 0.95rem;">Laboratory</strong>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0.3rem 0 0;">DNA extraction (Qiagen kits; lithium-chloride chloroform) · PCR · Gel electrophoresis · Illumina sequencing preparation · DNA quantification (NanoDrop, Qubit)</p>
+  </div>
+  <div>
+    <strong style="color: #4a3f35; font-size: 0.95rem;">Computational</strong>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0.3rem 0 0;">R and Bash programming · Bayesian modeling (JAGS) · Occupancy, survival, and multistate models · High-performance computing · GitHub · Reproducible research</p>
+  </div>
+</div>
 
 ---
 
 ## References
 
-**Julie Heath** · Advisor, Boise State University
-julieheath@boisestate.edu · 208-426-3208
+<div style="display: flex; flex-direction: column; gap: 1.4rem; margin-bottom: 2rem;">
 
-**Dave Oleyar** · Long Term Monitoring & Community Science Director, HawkWatch International
-doleyar@hawkwatch.org
+  <div>
+    <strong style="color: #4a3f35; font-size: 0.98rem;">Julie Heath</strong>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.2rem;">Advisor · Boise State University</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">julieheath@boisestate.edu · 208-426-3208</p>
+  </div>
 
-**Allen Fish** · Director, Golden Gate Raptor Observatory
-afish@parksconservancy.org · 415-426-5292
+  <div>
+    <strong style="color: #4a3f35; font-size: 0.98rem;">Dave Oleyar</strong>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.2rem;">Long Term Monitoring & Community Science Director · HawkWatch International</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">doleyar@hawkwatch.org</p>
+  </div>
+
+  <div>
+    <strong style="color: #4a3f35; font-size: 0.98rem;">Allen Fish</strong>
+    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.2rem;">Director · Golden Gate Raptor Observatory</p>
+    <p style="font-size: 0.9rem; color: #6b6259; margin: 0;">afish@parksconservancy.org · 415-426-5292</p>
+  </div>
+
+</div>
