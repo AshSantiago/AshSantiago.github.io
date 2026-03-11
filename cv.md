@@ -5,11 +5,11 @@ title: CV
 
 # Curriculum Vitae
 
-<p style="color: #8c7f72; font-size: 0.9rem;">
+<p style="color: #8c7f72; font-size: 1rem;">
 ashleysantiago@u.boisestate.edu · 630-335-4195 · Boise State University, 1910 University Dr., Boise, ID 83725
 </p>
 
-<a href="assets/Ashley_Santiago_CV.pdf" style="display: inline-block; margin: 0.5rem 0 2rem; padding: 0.5rem 1.2rem; background: #f0f4ec; border: 1px solid #a8b89a; color: #4a3f35; border-radius: 4px; font-size: 0.85rem; letter-spacing: 0.05em; text-decoration: none;">↓ Download PDF</a>
+<a href="assets/Ashley_Santiago_CV.pdf" style="display: inline-block; margin: 0.5rem 0 2rem; padding: 0.5rem 1.2rem; background: #f0f4ec; border: 1px solid #a8b89a; color: #4a3f35; border-radius: 4px; font-size: 1rem; letter-spacing: 0.05em; text-decoration: none;">↓ Download PDF</a>
 
 ---
 
@@ -19,11 +19,11 @@ ashleysantiago@u.boisestate.edu · 630-335-4195 · Boise State University, 1910 
 
   <div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
-      <strong style="color: #4a3f35; font-size: 0.98rem;">Ph.D. – Ecology, Evolution, and Behavior</strong>
-      <span style="color: #8c7f72; font-size: 0.85rem; white-space: nowrap;">Aug 2024–May 2028 (expected)</span>
+      <strong style="color: #4a3f35; font-size: 1.08rem;">Ph.D. – Ecology, Evolution, and Behavior</strong>
+      <span style="color: #8c7f72; font-size: 0.95rem; white-space: nowrap;">Aug 2024–May 2028 (expected)</span>
     </div>
-    <p style="color: #7a8c6e; font-size: 0.88rem; margin: 0.1rem 0 0.3rem;">Boise State University</p>
-    <p style="font-size: 0.9rem; color: #6b6259; margin: 0; font-style: italic;">"Quantifying Age-specific Stressors on Declining Apex Predator Species (Aquila chrysaetos)"</p>
+    <p style="color: #7a8c6e; font-size: 0.98rem; margin: 0.1rem 0 0.3rem;">Boise State University</p>
+    <p style="font-size: 1rem; color: #6b6259; margin: 0; font-style: italic;">"Quantifying Age-specific Stressors on Declining Apex Predator Species (Aquila chrysaetos)"</p>
   </div>
 
   <div>
