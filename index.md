@@ -18,7 +18,7 @@ title: Home
   <div>
     <h1 style="margin-top: 0.2rem; margin-bottom: 0.3rem;">Ashley Santiago</h1>
     <p style="margin: 0 0 0.8rem; color: #6b6259; font-style: italic; font-size: 0.95rem;">Ph.D. Student · Ecology, Evolution, and Behavior · Boise State University</p>
-    <p style="font-size: 0.97rem; line-height: 1.8; margin: 0;">
+    <p style="font-size: 1.1rem; line-height: 1.8; margin: 0;">
       I am studying <strong>Golden Eagle ecology, survival, and population dynamics</strong>, combining field ecology with 
       statistical modeling and novel genomic approaches to understand the potential drivers of population decline and inform 
       conservation strategies.I work in the <a href="https://www.heathlab.com" target="_blank">Heath Lab</a> at Boise State University.
