@@ -5,7 +5,7 @@ title: Research
 
 ## Research
 
-<p style="color: #6b6259; font-size: 1rem; line-height: 1.8; margin-bottom: 2.5rem; max-width: 680px;">
+<p style="color: #6b6259; font-size: 1.2rem; line-height: 1.8; margin-bottom: 2.5rem; max-width: 680px;">
 My research focuses on understanding the factors that influence survival and population dynamics in Golden Eagles (<em>Aquila chrysaetos</em>), combining long-term field monitoring with statistical modeling and genomic approaches.
 </p>
 
@@ -17,9 +17,9 @@ My research focuses on understanding the factors that influence survival and pop
         <img src="../assets/research-occupancy.jpg" alt="Territory Occupancy" style="width: 100%; height: 100%; object-fit: cover;" onerror="this.style.display='none'; this.parentElement.innerHTML='<div style=\'display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;gap:0.5rem;color:#4a3f35\'><svg width=\'40\' height=\'40\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'currentColor\' stroke-width=\'1.2\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9 22 9 12 15 12 15 22\'/></svg><span style=\'font-size:0.7rem;letter-spacing:0.1em;text-transform:uppercase;opacity:0.6\'>photo coming soon</span></div>';">
       </div>
       <div style="padding: 1.3rem 1.4rem 1.5rem;">
-        <p style="font-size: 0.7rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.4rem; font-family: 'Lora', serif;">Territory Ecology</p>
-        <h3 style="font-family: 'Playfair Display', serif; color: #4a3f35; font-size: 1.15rem; margin: 0 0 0.6rem;">Territory Occupancy</h3>
-        <p style="font-size: 0.88rem; color: #6b6259; line-height: 1.65; margin: 0;">How landscape features and conspecific neighbor density influence the probability of breeding territory occupancy in Southwestern Idaho.</p>
+        <p style="font-size: 0.88rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.4rem; font-family: 'Lora', serif;">Territory Ecology</p>
+        <h3 style="font-family: 'Playfair Display', serif; color: #4a3f35; font-size: 1.3rem; margin: 0 0 0.6rem;">Territory Occupancy</h3>
+        <p style="font-size: 1rem; color: #6b6259; line-height: 1.65; margin: 0;">How landscape features and conspecific neighbor density influence the probability of breeding territory occupancy in Southwestern Idaho.</p>
       </div>
     </div>
   </a>
@@ -30,9 +30,9 @@ My research focuses on understanding the factors that influence survival and pop
         <img src="../assets/research-survival.jpg" alt="First-Year Survival" style="width: 100%; height: 100%; object-fit: cover;" onerror="this.style.display='none'; this.parentElement.innerHTML='<div style=\'display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;gap:0.5rem;color:#4a3f35\'><svg width=\'40\' height=\'40\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'currentColor\' stroke-width=\'1.2\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9 22 9 12 15 12 15 22\'/></svg><span style=\'font-size:0.7rem;letter-spacing:0.1em;text-transform:uppercase;opacity:0.6\'>photo coming soon</span></div>';">
       </div>
       <div style="padding: 1.3rem 1.4rem 1.5rem;">
-        <p style="font-size: 0.7rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.4rem; font-family: 'Lora', serif;">Survival Analysis</p>
-        <h3 style="font-family: 'Playfair Display', serif; color: #4a3f35; font-size: 1.15rem; margin: 0 0 0.6rem;">First-Year Survival</h3>
-        <p style="font-size: 0.88rem; color: #6b6259; line-height: 1.65; margin: 0;">Assessing how nest ectoparasites and disease affect first-year survival probability using Bayesian multistate modeling.</p>
+        <p style="font-size: 0.88rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.4rem; font-family: 'Lora', serif;">Survival Analysis</p>
+        <h3 style="font-family: 'Playfair Display', serif; color: #4a3f35; font-size: 1.3rem; margin: 0 0 0.6rem;">First-Year Survival</h3>
+        <p style="font-size: 1rem; color: #6b6259; line-height: 1.65; margin: 0;">Assessing how nest ectoparasites and disease affect first-year survival probability using Bayesian multistate modeling.</p>
       </div>
     </div>
   </a>
@@ -43,9 +43,9 @@ My research focuses on understanding the factors that influence survival and pop
         <img src="../assets/research-genomics.jpg" alt="Adult Turnover" style="width: 100%; height: 100%; object-fit: cover;" onerror="this.style.display='none'; this.parentElement.innerHTML='<div style=\'display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;gap:0.5rem;color:#4a3f35\'><svg width=\'40\' height=\'40\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'currentColor\' stroke-width=\'1.2\'><path d=\'M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\'/><polyline points=\'9 22 9 12 15 12 15 22\'/></svg><span style=\'font-size:0.7rem;letter-spacing:0.1em;text-transform:uppercase;opacity:0.6\'>photo coming soon</span></div>';">
       </div>
       <div style="padding: 1.3rem 1.4rem 1.5rem;">
-        <p style="font-size: 0.7rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.4rem; font-family: 'Lora', serif;">Population Genomics</p>
-        <h3 style="font-family: 'Playfair Display', serif; color: #4a3f35; font-size: 1.15rem; margin: 0 0 0.6rem;">Adult Turnover</h3>
-        <p style="font-size: 0.88rem; color: #6b6259; line-height: 1.65; margin: 0;">Using a genomic mark-recapture approach to evaluate adult turnover rates and estimate breeding adult survival.</p>
+        <p style="font-size: 0.88rem; letter-spacing: 0.15em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.4rem; font-family: 'Lora', serif;">Population Genomics</p>
+        <h3 style="font-family: 'Playfair Display', serif; color: #4a3f35; font-size: 1.3rem; margin: 0 0 0.6rem;">Adult Turnover</h3>
+        <p style="font-size: 1rem; color: #6b6259; line-height: 1.65; margin: 0;">Using a genomic mark-recapture approach to evaluate adult turnover rates and estimate breeding adult survival.</p>
       </div>
     </div>
   </a>
