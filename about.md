@@ -17,7 +17,7 @@ title: About
   </div>
 </div>
 
-<div style="max-width: 720px; margin: 0 auto;">
+<div style="max-width: 900px; margin: 0 auto;">
 
   <p style="font-size: 1rem; line-height: 1.85;">
     I am a Ph.D. student in the Ecology, Evolution, and Behavior program at Boise State University studying 
