@@ -12,7 +12,7 @@ title: Home
 </div>
 
 <!-- Profile photo + Bio -->
-<div style="max-width: 720px; margin: 0 auto 2.5rem; display: flex; align-items: flex-start; gap: 2rem;">
+<div style="max-width: 900px; margin: 0 auto 2.5rem; display: flex; align-items: flex-start; gap: 2rem;">
   <img src="assets/profile.jpg" alt="Ashley Santiago"
        style="width: 250px; height: 250px; object-fit: cover; object-position: center top; border-radius: 50%; flex-shrink: 0; box-shadow: 3px 3px 14px rgba(74,63,53,0.15); border: 3px solid #dde6d5;">
   <div>
@@ -29,7 +29,7 @@ title: Home
 <hr style="border: none; border-top: 1px solid #dde6d5; margin: 0 auto 2.5rem; max-width: 720px;">
 
 <!-- Research circles -->
-<div style="max-width: 720px; margin: 0 auto 2.5rem;">
+<div style="max-width: 900px; margin: 0 auto 2.5rem;">
   <h2 style="font-size: 1.25rem; margin-bottom: 0.6rem;">Research</h2>
   <p style="font-size: 1rem; line-height: 1.75; margin-bottom: 2rem;">My work integrates field data, statistical modeling, and genomics to understand raptor population dynamics and inform conservation management.</p>
 
