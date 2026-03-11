@@ -30,8 +30,8 @@ title: Home
 
 <!-- Research circles -->
 <div style="max-width: 900px; margin: 0 auto 2.5rem;">
-  <h2 style="font-size: 1.25rem; margin-bottom: 0.6rem;">Research</h2>
-  <p style="font-size: 1rem; line-height: 1.75; margin-bottom: 2rem;">My work integrates field data, statistical modeling, and genomics to understand raptor population dynamics and inform conservation management.</p>
+  <h2 style="font-size: 1.3rem; margin-bottom: 0.6rem;">Research</h2>
+  <p style="font-size: 1.2rem; line-height: 1.75; margin-bottom: 2rem;">My work integrates field data, statistical modeling, and genomics to understand raptor population dynamics and inform conservation management.</p>
 
   <div style="display: flex; justify-content: center; gap: 2.5rem; flex-wrap: wrap; margin-bottom: 1.8rem;">
 
@@ -44,7 +44,7 @@ title: Home
           <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/>
         </svg>
       </div>
-      <p style="font-size: 0.92rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Territory Occupancy</p>
+      <p style="font-size: 1rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Territory Occupancy</p>
     </a>
 
     <!-- First-year Survival -->
@@ -56,7 +56,7 @@ title: Home
           <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
         </svg>
       </div>
-      <p style="font-size: 0.92rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">First-year Survival</p>
+      <p style="font-size: 1rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">First-year Survival</p>
     </a>
 
     <!-- Adult Turnover -->
@@ -78,12 +78,12 @@ title: Home
       <line x1="13" y1="43" x2="31" y2="46"/>
     </svg>
       </div>
-      <p style="font-size: 0.92rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Adult Turnover</p>
+      <p style="font-size: 1rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Adult Turnover</p>
     </a>
 
   </div>
 
-  <p style="font-size: 0.9rem; margin: 0; text-align: center;">
+  <p style="font-size: 1rem; margin: 0; text-align: center;">
     <a href="research" style="color: #7a8c6e;">→ View all research projects</a>
   </p>
 </div>
