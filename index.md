@@ -30,8 +30,8 @@ title: Home
 
 <!-- Research circles -->
 <div style="max-width: 900px; margin: 0 auto 2.5rem;">
-  <h2 style="font-size: 1.25rem; margin-bottom: 0.6rem;">Research</h2>
-  <p style="font-size: 1rem; line-height: 1.75; margin-bottom: 2rem;">My work integrates field data, statistical modeling, and genomics to understand raptor population dynamics and inform conservation management.</p>
+  <h2 style="font-size: 1.35rem; margin-bottom: 0.6rem;">Research</h2>
+  <p style="font-size: 1.1rem; line-height: 1.75; margin-bottom: 2rem;">My work integrates field data, statistical modeling, and genomics to understand raptor population dynamics and inform conservation management.</p>
 
   <div style="display: flex; justify-content: center; gap: 2.5rem; flex-wrap: wrap; margin-bottom: 1.8rem;">
 
@@ -42,7 +42,7 @@ title: Home
            onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
         <img src="/assets/occupancy.png" alt="Territory Occupancy" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
-      <p style="font-size: 0.95rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Territory Occupancy</p>
+      <p style="font-size: 1.05rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Territory Occupancy</p>
     </a>
 
     <!-- First-year Survival -->
@@ -52,7 +52,7 @@ title: Home
            onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
         <img src="/assets/nestling.png" alt="First-year Survival" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
-      <p style="font-size: 0.95rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">First-year Survival</p>
+      <p style="font-size: 1.05rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">First-year Survival</p>
     </a>
 
     <!-- Adult Turnover -->
@@ -62,12 +62,12 @@ title: Home
            onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
         <img src="/assets/adult.png" alt="Adult Turnover" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
-      <p style="font-size: 0.95rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Adult Turnover</p>
+      <p style="font-size: 1.05rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Adult Turnover</p>
     </a>
 
   </div>
 
-  <p style="font-size: 0.9rem; margin: 0; text-align: center;">
+  <p style="font-size: 1rem; margin: 0; text-align: center;">
     <a href="research" style="color: #7a8c6e;">→ View all research projects</a>
   </p>
 </div>
