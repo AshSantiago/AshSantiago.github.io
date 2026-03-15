@@ -40,7 +40,7 @@ title: Home
       <div style="width: 180px; height: 180px; border-radius: 50%; background: #dde6d5; border: 3px solid #a8b89a; display: flex; align-items: center; justify-content: center; transition: all 0.2s;"
            onmouseover="this.style.borderColor='#7a8c6e'; this.style.boxShadow='0 6px 20px rgba(122,140,110,0.25)'; this.style.transform='translateY(-4px)'"
            onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
-        <img src="assets/occupancy.png" alt="Territory Occupancy" style="width: 160px; height: 160px; object-fit: contain;">
+        <img src="/assets/occupancy.png" alt="Territory Occupancy" style="width: 160px; height: 160px; object-fit: contain;">
       </div>
       <p style="font-size: 0.95rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Territory Occupancy</p>
     </a>
@@ -50,7 +50,7 @@ title: Home
       <div style="width: 180px; height: 180px; border-radius: 50%; background: #dde6d5; border: 3px solid #a8b89a; display: flex; align-items: center; justify-content: center; transition: all 0.2s;"
            onmouseover="this.style.borderColor='#7a8c6e'; this.style.boxShadow='0 6px 20px rgba(122,140,110,0.25)'; this.style.transform='translateY(-4px)'"
            onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
-        <img src="assets/nestling.png" alt="First-year Survival" style="width: 160px; height: 160px; object-fit: contain;">
+        <img src="/assets/nestling.png" alt="First-year Survival" style="width: 160px; height: 160px; object-fit: contain;">
       </div>
       <p style="font-size: 0.95rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">First-year Survival</p>
     </a>
@@ -60,7 +60,7 @@ title: Home
       <div style="width: 180px; height: 180px; border-radius: 50%; background: #dde6d5; border: 3px solid #a8b89a; display: flex; align-items: center; justify-content: center; transition: all 0.2s;"
            onmouseover="this.style.borderColor='#7a8c6e'; this.style.boxShadow='0 6px 20px rgba(122,140,110,0.25)'; this.style.transform='translateY(-4px)'"
            onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
-        <img src="assets/adult.png" alt="Adult Turnover" style="width: 160px; height: 160px; object-fit: contain;">
+        <img src="/assets/adult.png" alt="Adult Turnover" style="width: 160px; height: 160px; object-fit: contain;">
       </div>
       <p style="font-size: 0.95rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Adult Turnover</p>
     </a>
