@@ -37,11 +37,11 @@ title: Home
 
     <!-- Territory Occupancy -->
 <a href="research-occupancy" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 200px;">
-  <div style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; transition: all 0.2s;"
-       onmouseover="this.style.boxShadow='0 6px 20px rgba(122,140,110,0.45)'; this.style.transform='translateY(-4px)'"
-       onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
-    <img src="/assets/occupancy.png" style="width: 100%; height: 100%; object-fit: cover; display: block;">
-  </div>
+<div style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; transition: all 0.2s;"
+     onmouseover="this.style.boxShadow='0 6px 20px rgba(122,140,110,0.45)'; this.style.transform='translateY(-4px)'"
+     onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+  <img src="/assets/occupancy.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.35); transform-origin: center;">
+</div>
   <p style="font-size: 1.1rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Territory Occupancy</p>
 </a>
 
