@@ -35,36 +35,35 @@ title: Home
 
   <div style="display: flex; justify-content: center; gap: 2.5rem; flex-wrap: wrap; margin-bottom: 1.8rem;">
 
-    <!-- Territory Occupancy -->
+   <!-- Territory Occupancy -->
 <a href="research-occupancy" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 200px;">
-<div style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; transition: all 0.2s;"
-     onmouseover="this.style.boxShadow='0 6px 20px rgba(122,140,110,0.45)'; this.style.transform='translateY(-4px)'"
-     onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
-  <img src="/assets/occupancy.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.35); transform-origin: center;">
-</div>
-  <p style="font-size: 1.1rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Territory Occupancy</p>
+  <div style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; transition: all 0.2s;"
+       onmouseover="this.style.boxShadow='0 6px 20px rgba(122,140,110,0.45)'; this.style.transform='translateY(-4px)'"
+       onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+    <img src="/assets/occupancy.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.2); transform-origin: center;">
+  </div>
+  <p style="font-size: 0.95rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Territory Occupancy</p>
 </a>
 
-    <!-- First-year Survival -->
-    <a href="research-survival" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 200px;">
-<div style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; transition: all 0.2s;"
-     onmouseover="this.style.boxShadow='0 6px 20px rgba(122,140,110,0.45)'; this.style.transform='translateY(-4px)'"
-     onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
-  <img src="/assets/nestling.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.35); transform-origin: center;">
-</div>
-      <p style="font-size: 1.1rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">First-year Survival</p>
-    </a>
+<!-- First-year Survival -->
+<a href="research-survival" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 200px;">
+  <div style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; transition: all 0.2s;"
+       onmouseover="this.style.boxShadow='0 6px 20px rgba(122,140,110,0.45)'; this.style.transform='translateY(-4px)'"
+       onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+    <img src="/assets/nestling.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.2); transform-origin: center;">
+  </div>
+  <p style="font-size: 0.95rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">First-year Survival</p>
+</a>
 
-    <!-- Adult Turnover -->
-    <a href="research-turnover" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 200px;">
-      <div style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; transition: all 0.2s;"
-     onmouseover="this.style.boxShadow='0 6px 20px rgba(122,140,110,0.45)'; this.style.transform='translateY(-4px)'"
-     onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
-  <img src="/assets/adult.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.35); transform-origin: center;">
-</div>
-      <p style="font-size: 1.1rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Adult Turnover</p>
-    </a>
-
+<!-- Adult Turnover -->
+<a href="research-turnover" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 200px;">
+  <div style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; transition: all 0.2s;"
+       onmouseover="this.style.boxShadow='0 6px 20px rgba(122,140,110,0.45)'; this.style.transform='translateY(-4px)'"
+       onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+    <img src="/assets/adult.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.2); transform-origin: center;">
+  </div>
+  <p style="font-size: 0.95rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Adult Turnover</p>
+</a>
   </div>
 
   <p style="font-size: 1rem; margin: 0; text-align: center;">
