@@ -30,39 +30,36 @@ title: Home
 
 <!-- Research circles -->
 <div style="max-width: 900px; margin: 0 auto 2.5rem;">
-  <h2 style="font-size: 1.35rem; margin-bottom: 0.6rem;">Research</h2>
-  <p style="font-size: 1.1rem; line-height: 1.75; margin-bottom: 2rem;">My work integrates field data, statistical modeling, and genomics to understand raptor population dynamics and inform conservation management.</p>
+  <h2 style="font-size: 1.4rem; margin-bottom: 0.6rem;">Research</h2>
+  <p style="font-size: 1rem; line-height: 1.75; margin-bottom: 2rem;">My work integrates field data, statistical modeling, and genomics to understand raptor population dynamics and inform conservation management.</p>
 
   <div style="display: flex; justify-content: center; gap: 2.5rem; flex-wrap: wrap; margin-bottom: 1.8rem;">
 
     <!-- Territory Occupancy -->
     <a href="research-occupancy" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 200px;">
-      <div style="width: 180px; height: 180px; border-radius: 50%; background: #dde6d5; border: 3px solid #a8b89a; display: flex; align-items: center; justify-content: center; transition: all 0.2s; overflow: hidden;"
-           onmouseover="this.style.borderColor='#7a8c6e'; this.style.boxShadow='0 6px 20px rgba(122,140,110,0.25)'; this.style.transform='translateY(-4px)'"
-           onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
-        <img src="/assets/occupancy.png" alt="Territory Occupancy" style="width: 100%; height: 100%; object-fit: cover;">
-      </div>
-      <p style="font-size: 1.05rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Territory Occupancy</p>
+      <img src="/assets/occupancy.png" alt="Territory Occupancy"
+           style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; transition: all 0.2s;"
+           onmouseover="this.style.boxShadow='0 6px 20px rgba(122,140,110,0.35)'; this.style.transform='translateY(-4px)'"
+           onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+      <p style="font-size: 1.1rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Territory Occupancy</p>
     </a>
 
     <!-- First-year Survival -->
     <a href="research-survival" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 200px;">
-      <div style="width: 180px; height: 180px; border-radius: 50%; background: #dde6d5; border: 3px solid #a8b89a; display: flex; align-items: center; justify-content: center; transition: all 0.2s; overflow: hidden;"
-           onmouseover="this.style.borderColor='#7a8c6e'; this.style.boxShadow='0 6px 20px rgba(122,140,110,0.25)'; this.style.transform='translateY(-4px)'"
-           onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
-        <img src="/assets/nestling.png" alt="First-year Survival" style="width: 100%; height: 100%; object-fit: cover;">
-      </div>
-      <p style="font-size: 1.05rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">First-year Survival</p>
+      <img src="/assets/nestling.png" alt="First-year Survival"
+           style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; transition: all 0.2s;"
+           onmouseover="this.style.boxShadow='0 6px 20px rgba(122,140,110,0.35)'; this.style.transform='translateY(-4px)'"
+           onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+      <p style="font-size: 1.1rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">First-year Survival</p>
     </a>
 
     <!-- Adult Turnover -->
     <a href="research-turnover" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 200px;">
-      <div style="width: 180px; height: 180px; border-radius: 50%; background: #dde6d5; border: 3px solid #a8b89a; display: flex; align-items: center; justify-content: center; transition: all 0.2s; overflow: hidden;"
-           onmouseover="this.style.borderColor='#7a8c6e'; this.style.boxShadow='0 6px 20px rgba(122,140,110,0.25)'; this.style.transform='translateY(-4px)'"
-           onmouseout="this.style.borderColor='#a8b89a'; this.style.boxShadow='none'; this.style.transform='translateY(0)'">
-        <img src="/assets/adult.png" alt="Adult Turnover" style="width: 100%; height: 100%; object-fit: cover;">
-      </div>
-      <p style="font-size: 1.05rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Adult Turnover</p>
+      <img src="/assets/adult.png" alt="Adult Turnover"
+           style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; transition: all 0.2s;"
+           onmouseover="this.style.boxShadow='0 6px 20px rgba(122,140,110,0.35)'; this.style.transform='translateY(-4px)'"
+           onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
+      <p style="font-size: 1.1rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Adult Turnover</p>
     </a>
 
   </div>
