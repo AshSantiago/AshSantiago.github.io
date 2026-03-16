@@ -70,7 +70,7 @@ title: Territory Occupancy
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: start;">
     <div>
       <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden; margin-bottom: 0.7rem;">
-        <img src="/assets/shrub_map.png" alt="Map of shrub cover across eagle territories in 2022"
+        <img src="/assets/NCA_terr_buff_topo.png" alt="Map of shrub cover across eagle territories in 2022"
              style="width: 100%; display: block;"
              onerror="this.style.display='none'; this.parentElement.style.minHeight='300px'; this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.innerHTML='<p style=\'color:#8c7f72; font-size:0.85rem; padding:1.5rem; text-align:center;\'>Map: shrub cover across territories<br><span style=\'font-size:0.78rem; opacity:0.7\'>(add your map here)</span></p>';">
       </div>
@@ -129,12 +129,12 @@ title: Territory Occupancy
     </div>
     <div>
       <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden; margin-bottom: 0.7rem;">
-        <img src="/assets/occupancy_map.png" alt="Map of territory occupancy"
+        <img src="/assets/Occ_vac.png" alt="Map of territory occupancy"
              style="width: 100%; display: block;"
              onerror="this.style.display='none'; this.parentElement.style.minHeight='300px'; this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.innerHTML='<p style=\'color:#8c7f72; font-size:0.85rem; padding:1.5rem; text-align:center;\'>Map: territory occupancy across the NCA<br><span style=\'font-size:0.78rem; opacity:0.7\'>(add your map here)</span></p>';">
       </div>
       <p style="font-size: 0.82rem; color: #8c7f72; font-style: italic; line-height: 1.5;">
-        Occupancy status of the 36 Golden Eagle territories, showing the spatial arrangement of occupied and vacant territories across the NCA.
+        Occupancy status of the 36 Golden Eagle territories, showing the occupied and vacant territories across the NCA in 2022.
       </p>
     </div>
   </div>
@@ -152,7 +152,7 @@ title: Territory Occupancy
     adaptively use the landscape.
   </p>
   <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden; margin-bottom: 0.7rem;">
-    <img src="/assets/individual_occupancy.png" alt="Individual territory occupancy over time"
+    <img src="/assets/OccxTime_byTerr.png" alt="Individual territory occupancy over time"
          style="width: 100%; display: block;"
          onerror="this.style.display='none'; this.parentElement.style.minHeight='320px'; this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.innerHTML='<p style=\'color:#8c7f72; font-size:0.85rem; padding:1.5rem; text-align:center;\'>Plot: individual territory occupancy probability over time<br><span style=\'font-size:0.78rem; opacity:0.7\'>(add your figure here)</span></p>';">
   </div>
@@ -172,7 +172,7 @@ title: Territory Occupancy
     vacant.
   </p>
   <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden; margin-bottom: 0.7rem;">
-    <img src="/assets/occupancy_trend.png" alt="Overall occupancy trend over time"
+    <img src="/assets/occupancy_decline.png" alt="Overall occupancy trend over time"
          style="width: 100%; display: block;"
          onerror="this.style.display='none'; this.parentElement.style.minHeight='300px'; this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.innerHTML='<p style=\'color:#8c7f72; font-size:0.85rem; padding:1.5rem; text-align:center;\'>Plot: overall decline in occupancy probability 1986–2022<br><span style=\'font-size:0.78rem; opacity:0.7\'>(add your figure here)</span></p>';">
   </div>
