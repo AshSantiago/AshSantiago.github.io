@@ -487,7 +487,7 @@ Heath, J.A., Davis, C.M., Dudek, B.M., McClure, C.J.W., Myers, K.T., Regnier, E.
   </div>
   <div>
     <strong style="color: #4a3f35; font-size: 1.05rem;">Computational</strong>
-    <p style="font-size: 1rem; color: #6b6259; margin: 0.3rem 0 0;">R and Bash programming · Bayesian modeling (JAGS) · Occupancy, survival, and multistate models · High-performance computing · GitHub · Reproducible research</p>
+    <p style="font-size: 1rem; color: #6b6259; margin: 0.3rem 0 0;">R and Bash programming · Bayesian modeling (JAGS) · Occupancy, survival, and multistate models · High-performance computing · GitHub · ArcGIS Pro · QGIS · Reproducible research</p>
   </div>
 </div>
 
