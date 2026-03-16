@@ -36,8 +36,8 @@ title: Home
   <div style="display: flex; justify-content: center; gap: 2.5rem; flex-wrap: wrap; margin-bottom: 1.8rem;">
 
    <!-- Territory Occupancy -->
-<a href="research-occupancy" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 200px;">
-<div style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; transition: all 0.2s;"
+<a href="research-occupancy" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 280px;">
+<div style="width: 260px; height: 260px; border-radius: 50%; overflow: hidden; transition: all 0.2s;"
      onmouseover="this.style.filter='drop-shadow(0 6px 10px rgba(122,140,110,0.5))'; this.style.transform='translateY(-4px)'"
      onmouseout="this.style.filter='none'; this.style.transform='translateY(0)'">
     <img src="/assets/occupancy.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.2); transform-origin: center;">
@@ -46,8 +46,8 @@ title: Home
 </a>
 
 <!-- First-year Survival -->
-<a href="research-survival" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 200px;">
-<div style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; transition: all 0.2s;"
+<a href="research-survival" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 280px;">
+<div style="width: 260px; height: 260px; border-radius: 50%; overflow: hidden; transition: all 0.2s;"
      onmouseover="this.style.filter='drop-shadow(0 6px 10px rgba(122,140,110,0.5))'; this.style.transform='translateY(-4px)'"
      onmouseout="this.style.filter='none'; this.style.transform='translateY(0)'">
     <img src="/assets/nestling.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.2); transform-origin: center;">
@@ -56,8 +56,8 @@ title: Home
 </a>
 
 <!-- Adult Turnover -->
-<a href="research-turnover" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 200px;">
-<div style="width: 180px; height: 180px; border-radius: 50%; overflow: hidden; transition: all 0.2s;"
+<a href="research-turnover" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 280px;">
+<div style="width: 260px; height: 260px; border-radius: 50%; overflow: hidden; transition: all 0.2s;"
      onmouseover="this.style.filter='drop-shadow(0 6px 10px rgba(122,140,110,0.5))'; this.style.transform='translateY(-4px)'"
      onmouseout="this.style.filter='none'; this.style.transform='translateY(0)'">
     <img src="/assets/adult.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.2); transform-origin: center;">
