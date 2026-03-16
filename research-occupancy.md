@@ -4,186 +4,263 @@ title: Territory Occupancy
 ---
 
 <!-- Back link -->
-<p style="margin-bottom: 2rem;"><a href="/research" style="color: #7a8c6e; font-size: 0.9rem;">← Back to Research</a></p>
+<p style="margin-bottom: 2.5rem;"><a href="/research" style="color: #7a8c6e; font-size: 0.9rem;">← Back to Research</a></p>
 
-<!-- Title block -->
-<div style="margin-bottom: 2.5rem;">
-  <p style="font-size: 0.8rem; letter-spacing: 0.18em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 0.5rem;">Territory Ecology</p>
-  <h1 style="font-size: 2.4rem; margin-bottom: 0.8rem; line-height: 1.2;">Territory Occupancy</h1>
-  <p style="font-size: 1.15rem; color: #6b6259; line-height: 1.8; max-width: 780px;">
-    How landscape features and conspecific neighbor density influence the probability of breeding territory 
-    occupancy in <em>Aquila chrysaetos</em> across southwestern Idaho and the Morley Nelson Snake River 
-    Birds of Prey National Conservation Area.
+<!-- Bold opening question -->
+<div style="margin-bottom: 3.5rem;">
+  <p style="font-size: 0.8rem; letter-spacing: 0.18em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 1rem;">Territory Occupancy</p>
+  <h1 style="font-size: 2.8rem; line-height: 1.15; color: #4a3f35; margin-bottom: 1.2rem; max-width: 820px;">How do eagles respond to a drastically altered landscape?</h1>
+  <p style="font-size: 1.1rem; color: #6b6259; line-height: 1.85; max-width: 820px;">
+    Golden eagles in southwestern Idaho are tied to their preferred prey, black-tailed jackrabbits (<em>Lepus californicus</em>). Jackrabbits are a shrub-reliant species and are likely in decline considering sagebrush ecosystems are in peril. Altered fire regimes and annual grass invasions have led to a widespread reduction in shrub habitat. The bottom-up effects of habitat loss are likely felt even at the top of food chain. We wanted to know how Golden Eagles have been affected over time by these intense changes to their environment.
   </p>
-</div>
-
-<!-- Publication link -->
-<div style="background: #f0f4ec; border-left: 3px solid #7a8c6e; padding: 0.9rem 1.3rem; margin-bottom: 3rem; border-radius: 0 4px 4px 0; display: inline-block;">
-  <p style="font-size: 0.88rem; color: #4a3f35; margin: 0;">
-    <strong>Published:</strong> Santiago et al. (2025) · <em>Ornithological Applications</em> 128(1) · 
-    <a href="https://doi.org/10.1093/ornithapp/duaf054" target="_blank" style="color: #7a8c6e;">doi:10.1093/ornithapp/duaf054</a>
-  </p>
-</div>
-
-<hr style="border: none; border-top: 1px solid #dde6d5; margin-bottom: 3rem;">
-
-<!-- Key findings strip -->
-<div style="margin-bottom: 3rem;">
-  <h2 style="font-size: 1.1rem; letter-spacing: 0.08em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 1.2rem;">Key Findings</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">
-
-    <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; padding: 1.2rem 1.3rem; text-align: center;">
-      <p style="font-size: 2rem; font-family: 'Playfair Display', serif; color: #4a3f35; margin: 0 0 0.3rem; font-weight: 600;">25%</p>
-      <p style="font-size: 0.85rem; color: #6b6259; margin: 0; line-height: 1.5;">decline in occupancy probability from 1986–2022</p>
-    </div>
-
-    <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; padding: 1.2rem 1.3rem; text-align: center;">
-      <p style="font-size: 2rem; font-family: 'Playfair Display', serif; color: #4a3f35; margin: 0 0 0.3rem; font-weight: 600;">0.83→0.58</p>
-      <p style="font-size: 0.85rem; color: #6b6259; margin: 0; line-height: 1.5;">occupancy probability over 36 years</p>
-    </div>
-
-    <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; padding: 1.2rem 1.3rem; text-align: center;">
-      <p style="font-size: 2rem; font-family: 'Playfair Display', serif; color: #4a3f35; margin: 0 0 0.3rem; font-weight: 600;">36</p>
-      <p style="font-size: 0.85rem; color: #6b6259; margin: 0; line-height: 1.5;">territories monitored across the NCA</p>
-    </div>
-
-    <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; padding: 1.2rem 1.3rem; text-align: center;">
-      <p style="font-size: 2rem; font-family: 'Playfair Display', serif; color: #4a3f35; margin: 0 0 0.3rem; font-weight: 600;">0.90</p>
-      <p style="font-size: 0.85rem; color: #6b6259; margin: 0; line-height: 1.5;">detection probability in occupied territories</p>
-    </div>
-
+  <div style="margin-top: 1.5rem;">
+    <a href="https://doi.org/10.1093/ornithapp/duaf054" target="_blank" style="display: inline-block; background: #f0f4ec; border: 1px solid #a8b89a; color: #4a3f35; padding: 0.5rem 1.2rem; border-radius: 4px; font-size: 0.88rem; text-decoration: none;">
+      📄 Santiago et al. (2025) · <em>Ornithological Applications</em>
+    </a>
   </div>
 </div>
 
-<hr style="border: none; border-top: 1px solid #dde6d5; margin-bottom: 3rem;">
+<hr style="border: none; border-top: 1px solid #dde6d5; margin-bottom: 3.5rem;">
 
-<!-- Background -->
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; margin-bottom: 3rem; align-items: start;">
-  <div>
-    <h2 style="font-size: 1.3rem; margin-bottom: 1rem;">Background</h2>
-    <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35;">
-      Rapid loss of native shrubs and expansion of invasive annual plants like cheatgrass 
-      (<em>Bromus tectorum</em>) have altered North American shrub-steppe systems across extensive areas. 
-      Predators like Golden Eagles that forage on shrub-reliant prey may abandon historically occupied 
-      territories or increase their territory size to cope with degraded habitat.
-    </p>
-    <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35;">
-      We used a multi-season Bayesian occupancy model that accounted for imperfect detection to investigate 
-      associations between landscape cover, fire history, conspecific neighbor density, and occupancy 
-      from 1986–2022.
-    </p>
-  </div>
-  <div>
-    <img src="/assets/occupancy.png" alt="Territory Occupancy illustration" style="width: 100%; border-radius: 8px;">
-  </div>
-</div>
-
-<hr style="border: none; border-top: 1px solid #dde6d5; margin-bottom: 3rem;">
-
-<!-- Figures -->
-<div style="margin-bottom: 3rem;">
-  <h2 style="font-size: 1.3rem; margin-bottom: 0.5rem;">Study Area & Results</h2>
-  <p style="font-size: 1rem; color: #6b6259; margin-bottom: 2rem; line-height: 1.75;">
-    Territory locations and occupancy trends across the Morley Nelson Snake River Birds of Prey NCA.
-  </p>
-
-  <!-- Map -->
-  <div style="margin-bottom: 2rem;">
-    <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden;">
-      <img src="/assets/NCA_terr_buff_topo.png" alt="Map of study territories"
-           style="width: 100%; display: block;"
-           onerror="this.style.display='none'; this.parentElement.style.height='260px'; this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.innerHTML='<p style=\'color:#8c7f72; font-size:0.85rem;\'>Map coming soon</p>';">
-    </div>
-    <p style="font-size: 0.82rem; color: #8c7f72; margin-top: 0.6rem; font-style: italic;">
-      Figure 1. Map of the 36 Golden Eagle territories monitored in the Morley Nelson Snake River Birds of Prey NCA, southwestern Idaho.
-    </p>
-  </div>
-
-  <!-- Two figures side by side -->
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
+<!-- Background: fire cycle -->
+<div style="margin-bottom: 3.5rem;">
+  <h2 style="font-size: 1.5rem; margin-bottom: 1rem;">A Landscape in Crisis</h2>
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: center;">
     <div>
-      <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden;">
-        <img src="/assets/occupancy_decline.png" alt="Occupancy trend over time"
-             style="width: 100%; display: block;"
-             onerror="this.style.display='none'; this.parentElement.style.height='220px'; this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.innerHTML='<p style=\'color:#8c7f72; font-size:0.85rem;\'>Figure coming soon</p>';">
+      <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1rem;">
+    Increasing frequency and severity of wildfires in the West has drastically altered many sagebrush-steppe ecosystems. Sagebrush communities are slow to recover after fires, whereas annual grasses, like cheatgrass (<em>Bromus tectorum</em>), grow back quickly, outcompete native shrubs, and create fuel and ignition points for fires to spread. This perpetuates the cycle of shrub loss and annual grass expansion and creates a dangerous feedback cycle:
+      </p>
+      <div style="display: flex; flex-direction: column; gap: 0.7rem; margin-bottom: 1rem;">
+        <div style="display: flex; align-items: flex-start; gap: 0.8rem;">
+          <span style="background: #7a8c6e; color: white; border-radius: 50%; width: 24px; height: 24px; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; flex-shrink: 0; margin-top: 2px;">1</span>
+          <p style="margin: 0; font-size: 0.97rem; line-height: 1.7; color: #4a3f35;">Cheatgrass establishes in disturbed areas, creating dense, continuous fuel loads</p>
+        </div>
+        <div style="display: flex; align-items: flex-start; gap: 0.8rem;">
+          <span style="background: #7a8c6e; color: white; border-radius: 50%; width: 24px; height: 24px; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; flex-shrink: 0; margin-top: 2px;">2</span>
+          <p style="margin: 0; font-size: 0.97rem; line-height: 1.7; color: #4a3f35;">Fires spread faster and burn more frequently than the native shrub community can recover from</p>
+        </div>
+        <div style="display: flex; align-items: flex-start; gap: 0.8rem;">
+          <span style="background: #7a8c6e; color: white; border-radius: 50%; width: 24px; height: 24px; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; flex-shrink: 0; margin-top: 2px;">3</span>
+          <p style="margin: 0; font-size: 0.97rem; line-height: 1.7; color: #4a3f35;">Native shrubs fail to reestablish, and cheatgrass dominates the post-fire landscape</p>
+        </div>
+        <div style="display: flex; align-items: flex-start; gap: 0.8rem;">
+          <span style="background: #b8935a; color: white; border-radius: 50%; width: 24px; height: 24px; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; flex-shrink: 0; margin-top: 2px;">4</span>
+          <p style="margin: 0; font-size: 0.97rem; line-height: 1.7; color: #4a3f35;">Shrub-reliant prey — jackrabbits, ground squirrels, and other small mammals — decline as their habitat disappears</p>
+        </div>
       </div>
-      <p style="font-size: 0.82rem; color: #8c7f72; margin-top: 0.6rem; font-style: italic;">
-        Figure 2. Decline in Golden Eagle territory occupancy probability from 1986–2022.
+      <p style="font-size: 0.97rem; line-height: 1.85; color: #6b6259;">
+        For Golden Eagles, whose foraging success depends on prey that live in and around shrubs, this cycle has 
+        bottom-up consequences that ripple all the way up to territory occupancy.
       </p>
     </div>
     <div>
       <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden;">
-        <img src="/assets/occupancy_covariates.png" alt="Covariate effects on occupancy"
+        <img src="/assets/fire_cycle.png" alt="Annual grass-fire cycle diagram"
              style="width: 100%; display: block;"
-             onerror="this.style.display='none'; this.parentElement.style.height='220px'; this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.innerHTML='<p style=\'color:#8c7f72; font-size:0.85rem;\'>Figure coming soon</p>';">
+             onerror="this.style.display='none'; this.parentElement.style.minHeight='280px'; this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.innerHTML='<p style=\'color:#8c7f72; font-size:0.85rem; padding:1.5rem; text-align:center;\'>Graphic: annual grass–fire cycle<br><span style=\'font-size:0.78rem; opacity:0.7\'>(coming soon)</span></p>';">
       </div>
-      <p style="font-size: 0.82rem; color: #8c7f72; margin-top: 0.6rem; font-style: italic;">
-        Figure 3. Effects of landscape covariates on the probability of territory occupancy.
+    </div>
+  </div>
+</div>
+
+<hr style="border: none; border-top: 1px solid #dde6d5; margin-bottom: 3.5rem;">
+
+<!-- Methods: land cover -->
+<div style="margin-bottom: 3.5rem;">
+  <h2 style="font-size: 1.5rem; margin-bottom: 1rem;">Evaluating Territory Quality</h2>
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: start;">
+    <div>
+      <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden; margin-bottom: 0.7rem;">
+        <img src="/assets/shrub_map.png" alt="Map of shrub cover across eagle territories in 2022"
+             style="width: 100%; display: block;"
+             onerror="this.style.display='none'; this.parentElement.style.minHeight='300px'; this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.innerHTML='<p style=\'color:#8c7f72; font-size:0.85rem; padding:1.5rem; text-align:center;\'>Map: shrub cover across territories<br><span style=\'font-size:0.78rem; opacity:0.7\'>(add your map here)</span></p>';">
+      </div>
+      <p style="font-size: 0.82rem; color: #8c7f72; font-style: italic; line-height: 1.5;">
+        Shrub cover across the 36 Golden Eagle territories in the Morley Nelson Snake River Birds of Prey NCA, southwestern Idaho (2022).
+      </p>
+    </div>
+    <div>
+      <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1rem;">
+        We used a multi-season Bayesian occupancy model with imperfect detection to evaluate how landscape 
+        characteristics within 36 historically occupied territories predicted whether eagles were present in a 
+        given year across a 36-year monitoring period.
+      </p>
+      <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1.2rem;">
+        Territory quality was assessed using three land cover covariates extracted from remotely sensed data:
+      </p>
+      <div style="display: flex; flex-direction: column; gap: 0.65rem;">
+        <div style="padding: 0.8rem 1.1rem; background: #f0f4ec; border-left: 3px solid #7a8c6e; border-radius: 0 6px 6px 0;">
+          <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.15rem; font-size: 0.95rem;">🌿 Shrub Cover</p>
+          <p style="font-size: 0.88rem; color: #6b6259; margin: 0;">A proxy for habitat quality and prey availability</p>
+        </div>
+        <div style="padding: 0.8rem 1.1rem; background: #f0f4ec; border-left: 3px solid #b8935a; border-radius: 0 6px 6px 0;">
+          <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.15rem; font-size: 0.95rem;">🌾 Annual Herbaceous Cover</p>
+          <p style="font-size: 0.88rem; color: #6b6259; margin: 0;">An indicator of cheatgrass invasion and habitat degradation</p>
+        </div>
+        <div style="padding: 0.8rem 1.1rem; background: #f0f4ec; border-left: 3px solid #8c7f72; border-radius: 0 6px 6px 0;">
+          <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.15rem; font-size: 0.95rem;">🔥 Fire History</p>
+          <p style="font-size: 0.88rem; color: #6b6259; margin: 0;">Years since last fire, capturing post-fire recovery dynamics</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr style="border: none; border-top: 1px solid #dde6d5; margin-bottom: 3.5rem;">
+
+<!-- Neighbor density -->
+<div style="margin-bottom: 3.5rem;">
+  <h2 style="font-size: 1.5rem; margin-bottom: 1rem;">The Role of Neighbor Density</h2>
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: start;">
+    <div>
+      <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1rem;">
+        Land cover alone doesn't tell the whole story. In a degraded landscape where prey is scarce, 
+        eagles may need <em>more space</em> to meet their energetic needs — but their ability to expand 
+        depends on their neighborhood.
+      </p>
+      <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1rem;">
+        When a neighboring territory becomes vacant, an eagle pair may subsume it increasing their nearby foraging range. They may also shift between two adjacent territories year to year, appearing 
+        to "flicker" in and out of occupancy. But pairs surrounded by occupied territories on all sides 
+        have nowhere to expand, potentially pushing them out entirely.
+      </p>
+      <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35;">
+        We evaluated conspecific neighbor density alongside land cover covariates to capture this 
+        spatial dimension of how eagles cope with habitat loss.
+      </p>
+    </div>
+    <div>
+      <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden; margin-bottom: 0.7rem;">
+        <img src="/assets/occupancy_map.png" alt="Map of territory occupancy"
+             style="width: 100%; display: block;"
+             onerror="this.style.display='none'; this.parentElement.style.minHeight='300px'; this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.innerHTML='<p style=\'color:#8c7f72; font-size:0.85rem; padding:1.5rem; text-align:center;\'>Map: territory occupancy across the NCA<br><span style=\'font-size:0.78rem; opacity:0.7\'>(add your map here)</span></p>';">
+      </div>
+      <p style="font-size: 0.82rem; color: #8c7f72; font-style: italic; line-height: 1.5;">
+        Occupancy status of the 36 Golden Eagle territories, showing the spatial arrangement of occupied and vacant territories across the NCA.
       </p>
     </div>
   </div>
 </div>
 
-<hr style="border: none; border-top: 1px solid #dde6d5; margin-bottom: 3rem;">
+<hr style="border: none; border-top: 1px solid #dde6d5; margin-bottom: 3.5rem;">
 
-<!-- Covariate effects -->
-<div style="margin-bottom: 3rem;">
-  <h2 style="font-size: 1.3rem; margin-bottom: 1.2rem;">Covariate Effects</h2>
-  <div style="display: flex; flex-direction: column; gap: 1rem;">
+<!-- Individual territory trends -->
+<div style="margin-bottom: 3.5rem;">
+  <h2 style="font-size: 1.5rem; margin-bottom: 0.8rem;">Individual Territory Trends</h2>
+  <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1.8rem; max-width: 820px;">
+    Not all territories tell the same story. Some have been consistently occupied for decades. Others went 
+    vacant years ago and never recovered. Some show a slow, steady decline. And others flicker between 
+    occupancy states — likely the same pair shifting between two adjacent territories year to year as they 
+    adaptively use the landscape.
+  </p>
+  <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden; margin-bottom: 0.7rem;">
+    <img src="/assets/individual_occupancy.png" alt="Individual territory occupancy over time"
+         style="width: 100%; display: block;"
+         onerror="this.style.display='none'; this.parentElement.style.minHeight='320px'; this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.innerHTML='<p style=\'color:#8c7f72; font-size:0.85rem; padding:1.5rem; text-align:center;\'>Plot: individual territory occupancy probability over time<br><span style=\'font-size:0.78rem; opacity:0.7\'>(add your figure here)</span></p>';">
+  </div>
+  <p style="font-size: 0.82rem; color: #8c7f72; font-style: italic; line-height: 1.5;">
+    Estimated occupancy probability for each of the 36 territories from 1986–2022.
+  </p>
+</div>
 
-    <div style="display: flex; align-items: flex-start; gap: 1.2rem; padding: 1.1rem 1.3rem; background: #f0f4ec; border-radius: 8px; border-left: 3px solid #7a8c6e;">
-      <div style="font-size: 1.3rem; flex-shrink: 0;">🌿</div>
-      <div>
-        <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.2rem;">Shrub Cover <span style="color: #7a8c6e; font-weight: 400; font-size: 0.88rem;">β = 0.90 (95% CrI: 0.12–1.71)</span></p>
-        <p style="font-size: 0.92rem; color: #6b6259; margin: 0; line-height: 1.6;">Positively associated with occupancy — territories with higher shrub cover had a greater probability of being occupied.</p>
+<hr style="border: none; border-top: 1px solid #dde6d5; margin-bottom: 3.5rem;">
+
+<!-- Overall trend -->
+<div style="margin-bottom: 3.5rem;">
+  <h2 style="font-size: 1.5rem; margin-bottom: 0.8rem;">A Regional Decline</h2>
+  <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1.8rem; max-width: 820px;">
+    The probability of occupancy at historically occupied territories dropped 25% over 36 years — from 
+    0.83 in 1986 to 0.58 in 2022. Territories that went vacant for five or more years tended to stay 
+    vacant.
+  </p>
+  <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden; margin-bottom: 0.7rem;">
+    <img src="/assets/occupancy_trend.png" alt="Overall occupancy trend over time"
+         style="width: 100%; display: block;"
+         onerror="this.style.display='none'; this.parentElement.style.minHeight='300px'; this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.innerHTML='<p style=\'color:#8c7f72; font-size:0.85rem; padding:1.5rem; text-align:center;\'>Plot: overall decline in occupancy probability 1986–2022<br><span style=\'font-size:0.78rem; opacity:0.7\'>(add your figure here)</span></p>';">
+  </div>
+  <p style="font-size: 0.82rem; color: #8c7f72; font-style: italic; line-height: 1.5;">
+    Mean occupancy probability across all 36 territories from 1986–2022, with 95% credible interval.
+  </p>
+</div>
+
+<hr style="border: none; border-top: 1px solid #dde6d5; margin-bottom: 3.5rem;">
+
+<!-- Covariate results -->
+<div style="margin-bottom: 3.5rem;">
+  <h2 style="font-size: 1.5rem; margin-bottom: 0.8rem;">What Drives Occupancy?</h2>
+  <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1.8rem; max-width: 820px;">
+    Shrub cover and neighbor density emerged as the strongest predictors of territory occupancy. 
+    Shrub cover was positively associated with occupancy, while neighbor density had a strong 
+    negative effect, supporting the hypothesis that habitat degradation and spatial constraints 
+    interact are associated with occupancy trends.
+  </p>
+  <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden; margin-bottom: 0.7rem;">
+    <img src="/assets/occupancy_covariates.png" alt="Covariate effects on occupancy"
+         style="width: 100%; display: block;"
+         onerror="this.style.display='none'; this.parentElement.style.minHeight='300px'; this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.innerHTML='<p style=\'color:#8c7f72; font-size:0.85rem; padding:1.5rem; text-align:center;\'>Plot: covariate effects on occupancy probability<br><span style=\'font-size:0.78rem; opacity:0.7\'>(add your figure here)</span></p>';">
+  </div>
+  <p style="font-size: 0.82rem; color: #8c7f72; font-style: italic; line-height: 1.5; margin-bottom: 2rem;">
+    Covariate effects on territory occupancy probability. Points show posterior median; bars show 95% credible intervals.
+  </p>
+
+  <!-- Effect summary -->
+  <div style="display: flex; flex-direction: column; gap: 0.8rem;">
+    <div style="display: flex; align-items: flex-start; gap: 1.2rem; padding: 1rem 1.3rem; background: white; border: 1px solid #dde6d5; border-left: 4px solid #7a8c6e; border-radius: 0 8px 8px 0;">
+      <div style="flex: 1;">
+        <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.2rem;">🌿 Shrub Cover <span style="font-weight: 400; color: #7a8c6e; font-size: 0.88rem;">β = 0.90 (95% CrI: 0.12–1.71)</span></p>
+        <p style="font-size: 0.92rem; color: #6b6259; margin: 0; line-height: 1.6;">Strongest positive predictor — territories with more shrub cover were more likely to be occupied.</p>
       </div>
     </div>
-
-    <div style="display: flex; align-items: flex-start; gap: 1.2rem; padding: 1.1rem 1.3rem; background: #f0f4ec; border-radius: 8px; border-left: 3px solid #b8935a;">
-      <div style="font-size: 1.3rem; flex-shrink: 0;">🌾</div>
-      <div>
-        <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.2rem;">Annual Herbaceous Cover <span style="color: #7a8c6e; font-weight: 400; font-size: 0.88rem;">β = −0.63 (95% CrI: −1.32–0.05)</span></p>
-        <p style="font-size: 0.92rem; color: #6b6259; margin: 0; line-height: 1.6;">Negatively (albeit weakly) associated with occupancy — cheatgrass invasion may reduce prey availability for eagles.</p>
+    <div style="display: flex; align-items: flex-start; gap: 1.2rem; padding: 1rem 1.3rem; background: white; border: 1px solid #dde6d5; border-left: 4px solid #b8935a; border-radius: 0 8px 8px 0;">
+      <div style="flex: 1;">
+        <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.2rem;">🦅 Neighbor Density <span style="font-weight: 400; color: #7a8c6e; font-size: 0.88rem;">β = −3.89 (95% CrI: −4.61–−3.14)</span></p>
+        <p style="font-size: 0.92rem; color: #6b6259; margin: 0; line-height: 1.6;">Strongest negative predictor — territories closer to other occupied territories were less likely to be occupied.</p>
       </div>
     </div>
-
-    <div style="display: flex; align-items: flex-start; gap: 1.2rem; padding: 1.1rem 1.3rem; background: #f0f4ec; border-radius: 8px; border-left: 3px solid #b8935a;">
-      <div style="font-size: 1.3rem; flex-shrink: 0;">🦅</div>
-      <div>
-        <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.2rem;">Neighbor Density <span style="color: #7a8c6e; font-weight: 400; font-size: 0.88rem;">β = −3.89 (95% CrI: −4.61–−3.14)</span></p>
-        <p style="font-size: 0.92rem; color: #6b6259; margin: 0; line-height: 1.6;">Territories closer to other occupied territories had lower occupancy probability, likely because eagles expanded territory sizes to compensate for degraded habitat.</p>
+    <div style="display: flex; align-items: flex-start; gap: 1.2rem; padding: 1rem 1.3rem; background: white; border: 1px solid #dde6d5; border-left: 4px solid #8c7f72; border-radius: 0 8px 8px 0;">
+      <div style="flex: 1;">
+        <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.2rem;">🌾 Annual Herbaceous Cover <span style="font-weight: 400; color: #7a8c6e; font-size: 0.88rem;">β = −0.63 (95% CrI: −1.32–0.05)</span></p>
+        <p style="font-size: 0.92rem; color: #6b6259; margin: 0; line-height: 1.6;">Negative but weak — credible interval slightly overlaps zero, suggesting cheatgrass has a directional but uncertain effect on occupancy.</p>
       </div>
     </div>
-
-    <div style="display: flex; align-items: flex-start; gap: 1.2rem; padding: 1.1rem 1.3rem; background: #f0f4ec; border-radius: 8px; border-left: 3px solid #7a8c6e;">
-      <div style="font-size: 1.3rem; flex-shrink: 0;">🔥</div>
-      <div>
-        <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.2rem;">Years Since Fire <span style="color: #7a8c6e; font-weight: 400; font-size: 0.88rem;">β = 0.28 (95% CrI: −0.26–0.87)</span></p>
-        <p style="font-size: 0.92rem; color: #6b6259; margin: 0; line-height: 1.6;">Slightly positive effect on occupancy with high uncertainty — credible interval overlaps zero, suggesting weak or inconsistent influence.</p>
+    <div style="display: flex; align-items: flex-start; gap: 1.2rem; padding: 1rem 1.3rem; background: white; border: 1px solid #dde6d5; border-left: 4px solid #8c7f72; border-radius: 0 8px 8px 0;">
+      <div style="flex: 1;">
+        <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.2rem;">🔥 Years Since Fire <span style="font-weight: 400; color: #7a8c6e; font-size: 0.88rem;">β = 0.28 (95% CrI: −0.26–0.87)</span></p>
+        <p style="font-size: 0.92rem; color: #6b6259; margin: 0; line-height: 1.6;">Slightly positive but highly uncertain — credible interval overlaps zero, suggesting weak or variable post-fire recovery effects.</p>
       </div>
     </div>
-
   </div>
 </div>
 
-<hr style="border: none; border-top: 1px solid #dde6d5; margin-bottom: 3rem;">
+<hr style="border: none; border-top: 1px solid #dde6d5; margin-bottom: 3.5rem;">
 
-<!-- Takeaway -->
-<div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; padding: 1.8rem 2rem; margin-bottom: 3rem;">
-  <h2 style="font-size: 1.15rem; margin-bottom: 1rem;">Conservation Implications</h2>
-  <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 0.8rem;">
-    Once territories became vacant for 5 years, they tended to remain vacant — suggesting they were no longer 
-    suitable for eagles, or that no new eagles were recruiting into the population. Shrub conversion to invasive 
-    grasslands has negative bottom-up consequences on Golden Eagle territory occupancy, which may decrease the 
-    local carrying capacity for eagles in this area.
+<!-- Conclusion -->
+<div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 10px; padding: 2.2rem 2.4rem; margin-bottom: 3rem;">
+  <h2 style="font-size: 1.4rem; margin-bottom: 1rem;">Decline, Resilience, and What Comes Next</h2>
+  <p style="font-size: 1rem; line-height: 1.9; color: #4a3f35; margin-bottom: 1rem;">
+    This research supports the idea that the carrying capacity for Golden Eagles in southwestern Idaho may 
+    be changing — with fewer pairs occupying the NCA and those that remain potentially holding larger, 
+    lower-quality territories. The landscape these eagles evolved in is no longer the landscape they inhabit.
   </p>
-  <p style="font-size: 0.9rem; color: #7a8c6e; margin: 0; font-style: italic;">
-    Keywords: <em>Aquila chrysaetos</em>, Bayesian modeling, fire, imperfect detection, sagebrush habitat, territory size
+  <p style="font-size: 1rem; line-height: 1.9; color: #4a3f35; margin-bottom: 1rem;">
+    But the story isn't only one of loss. Eagles are showing real resilience and adaptability: expanding 
+    into vacant neighboring territories, shifting between adjacent nesting areas year to year, and 
+    persisting in territories that appear to be low-quality. This behavioral flexibility buys time — 
+    time to understand the mechanisms behind the decline, assess population health, and develop targeted 
+    conservation strategies that have the greatest impact on population growth.
+  </p>
+  <p style="font-size: 1rem; line-height: 1.9; color: #7a8c6e; font-style: italic; margin: 0;">
+    Stay tuned — my dissertation research digs deeper into the survival and genomics questions that 
+    will help us understand where this population is headed. 🦅
   </p>
 </div>
 
-<!-- Nav to other projects -->
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+<!-- Keywords -->
+<p style="font-size: 0.85rem; color: #8c7f72; margin-bottom: 3rem;">
+  <strong>Keywords:</strong> <em>Aquila chrysaetos</em>, Bayesian modeling, fire, imperfect detection, sagebrush habitat, territory size
+</p>
+
+<!-- Nav -->
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem; padding-top: 1.5rem; border-top: 1px solid #dde6d5;">
   <a href="/research" style="font-size: 0.9rem; color: #7a8c6e;">← All Research</a>
   <a href="/research-survival" style="font-size: 0.9rem; color: #7a8c6e;">First-year Survival →</a>
 </div>
