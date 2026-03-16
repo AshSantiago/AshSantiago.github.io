@@ -33,7 +33,7 @@ title: Territory Occupancy
       <div style="display: flex; flex-direction: column; gap: 0.7rem; margin-bottom: 1rem;">
         <div style="display: flex; align-items: flex-start; gap: 0.8rem;">
           <span style="background: #7a8c6e; color: white; border-radius: 50%; width: 24px; height: 24px; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; flex-shrink: 0; margin-top: 2px;">1</span>
-          <p style="margin: 0; font-size: 0.97rem; line-height: 1.7; color: #4a3f35;">Cheatgrass establishes in disturbed areas, creating dense, continuous fuel loads</p>
+          <p style="margin: 0; font-size: 0.97rem; line-height: 1.7; color: #4a3f35;">Cheatgrass establishes in disturbed areas, creating ignition points and fuel for fires to spread</p>
         </div>
         <div style="display: flex; align-items: flex-start; gap: 0.8rem;">
           <span style="background: #7a8c6e; color: white; border-radius: 50%; width: 24px; height: 24px; display: flex; align-items: center; justify-content: center; font-size: 0.75rem; flex-shrink: 0; margin-top: 2px;">2</span>
@@ -49,8 +49,7 @@ title: Territory Occupancy
         </div>
       </div>
       <p style="font-size: 0.97rem; line-height: 1.85; color: #6b6259;">
-        For Golden Eagles, whose foraging success depends on prey that live in and around shrubs, this cycle has 
-        bottom-up consequences that ripple all the way up to territory occupancy.
+        For Golden Eagles, this cycle has bottom-up consequences as the prey they rely on lose the plant communities that support them.
       </p>
     </div>
     <div>
