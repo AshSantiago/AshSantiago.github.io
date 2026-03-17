@@ -24,7 +24,7 @@ title: Territory Occupancy
 
 <!-- Background: fire cycle -->
 <div style="margin-bottom: 3.5rem;">
-  <h2 style="font-size: 1.5rem; margin-bottom: 1rem;">A Landscape in Crisis</h2>
+  <h2 style="font-size: 1.5rem; margin-bottom: 1rem;">An Altered Landscape</h2>
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: center;">
     <div>
       <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1rem;">
@@ -118,13 +118,15 @@ title: Territory Occupancy
         depends on their neighborhood.
       </p>
       <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1rem;">
-        When a neighboring territory becomes vacant, an eagle pair may subsume it increasing their nearby foraging range. They may also shift between two adjacent territories year to year, appearing 
-        to "flicker" in and out of occupancy. But pairs surrounded by occupied territories on all sides 
-        have nowhere to expand, potentially pushing them out entirely.
+        Eagles can expand a territory they already occupy if there are no adjacent occupied territories or
+        if a neighboring territory becomes vacant, an eagle pair may have the opportunity to subsume it 
+        increasing their nearby foraging range. But pairs surrounded by occupied territories on all sides 
+        have nowhere to expand, potentially pushing them out entirely. It is possible that the combination 
+        of degraded habitat and nowhere to expand is causing territories to become vacant ane remain vacant.
       </p>
       <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35;">
-        We evaluated conspecific neighbor density alongside land cover covariates to capture this 
-        spatial dimension of how eagles cope with habitat loss.
+        We evaluated conspecific neighbor density alongside land cover covariates to capture how eagles may 
+        cope with habitat loss.
       </p>
     </div>
     <div>
@@ -147,9 +149,9 @@ title: Territory Occupancy
   <h2 style="font-size: 1.5rem; margin-bottom: 0.8rem;">Individual Territory Trends</h2>
   <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1.8rem; max-width: 820px;">
     Not all territories tell the same story. Some have been consistently occupied for decades. Others went 
-    vacant years ago and never recovered. Some show a slow, steady decline. And others flicker between 
-    occupancy states — likely the same pair shifting between two adjacent territories year to year as they 
-    adaptively use the landscape.
+    vacant years ago and never recovered.  Territories that went vacant for five or more years tended to stay 
+    vacant. Some show a slow, steady decline. And others flicker between close to 0 and 1 — likely reflecting 
+    the same pair nesting in two adjacent territories in different years.
   </p>
   <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden; margin-bottom: 0.7rem;">
     <img src="/assets/OccxTime_byTerr.png" alt="Individual territory occupancy over time"
@@ -168,8 +170,7 @@ title: Territory Occupancy
   <h2 style="font-size: 1.5rem; margin-bottom: 0.8rem;">A Regional Decline</h2>
   <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1.8rem; max-width: 820px;">
     The probability of occupancy at historically occupied territories dropped 25% over 36 years — from 
-    0.83 in 1986 to 0.58 in 2022. Territories that went vacant for five or more years tended to stay 
-    vacant.
+    0.83 in 1986 to 0.58 in 2022.
   </p>
   <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden; margin-bottom: 0.7rem;">
     <img src="/assets/occupancy_decline.png" alt="Overall occupancy trend over time"
@@ -190,7 +191,7 @@ title: Territory Occupancy
     Shrub cover and neighbor density emerged as the strongest predictors of territory occupancy. 
     Shrub cover was positively associated with occupancy, while neighbor density had a strong 
     negative effect, supporting the hypothesis that habitat degradation and spatial constraints 
-    interact are associated with occupancy trends.
+    are associated with occupancy trends.
   </p>
   <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden; margin-bottom: 0.7rem;">
     <img src="/assets/occupancy_covariates.png" alt="Covariate effects on occupancy"
@@ -198,7 +199,7 @@ title: Territory Occupancy
          onerror="this.style.display='none'; this.parentElement.style.minHeight='300px'; this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.innerHTML='<p style=\'color:#8c7f72; font-size:0.85rem; padding:1.5rem; text-align:center;\'>Plot: covariate effects on occupancy probability<br><span style=\'font-size:0.78rem; opacity:0.7\'>(add your figure here)</span></p>';">
   </div>
   <p style="font-size: 0.82rem; color: #8c7f72; font-style: italic; line-height: 1.5; margin-bottom: 2rem;">
-    Covariate effects on territory occupancy probability. Points show posterior median; bars show 95% credible intervals.
+    Covariate effects on territory occupancy probability. Points show means; bars show 95% credible intervals.
   </p>
 
   <!-- Effect summary -->
@@ -248,15 +249,9 @@ title: Territory Occupancy
     conservation strategies that have the greatest impact on population growth.
   </p>
   <p style="font-size: 1rem; line-height: 1.9; color: #7a8c6e; font-style: italic; margin: 0;">
-    Stay tuned — my dissertation research digs deeper into the survival and genomics questions that 
-    will help us understand where this population is headed. 🦅
+    Stay tuned — my dissertation research digs deeper into the population dynamics of Golden Eagles in southwestern Idaho🦅
   </p>
 </div>
-
-<!-- Keywords -->
-<p style="font-size: 0.85rem; color: #8c7f72; margin-bottom: 3rem;">
-  <strong>Keywords:</strong> <em>Aquila chrysaetos</em>, Bayesian modeling, fire, imperfect detection, sagebrush habitat, territory size
-</p>
 
 <!-- Nav -->
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem; padding-top: 1.5rem; border-top: 1px solid #dde6d5;">
