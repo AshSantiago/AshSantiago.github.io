@@ -60,7 +60,7 @@ title: Home
 <div style="width: 260px; height: 260px; border-radius: 50%; overflow: hidden; transition: all 0.2s;"
      onmouseover="this.style.filter='drop-shadow(0 6px 10px rgba(122,140,110,0.5))'; this.style.transform='translateY(-4px)'"
      onmouseout="this.style.filter='none'; this.style.transform='translateY(0)'">
-    <img src="/assets/adult_DNA.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(2.0); transform-origin: center;">
+    <img src="/assets/nestling.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.2); transform-origin: center;">
   </div>
   <p style="font-size: 1.1rem; color: #4a3f35; font-family: 'Lora', serif; margin: 0; font-weight: 600; text-align: center;">Adult Turnover</p>
 </a>
