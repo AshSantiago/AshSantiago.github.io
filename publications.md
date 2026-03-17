@@ -13,7 +13,7 @@ ORCID: [0009-0008-8372-4077](https://orcid.org/0009-0008-8372-4077)
   <p style="font-family: 'Playfair Display', serif; font-size: 1.3rem; color: #4a3f35; margin: 0; padding-bottom: 0.4rem; border-bottom: 1px solid #dde6d5;">2025</p>
 
   <div style="display: flex; align-items: center; gap: 2rem;">
-    <div style="width: 110px; height: 110px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
+    <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
       <img src="/assets/occupancy.png" alt="Territory Occupancy"
            style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.2); transform-origin: center;"
            onerror="this.parentElement.style.background='#dde6d5';">
@@ -25,7 +25,7 @@ ORCID: [0009-0008-8372-4077](https://orcid.org/0009-0008-8372-4077)
   </div>
 
   <div style="display: flex; align-items: center; gap: 2rem;">
-    <div style="width: 110px; height: 110px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
+    <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
       <img src="/assets/nestling.png" alt="Nestling survival"
            style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.2); transform-origin: center;"
            onerror="this.parentElement.style.background='#dde6d5';">
@@ -40,7 +40,7 @@ ORCID: [0009-0008-8372-4077](https://orcid.org/0009-0008-8372-4077)
   <p style="font-family: 'Playfair Display', serif; font-size: 1.3rem; color: #4a3f35; margin: 0.5rem 0 0; padding-bottom: 0.4rem; border-bottom: 1px solid #dde6d5;">2024</p>
 
   <div style="display: flex; align-items: center; gap: 2rem;">
-    <div style="width: 110px; height: 110px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
+    <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
       <img src="/assets/kestrel.png" alt="Kestrel book review"
            style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.3); transform-origin: center;"
            onerror="this.parentElement.style.background='#dde6d5';">
