@@ -11,8 +11,7 @@ title: Territory Occupancy
   <p style="font-size: 0.8rem; letter-spacing: 0.18em; text-transform: uppercase; color: #7a8c6e; margin-bottom: 1rem;">Territory Occupancy</p>
   <h1 style="font-size: 2.8rem; line-height: 1.15; color: #4a3f35; margin-bottom: 1.2rem; max-width: 820px;">How do eagles respond to a drastically altered landscape?</h1>
   <p style="font-size: 1.1rem; color: #6b6259; line-height: 1.85; max-width: 820px;">
-    Golden eagles in southwestern Idaho are tied to their preferred prey, black-tailed jackrabbits (<em>Lepus californicus</em>). Jackrabbits are a shrub-reliant species and are likely in decline considering sagebrush ecosystems are in peril. Altered fire regimes and annual grass invasions have led to a widespread reduction in shrub habitat. The bottom-up effects of habitat loss are likely felt even at the top of food chain. We wanted to know how Golden Eagles have been affected over time by these intense changes to their environment.
-  </p>
+    Golden eagles in southwestern Idaho are heavily tied to black-tailed jackrabbits (<em>Lepus californicus</em>) - a prey species that needs intact shrubland to survive. But the sagebrush communities in southwestern Idaho have been greatly reduced because of fire and invasive annual grass expansion. If less shrub cover means less jackrabbits, what does this mean for eagles?
   <div style="margin-top: 1.5rem;">
     <a href="https://doi.org/10.1093/ornithapp/duaf054" target="_blank" style="display: inline-block; background: #f0f4ec; border: 1px solid #a8b89a; color: #4a3f35; padding: 0.5rem 1.2rem; border-radius: 4px; font-size: 0.88rem; text-decoration: none;">
       📄 Santiago et al. (2025) · <em>Ornithological Applications</em>
