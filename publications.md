@@ -48,7 +48,7 @@ ORCID: [0009-0008-8372-4077](https://orcid.org/0009-0008-8372-4077)
   <div style="display: flex; align-items: center; gap: 2rem;">
     <div style="width: 110px; height: 110px; border-radius: 50%; overflow: hidden; flex-shrink: 0; background: #dde6d5;">
       <img src="/assets/kestrel.png" alt="Kestrel book review"
-     style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.3); transform-origin: center;"
+     style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.25); transform-origin: center;"
      onerror="this.style.display='none';">
     </div>
     <div>
