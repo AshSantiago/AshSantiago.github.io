@@ -20,8 +20,9 @@ title: Home
       <h1 style="margin: 0 0 0.3rem; font-size: 2.2rem;">Ashley Santiago</h1>
       <p style="margin: 0 0 1rem; color: #5a7a4a; font-style: italic; font-size: 1rem;">Ph.D. Student · Ecology, Evolution, and Behavior · Boise State University · Raptor Research Center</p>
       <p style="font-size: 1.05rem; line-height: 1.85; margin: 0; color: #2c2820;">
-        I study how individual animals respond to environmental stress and change — and what those responses mean for the long-term fate of a population. I follow <strong>Golden Eagles</strong> across decades of landscape transformation, combining field ecology, statistical modeling, and genomics to connect individual responses to population-level patterns.
-        I work in the <a href="https://www.heathlab.com" target="_blank" style="color: #5a7a4a;">Heath Lab</a> at Boise State University.
+      I am currently studying Golden Eagle ecology, survival, and population dynamics, combining field ecology with 
+      statistical modeling and novel genomic approaches to understand the potential drivers of population decline and inform 
+      conservation strategies. I work in the <a href="https://www.heathlab.com" target="_blank">Heath Lab</a> at Boise State University.
       </p>
     </div>
   </div>
