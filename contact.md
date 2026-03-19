@@ -3,10 +3,10 @@ layout: default
 title: Contact
 ---
 
-## Contact
+## Let's Connect!
 
 <p style="color: var(--muted); margin-bottom: 2rem;">
-  Feel free to reach out for any questions about my work!
+  If you have any questions or want to learn more about my work, here's how to find me.
 </p>
 
 <div style="display: flex; flex-direction: column; gap: 0.9rem; margin-bottom: 2.5rem;">
