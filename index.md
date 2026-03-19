@@ -18,7 +18,7 @@ title: Home
          style="width: 200px; height: 200px; object-fit: cover; object-position: center top; border-radius: 50%; flex-shrink: 0; box-shadow: 0 4px 18px rgba(74,63,53,0.18); border: 4px solid #dde6d5;">
     <div>
       <h1 style="margin: 0 0 0.3rem; font-size: 2.2rem;">Ashley Santiago</h1>
-      <p style="margin: 0 0 1rem; color: #5a7a4a; font-style: italic; font-size: 1rem;">Ph.D. Student · Ecology, Evolution, and Behavior · Boise State University · Raptor Research Center</p>
+      <p style="margin: 0 0 1rem; color: #5a7a4a; font-style: italic; font-size: 1rem;">Ecology, Evolution, and Behavior PhD Student · Boise State University · Raptor Research Center</p>
       <p style="font-size: 1.05rem; line-height: 1.85; margin: 0; color: #2c2820;">
       I am currently studying Golden Eagle ecology, survival, and population dynamics, combining field ecology with 
       statistical modeling and novel genomic approaches to understand the potential drivers of population decline and inform 
