@@ -10,18 +10,14 @@ title: Home
        onerror="this.parentElement.style.background='#3d5c30'; this.style.display='none';">
   <div style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(30,40,20,0.75) 0%, rgba(30,40,20,0.3) 40%, transparent 70%);"></div>
   <div style="position: relative; z-index: 2; padding: 4rem 6rem; width: 100%;">
-    <p style="font-family: 'Lora', serif; font-size: 0.85rem; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(220,235,210,0.85); margin-bottom: 0.8rem;">Raptor Ecology · Quantitative Modeling · Conservation Genomics</p>
+    <p style="font-family: 'Lora', serif; font-size: 0.85rem; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(220,235,210,0.85); margin-bottom: 0.8rem;">Ecology, Evolution, & Behavior PhD Student · Boise State University · Raptor Research Center</p>
     <h1 style="font-family: 'Playfair Display', serif; font-size: 4.5rem; color: #f7f3ee; margin: 0 0 1rem; line-height: 1.05; text-shadow: 0 2px 20px rgba(0,0,0,0.3);">Ashley Santiago</h1>
-    <p style="font-size: 1.15rem; color: rgba(240,245,235,0.9); max-width: 580px; line-height: 1.8; margin: 0 0 2rem; text-shadow: 0 1px 8px rgba(0,0,0,0.3);">
-      Ph.D. Student in Ecology, Evolution, and Behavior at Boise State University — studying how Golden Eagles respond to a rapidly changing landscape.
-    </p>
   </div>
 </div>
 
 <!-- Bio strip — full width, two columns -->
 <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; background: #f0f4ec; padding: 5rem 6rem; display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: center; margin-bottom: 0;">
   <div>
-    <p style="font-size: 0.8rem; letter-spacing: 0.18em; text-transform: uppercase; color: #5a7a4a; margin-bottom: 0.8rem;">About</p>
     <p style="font-size: 1.1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1rem;">
       I study Golden Eagles across decades of landscape transformation — combining long-term field monitoring, statistical modeling, and genomics to connect individual responses to population-level patterns.
     </p>
