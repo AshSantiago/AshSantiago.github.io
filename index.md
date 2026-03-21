@@ -11,7 +11,7 @@ title: Home
   <div style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(30,40,20,0.75) 0%, rgba(30,40,20,0.3) 40%, transparent 70%);"></div>
   <div style="position: relative; z-index: 2; padding: 4rem 6rem; width: 100%;">
     <div style="display: inline-block; background: rgba(44,56,40,0.55); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); padding: 2rem 2.5rem; border-radius: 8px; max-width: 620px;">
-      <p style="font-family: 'Lora', serif; font-size: 0.85rem; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(220,235,210,0.85); margin-bottom: 0.8rem;">Raptor Ecology · Quantitative Modeling · Conservation Genomics</p>
+      <p style="font-family: 'Lora', serif; font-size: 0.85rem; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(220,235,210,0.85); margin-bottom: 0.8rem;">Ecology, Evolution, & Behavior PhD Student · Boise State University · Raptor Research Center</p>
       <h1 style="font-family: 'Playfair Display', serif; font-size: 4.5rem; color: #f7f3ee; margin: 0 0 1rem; line-height: 1.05;">Ashley Santiago</h1>
       <p style="font-size: 1.15rem; color: rgba(240,245,235,0.9); line-height: 1.8; margin: 0;">
         Ph.D. Student in Ecology, Evolution, and Behavior at Boise State University — studying how Golden Eagles respond to a rapidly changing landscape.
