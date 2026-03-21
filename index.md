@@ -15,14 +15,6 @@ title: Home
     <p style="font-size: 1.15rem; color: rgba(240,245,235,0.9); max-width: 580px; line-height: 1.8; margin: 0 0 2rem; text-shadow: 0 1px 8px rgba(0,0,0,0.3);">
       Ph.D. Student in Ecology, Evolution, and Behavior at Boise State University — studying how Golden Eagles respond to a rapidly changing landscape.
     </p>
-    <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-      <a href="about" style="display: inline-block; background: rgba(247,243,238,0.15); border: 1.5px solid rgba(247,243,238,0.6); color: #f7f3ee; padding: 0.65rem 1.6rem; border-radius: 3px; font-family: 'Lora', serif; font-size: 0.88rem; letter-spacing: 0.08em; text-transform: uppercase; backdrop-filter: blur(4px); transition: background 0.2s;"
-         onmouseover="this.style.background='rgba(247,243,238,0.28)'"
-         onmouseout="this.style.background='rgba(247,243,238,0.15)'">About Me</a>
-      <a href="research" style="display: inline-block; background: #5a7a4a; border: 1.5px solid #5a7a4a; color: #f7f3ee; padding: 0.65rem 1.6rem; border-radius: 3px; font-family: 'Lora', serif; font-size: 0.88rem; letter-spacing: 0.08em; text-transform: uppercase; transition: background 0.2s;"
-         onmouseover="this.style.background='#4a6840'"
-         onmouseout="this.style.background='#5a7a4a'">My Research</a>
-    </div>
   </div>
 </div>
 
@@ -30,14 +22,14 @@ title: Home
 <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; background: #f0f4ec; padding: 5rem 6rem; display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: center; margin-bottom: 0;">
   <div>
     <p style="font-size: 0.8rem; letter-spacing: 0.18em; text-transform: uppercase; color: #5a7a4a; margin-bottom: 0.8rem;">About</p>
-    <h2 style="font-size: 2rem; margin-bottom: 1.2rem; line-height: 1.2;">How do individual animals shape the fate of a population?</h2>
     <p style="font-size: 1.1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1rem;">
       I study Golden Eagles across decades of landscape transformation — combining long-term field monitoring, statistical modeling, and genomics to connect individual responses to population-level patterns.
     </p>
     <p style="font-size: 1.05rem; line-height: 1.85; color: #6b6259; margin-bottom: 1.5rem;">
-      I work in the <a href="https://www.heathlab.com" target="_blank" style="color: #5a7a4a;">Heath Lab</a> at Boise State University, Raptor Research Center, where I have been following a population of Golden Eagles in southwestern Idaho since 2021.
+           I am currently studying Golden Eagle ecology, survival, and population dynamics, combining field ecology with 
+      statistical modeling and novel genomic approaches to understand the potential drivers of population decline and inform 
+      conservation strategies. I work in the <a href="https://www.heathlab.com" target="_blank">Heath Lab</a> at Boise State University.
     </p>
-    <a href="about" style="font-size: 0.9rem; color: #5a7a4a; border-bottom: 1px solid #85a870; padding-bottom: 2px;">Read more about me →</a>
   </div>
   <div style="display: flex; justify-content: center;">
     <img src="assets/profile.jpg" alt="Ashley Santiago"
@@ -51,7 +43,7 @@ title: Home
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: end; margin-bottom: 3.5rem;">
     <h2 style="font-size: 2rem; color: #f0f4ec; margin: 0; line-height: 1.2;">Understanding Golden Eagle population dynamics in a changing landscape</h2>
     <p style="font-size: 1.05rem; line-height: 1.8; color: rgba(220,235,210,0.8); margin: 0;">
-      My work spans territory occupancy, first-year survival, and adult turnover — building toward a comprehensive picture of what drives population change in this declining apex predator.
+      My work integrates long-term field data, statistical modeling, and genomics to understand raptor population dynamics and inform conservation management.
     </p>
   </div>
 
