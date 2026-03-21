@@ -4,7 +4,7 @@ title: Home
 ---
 
 <!-- Full-viewport hero with text overlay -->
-<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; height: 100vh; min-height: 600px; overflow: hidden; display: flex; align-items: flex-end; margin-bottom: 0;">
+<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; height: 70vh; min-height: 500px; overflow: hidden; display: flex; align-items: flex-end; margin-bottom: 0;">
   <img src="assets/landscape.jpg" alt="Sagebrush steppe landscape"
        style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center 40%;"
        onerror="this.parentElement.style.background='#3d5c30'; this.style.display='none';">
@@ -18,7 +18,7 @@ title: Home
 <!-- Bio strip — full width, two columns -->
 <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; background: #f0f4ec; padding: 5rem 6rem; display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: center; margin-bottom: 0;">
   <div>
-    <p style="font-size: 1.05rem; line-height: 1.85; color: #6b6259; margin-bottom: 1.5rem;">
+    <p style="font-size: 1.35rem; line-height: 1.85; color: #6b6259; margin-bottom: 1.5rem;">
            I am currently studying Golden Eagle ecology, survival, and population dynamics, combining field ecology with 
       statistical modeling and novel genomic approaches to understand the potential drivers of population decline and inform 
       conservation strategies. I work in the <a href="https://www.heathlab.com" target="_blank">Heath Lab</a> at Boise State University.
@@ -31,7 +31,7 @@ title: Home
 </div>
 
 <!-- Research section — dark background, full width -->
-<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; background: #2c3828; padding: 5rem 6rem; margin-bottom: 0;">
+<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; background: #2c3828; padding: 4rem 5rem; margin-bottom: 0;">
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: end; margin-bottom: 3.5rem;">
     <h2 style="font-size: 2rem; color: #f0f4ec; margin: 0; line-height: 1.2;">Research</h2>
     <p style="font-size: 1.05rem; line-height: 1.8; color: rgba(220,235,210,0.8); margin: 0;">
@@ -72,7 +72,7 @@ title: Home
       <div style="width: 100%; aspect-ratio: 1; border-radius: 50%; overflow: hidden; transition: all 0.25s;"
            onmouseover="this.style.filter='drop-shadow(0 8px 20px rgba(90,122,74,0.6))'; this.style.transform='translateY(-6px)'"
            onmouseout="this.style.filter='none'; this.style.transform='translateY(0)'">
-        <img src="/assets/adult_DNA.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(2.0); transform-origin: center;">
+        <img src="/assets/adult_DNA.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.2); transform-origin: center;">
       </div>
       <div style="text-align: center;">
         <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: #85a870; margin: 0 0 0.3rem;">Population Genomics</p>
