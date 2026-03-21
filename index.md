@@ -31,60 +31,63 @@ title: Home
 </div>
 
 <!-- Research section — dark background, full width -->
-<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; background: #2c3828; padding: 4rem 5rem; margin-bottom: 0;">
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: end; margin-bottom: 3.5rem;">
-    <h2 style="font-size: 2rem; color: #f0f4ec; margin: 0; line-height: 1.2;">Research</h2>
-    <p style="font-size: 1.05rem; line-height: 1.8; color: rgba(220,235,210,0.8); margin: 0;">
+<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; background: #2c3828; padding: 5rem 6rem; margin-bottom: 0;">
+
+  <!-- Centered header -->
+  <div style="text-align: center; margin-bottom: 3.5rem;">
+    <h2 style="font-size: 2rem; color: #f0f4ec; margin: 0 0 1rem; line-height: 1.2;">Reseach</h2>
+    <p style="font-size: 1.05rem; line-height: 1.8; color: rgba(220,235,210,0.8); max-width: 600px; margin: 0 auto;">
       My work integrates long-term field data, statistical modeling, and genomics to understand raptor population dynamics and inform conservation management.
     </p>
   </div>
 
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem;">
+  <!-- Smaller circles, centered -->
+  <div style="display: flex; justify-content: center; gap: 4rem; flex-wrap: wrap; margin-bottom: 3rem;">
 
     <!-- Territory Occupancy -->
-    <a href="research-occupancy" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 1.2rem;">
-      <div style="width: 100%; aspect-ratio: 1; border-radius: 50%; overflow: hidden; transition: all 0.25s;"
-           onmouseover="this.style.filter='drop-shadow(0 8px 20px rgba(90,122,74,0.6))'; this.style.transform='translateY(-6px)'"
+    <a href="research-occupancy" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 1rem; width: 220px;">
+      <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; transition: all 0.25s;"
+           onmouseover="this.style.filter='drop-shadow(0 8px 20px rgba(90,122,74,0.7))'; this.style.transform='translateY(-6px)'"
            onmouseout="this.style.filter='none'; this.style.transform='translateY(0)'">
         <img src="/assets/occupancy.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.2); transform-origin: center;">
       </div>
       <div style="text-align: center;">
-        <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: #85a870; margin: 0 0 0.3rem;">Territory Ecology</p>
-        <p style="font-size: 1.05rem; color: #f0f4ec; font-family: 'Playfair Display', serif; margin: 0; font-weight: 600;">Territory Occupancy</p>
+        <p style="font-size: 0.72rem; letter-spacing: 0.15em; text-transform: uppercase; color: #85a870; margin: 0 0 0.25rem;">Territory Ecology</p>
+        <p style="font-size: 1rem; color: #f0f4ec; font-family: 'Playfair Display', serif; margin: 0; font-weight: 600;">Territory Occupancy</p>
       </div>
     </a>
 
     <!-- First-year Survival -->
-    <a href="research-survival" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 1.2rem;">
-      <div style="width: 100%; aspect-ratio: 1; border-radius: 50%; overflow: hidden; transition: all 0.25s;"
-           onmouseover="this.style.filter='drop-shadow(0 8px 20px rgba(90,122,74,0.6))'; this.style.transform='translateY(-6px)'"
+    <a href="research-survival" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 1rem; width: 220px;">
+      <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; transition: all 0.25s;"
+           onmouseover="this.style.filter='drop-shadow(0 8px 20px rgba(90,122,74,0.7))'; this.style.transform='translateY(-6px)'"
            onmouseout="this.style.filter='none'; this.style.transform='translateY(0)'">
         <img src="/assets/nestling.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.2); transform-origin: center;">
       </div>
       <div style="text-align: center;">
-        <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: #85a870; margin: 0 0 0.3rem;">Survival Analysis</p>
-        <p style="font-size: 1.05rem; color: #f0f4ec; font-family: 'Playfair Display', serif; margin: 0; font-weight: 600;">First-year Survival</p>
+        <p style="font-size: 0.72rem; letter-spacing: 0.15em; text-transform: uppercase; color: #85a870; margin: 0 0 0.25rem;">Survival Analysis</p>
+        <p style="font-size: 1rem; color: #f0f4ec; font-family: 'Playfair Display', serif; margin: 0; font-weight: 600;">First-year Survival</p>
       </div>
     </a>
 
     <!-- Adult Turnover -->
-    <a href="research-turnover" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 1.2rem;">
-      <div style="width: 100%; aspect-ratio: 1; border-radius: 50%; overflow: hidden; transition: all 0.25s;"
-           onmouseover="this.style.filter='drop-shadow(0 8px 20px rgba(90,122,74,0.6))'; this.style.transform='translateY(-6px)'"
+    <a href="research-turnover" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 1rem; width: 220px;">
+      <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; transition: all 0.25s;"
+           onmouseover="this.style.filter='drop-shadow(0 8px 20px rgba(90,122,74,0.7))'; this.style.transform='translateY(-6px)'"
            onmouseout="this.style.filter='none'; this.style.transform='translateY(0)'">
         <img src="/assets/adult_DNA.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.2); transform-origin: center;">
       </div>
       <div style="text-align: center;">
-        <p style="font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; color: #85a870; margin: 0 0 0.3rem;">Population Genomics</p>
-        <p style="font-size: 1.05rem; color: #f0f4ec; font-family: 'Playfair Display', serif; margin: 0; font-weight: 600;">Adult Turnover</p>
+        <p style="font-size: 0.72rem; letter-spacing: 0.15em; text-transform: uppercase; color: #85a870; margin: 0 0 0.25rem;">Population Genomics</p>
+        <p style="font-size: 1rem; color: #f0f4ec; font-family: 'Playfair Display', serif; margin: 0; font-weight: 600;">Adult Turnover</p>
       </div>
     </a>
 
   </div>
 
-  <div style="text-align: center; margin-top: 3rem;">
+  <div style="text-align: center;">
     <a href="research" style="display: inline-block; border: 1.5px solid rgba(220,235,210,0.4); color: rgba(220,235,210,0.85); padding: 0.65rem 2rem; border-radius: 3px; font-family: 'Lora', serif; font-size: 0.88rem; letter-spacing: 0.08em; text-transform: uppercase; transition: all 0.2s;"
        onmouseover="this.style.borderColor='#85a870'; this.style.color='#c8dabb'"
-       onmouseout="this.style.borderColor='rgba(220,235,210,0.4)'; this.style.color='rgba(220,235,210,0.85)'">View All Research →</a>
+       onmouseout="this.style.borderColor='rgba(220,235,210,0.4)'; this.style.color='rgba(220,235,210,0.85)'">Learn More About My Research →</a>
   </div>
 </div>
