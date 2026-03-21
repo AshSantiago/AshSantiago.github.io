@@ -9,15 +9,13 @@ title: Home
        style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center 40%;"
        onerror="this.parentElement.style.background='#3d5c30'; this.style.display='none';">
   <div style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(30,40,20,0.75) 0%, rgba(30,40,20,0.3) 40%, transparent 70%);"></div>
- <div style="position: relative; z-index: 2; padding: 4rem 6rem; width: 100%;">
-  <div style="display: inline-block; background: rgba(44,56,40,0.55); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); padding: 2rem 2.5rem; border-radius: 8px; max-width: 620px;">
-    <p style="font-family: 'Lora', serif; font-size: 0.85rem; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(220,235,210,0.85); margin-bottom: 0.8rem;">Raptor Ecology · Quantitative Modeling · Conservation Genomics</p>
-    <h1 style="font-family: 'Playfair Display', serif; font-size: 4.5rem; color: #f7f3ee; margin: 0 0 1rem; line-height: 1.05;">Ashley Santiago</h1>
-    <p style="font-size: 1.15rem; color: rgba(240,245,235,0.9); line-height: 1.8; margin: 0 0 2rem;">
-      Ph.D. Student in Ecology, Evolution, and Behavior at Boise State University — studying how Golden Eagles respond to a rapidly changing landscape.
-    </p>
-    <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-      <a href="about" style="display: inline-block; background: rgba(247,243,238,0.15); border: 1.5px solid rgba(247,243,238,0.6); color: #f7f3ee; padding: 0.65rem 1.6rem; border-radius: 3px; font-family: 'Lora', serif; font-size: 0.88rem; letter-spacing: 0.08em; text-transform: uppercase; backdrop-filter: blur(4px); transition: background 0.2s;"</a>
+  <div style="position: relative; z-index: 2; padding: 4rem 6rem; width: 100%;">
+    <div style="display: inline-block; background: rgba(44,56,40,0.55); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); padding: 2rem 2.5rem; border-radius: 8px; max-width: 620px;">
+      <p style="font-family: 'Lora', serif; font-size: 0.85rem; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(220,235,210,0.85); margin-bottom: 0.8rem;">Raptor Ecology · Quantitative Modeling · Conservation Genomics</p>
+      <h1 style="font-family: 'Playfair Display', serif; font-size: 4.5rem; color: #f7f3ee; margin: 0 0 1rem; line-height: 1.05;">Ashley Santiago</h1>
+      <p style="font-size: 1.15rem; color: rgba(240,245,235,0.9); line-height: 1.8; margin: 0;">
+        Ph.D. Student in Ecology, Evolution, and Behavior at Boise State University — studying how Golden Eagles respond to a rapidly changing landscape.
+      </p>
     </div>
   </div>
 </div>
