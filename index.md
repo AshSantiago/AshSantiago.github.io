@@ -32,9 +32,8 @@ title: Home
 
 <!-- Research section — dark background, full width -->
 <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; background: #2c3828; padding: 5rem 6rem; margin-bottom: 0;">
-  <p style="font-size: 0.8rem; letter-spacing: 0.18em; text-transform: uppercase; color: #85a870; margin-bottom: 0.8rem;">Research</p>
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: end; margin-bottom: 3.5rem;">
-    <h2 style="font-size: 2rem; color: #f0f4ec; margin: 0; line-height: 1.2;">Understanding Golden Eagle population dynamics in a changing landscape</h2>
+    <h2 style="font-size: 2rem; color: #f0f4ec; margin: 0; line-height: 1.2;">Research</h2>
     <p style="font-size: 1.05rem; line-height: 1.8; color: rgba(220,235,210,0.8); margin: 0;">
       My work integrates long-term field data, statistical modeling, and genomics to understand raptor population dynamics and inform conservation management.
     </p>
