@@ -18,9 +18,6 @@ title: Home
 <!-- Bio strip — full width, two columns -->
 <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; background: #f0f4ec; padding: 5rem 6rem; display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: center; margin-bottom: 0;">
   <div>
-    <p style="font-size: 1.1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1rem;">
-      I study Golden Eagles across decades of landscape transformation — combining long-term field monitoring, statistical modeling, and genomics to connect individual responses to population-level patterns.
-    </p>
     <p style="font-size: 1.05rem; line-height: 1.85; color: #6b6259; margin-bottom: 1.5rem;">
            I am currently studying Golden Eagle ecology, survival, and population dynamics, combining field ecology with 
       statistical modeling and novel genomic approaches to understand the potential drivers of population decline and inform 
