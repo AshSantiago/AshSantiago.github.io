@@ -251,7 +251,7 @@ Golden eagles in southwestern Idaho are heavily tied to black-tailed jackrabbits
 
   </p>
   <p style="font-size: 1rem; line-height: 1.9; color: #5a7a4a; font-style: italic; margin: 0;">
-    Stay tuned! Myy dissertation research digs deeper into survival, population health, and what the future
+    Stay tuned! My dissertation research digs deeper into survival, population health, and what the future
     holds for Golden Eagles in southwestern Idaho. 🦅
   </p>
 </div>
