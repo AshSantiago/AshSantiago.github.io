@@ -83,8 +83,8 @@ Golden eagles in southwestern Idaho are heavily tied to black-tailed jackrabbits
     <div>
           <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1rem;">
         We used a multi-season Bayesian occupancy model with imperfect detection to evaluate how landscape 
-        characteristics within 36 historically occupied territories predicted whether eagles were present in a 
-        given year across a 36-year monitoring period.
+        characteristics within 36 historically occupied territories predicted whether eagles eagles occupied 
+        each territory in a given year across a 36-year monitoring period.
       </p>
       <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1.2rem;">
         Territory quality was assessed using three land cover covariates extracted from remotely sensed data:
@@ -121,10 +121,11 @@ Golden eagles in southwestern Idaho are heavily tied to black-tailed jackrabbits
       </p>
       <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1rem;">
         Eagles can expand a territory they already occupy if there are no adjacent occupied territories or
-        if a neighboring territory becomes vacant, an eagle pair may have the opportunity to subsume it 
-        increasing their nearby foraging range. But pairs surrounded by occupied territories on all sides 
-        have nowhere to expand, potentially pushing them out entirely. It is possible that the combination 
-        of degraded habitat and nowhere to expand is causing territories to become vacant ane remain vacant.
+        if a neighboring territory becomes vacant. If there is a neighboring vacant territory, This may give 
+        the pair the opportunity to subsume, increasing their nearby foraging range. But pairs surrounded by 
+        occupied territories on all sides have nowhere to expand, potentially pushing them out entirely. It 
+        is possible that the combination of degraded habitat and having nowhere to expand is causing territories to 
+        become vacant ane remain vacant.
       </p>
       <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35;">
         We evaluated conspecific neighbor density alongside land cover covariates to capture how eagles may 
