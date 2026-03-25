@@ -21,7 +21,7 @@ title: About
 
   <p style="font-size: 1.3rem; line-height: 1.85;">
     I am a Ph.D. student in the Ecology, Evolution, and Behavior program at Boise State University studying 
-    Golden Eagle ecology, survival, and population dynamics. My work focuses on uncovering the potential 
+    Golden Eagle ecology and population dynamics. My work focuses on uncovering the potential 
     drivers of population decline using a combination of telemetry, statistical modeling, genomics, and 
     bioinformatics. My goal is to bridge research and management to provide actionable conservation strategies 
     that will have the greatest impact on population health.
@@ -54,8 +54,8 @@ title: About
     years in education and conservation technician positions focused on long-term raptor monitoring.     
     I became invested in using long-term monitoring data to develop conservation strategies for 
     declining populations, which led me to pursue graduate work in the Heath Lab at Boise State 
-    University. Since 2021 I have been studying the Golden Eagle population in southwestern Idaho — 
-    a project that combines a fascinating study system, dramatic landscapes, a wonderful research 
+    University. Since 2021 I have been studying the local Golden Eagle population in southwestern Idaho. 
+    This project that combines a fascinating study system, dramatic landscapes, a wonderful research 
     community, and real opportunities to inform conservation management.
 
   </p>
