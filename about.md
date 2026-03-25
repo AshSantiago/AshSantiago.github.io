@@ -55,7 +55,7 @@ title: About
     I became invested in using long-term monitoring data to develop conservation strategies for 
     declining populations, which led me to pursue graduate work in the Heath Lab at Boise State 
     University. Since 2021 I have been studying the local Golden Eagle population in southwestern Idaho. 
-    This project that combines a fascinating study system, dramatic landscapes, a wonderful research 
+    This project combines a fascinating study system, dramatic landscapes, a wonderful research 
     community, and real opportunities to inform conservation management.
 
   </p>
