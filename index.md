@@ -24,7 +24,7 @@ title: Home
 <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; background: #f0f4ec; padding: 5rem 6rem; display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: center; margin-bottom: 0;">
   <div>
     <p style="font-size: 1.35rem; line-height: 1.85; color: #6b6259; margin-bottom: 1.5rem;">
-           I am currently studying Golden Eagle ecology, survival, and population dynamics, combining field ecology with 
+           I am currently studying Golden Eagle ecology and population dynamics, combining field ecology with 
       statistical modeling and novel genomic approaches to understand the potential drivers of population decline and inform 
       conservation strategies. I work in the <a href="https://www.heathlab.com" target="_blank">Heath Lab</a> at Boise State University.
     </p>
