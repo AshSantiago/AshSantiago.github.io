@@ -14,7 +14,7 @@ title: Home
       <p style="font-family: 'Lora', serif; font-size: 0.85rem; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(220,235,210,0.85); margin-bottom: 0.8rem;">Ecology, Evolution, & Behavior PhD Student · Boise State University · Raptor Research Center</p>
       <h1 style="font-family: 'Playfair Display', serif; font-size: 4.5rem; color: #f7f3ee; margin: 0 0 1rem; line-height: 1.05;">Ashley Santiago</h1>
       <p style="font-size: 1.15rem; color: rgba(240,245,235,0.9); line-height: 1.8; margin: 0;">
-        Ph.D. Student in Ecology, Evolution, and Behavior at Boise State University currently studying Golden Eagles population dynamics.
+        Ph.D. Student in Ecology, Evolution, and Behavior at Boise State University currently studying Golden Eagle population dynamics.
       </p>
     </div>
   </div>
