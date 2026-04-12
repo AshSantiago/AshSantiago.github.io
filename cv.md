@@ -1,6 +1,7 @@
 ---
 layout: default
 title: CV
+icon: truck.png
 ---
 
 # Curriculum Vitae
