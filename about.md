@@ -3,30 +3,29 @@ layout: default
 title: About
 icon: person.png
 ---
-<div style="max-width: 1100px; margin: 0 auto;">
+<div style="max-width: 1100px; margin: 0 auto; position: relative; margin-bottom: 3rem;">
 
-<div style="display: grid; grid-template-columns: 300px 1fr 340px; gap: 3rem; align-items: center; margin-bottom: 3rem;">
-
+  <!-- Person floats into left margin -->
   <img src="/assets/person.png" alt="Researcher with binoculars"
-       style="width: 300px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));">
+       style="position: absolute; left: -160px; top: 0; width: 200px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15)); pointer-events: none;">
 
-  <!-- Bio text -->
-  <div>
-    <h1 style="font-size: 2.2rem; margin-bottom: 0.3rem;">Ashley Santiago</h1>
-    <p style="color: #5a7a4a; font-style: italic; font-size: 1rem; margin-bottom: 1.2rem;">Population Ecology · Raptor Research · Conservation Genomics</p>
-    <p style="font-size: 1.05rem; line-height: 1.85; color: #4a3f35; margin: 0;">
-      I am a Ph.D. student in the Ecology, Evolution, and Behavior program at Boise State
-      University studying Golden Eagle ecology and population dynamics. My work focuses on
-      uncovering the potential drivers of population decline using a combination of telemetry,
-      statistical modeling, genomics, and bioinformatics. My goal is to bridge research and
-      management to provide actionable conservation strategies that will have the greatest impact
-      on population health.
-    </p>
+  <!-- Title + photo side by side at full width -->
+  <div style="display: grid; grid-template-columns: 1fr 380px; gap: 3rem; align-items: center;">
+    <div>
+      <h1 style="font-size: 2.2rem; margin-bottom: 0.3rem;">Ashley Santiago</h1>
+      <p style="color: #5a7a4a; font-style: italic; font-size: 1rem; margin-bottom: 1.2rem;">Population Ecology · Raptor Research · Conservation Genomics</p>
+      <p style="font-size: 1.05rem; line-height: 1.85; color: #4a3f35; margin: 0;">
+        I am a Ph.D. student in the Ecology, Evolution, and Behavior program at Boise State
+        University studying Golden Eagle ecology and population dynamics. My work focuses on
+        uncovering the potential drivers of population decline using a combination of telemetry,
+        statistical modeling, genomics, and bioinformatics. My goal is to bridge research and
+        management to provide actionable conservation strategies that will have the greatest
+        impact on population health.
+      </p>
+    </div>
+    <img src="/assets/profile.jpg" alt="Ashley Santiago in the field"
+         style="width: 100%; height: 420px; object-fit: cover; object-position: center top; border-radius: 8px; box-shadow: 4px 4px 20px rgba(44,40,32,0.15);">
   </div>
-
-  <!-- Photo — smaller, right side -->
-  <img src="/assets/profile.jpg" alt="Ashley Santiago in the field"
-       style="width: 100%; height: 400px; object-fit: cover; object-position: center top; border-radius: 8px; box-shadow: 4px 4px 20px rgba(44,40,32,0.15);">
 
 </div>
 
