@@ -13,7 +13,7 @@ title: Contact
     <!-- Scope + header in flex row -->
     <div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;">
       <img src="/assets/scope.png" alt="Spotting scope"
-           style="width: 140px; flex-shrink: 0; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));">
+           style="width: 200px; flex-shrink: 0; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));">
       <div>
         <h1 style="font-size: 2.2rem; margin-bottom: 0.5rem;">Let's Connect!</h1>
         <p style="color: #6b6259; font-size: 1.05rem; margin: 0; line-height: 1.75;">
