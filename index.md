@@ -109,58 +109,98 @@ title: Home
   <!-- Scene container -->
   <div style="position: relative; max-width: 1100px; margin: 0 auto; padding: 0 2rem 3rem; user-select: none;">
 
-    <!-- Background map -->
+    <!-- Background map — no black background so icons blend in -->
     <img src="/assets/Nav_map.png" alt="Field site navigation scene"
          style="width: 100%; display: block; border-radius: 12px;">
 
-    <!-- Eagle → Research -->
-    <a href="/research" style="position: absolute; top: 28%; left: 22%; width: 18%; height: 28%; cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; text-decoration: none;"
-       onmouseover="this.querySelector('.tooltip').style.opacity='1'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(-8px)'; this.querySelector('.glow').style.opacity='1'"
-       onmouseout="this.querySelector('.tooltip').style.opacity='0'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(0)'; this.querySelector('.glow').style.opacity='0'">
-      <div class="glow" style="position: absolute; inset: 0; border-radius: 50%; background: radial-gradient(circle, rgba(90,122,74,0.35) 0%, transparent 70%); opacity: 0; transition: opacity 0.3s; pointer-events: none;"></div>
-      <div class="tooltip" style="position: absolute; top: -20%; left: 50%; transform: translateX(-50%) translateY(0); background: rgba(30,40,25,0.92); backdrop-filter: blur(6px); color: #f0f4ec; padding: 0.5rem 1rem; border-radius: 6px; font-family: 'Lora', serif; font-size: 0.85rem; white-space: nowrap; opacity: 0; transition: all 0.25s; pointer-events: none; border: 1px solid rgba(90,122,74,0.5);">
-        🦅 Research
-      </div>
+    <!-- Shared tooltip + icon styles via a style block -->
+    <style>
+      .nav-icon {
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        cursor: pointer;
+        text-decoration: none;
+        transition: transform 0.25s ease;
+      }
+      .nav-icon:hover {
+        transform: translateY(-14px);
+      }
+      .nav-icon img {
+        /* strip black background from PNGs */
+        mix-blend-mode: multiply;
+        display: block;
+        filter: drop-shadow(0 4px 8px rgba(0,0,0,0.4));
+        transition: filter 0.25s ease;
+      }
+      .nav-icon:hover img {
+        filter: drop-shadow(0 8px 18px rgba(0,0,0,0.55)) brightness(1.08);
+      }
+      .nav-bubble {
+        position: absolute;
+        bottom: calc(100% + 8px);
+        left: 50%;
+        transform: translateX(-50%);
+        background: white;
+        color: #2c3828;
+        font-family: 'Lora', serif;
+        font-size: 0.82rem;
+        font-weight: 600;
+        padding: 0.4rem 0.9rem;
+        border-radius: 20px;
+        white-space: nowrap;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.2s ease, transform 0.2s ease;
+        transform: translateX(-50%) translateY(4px);
+        box-shadow: 0 3px 12px rgba(0,0,0,0.25);
+      }
+      /* little tail on bubble */
+      .nav-bubble::after {
+        content: '';
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        transform: translateX(-50%);
+        border: 6px solid transparent;
+        border-top-color: white;
+      }
+      .nav-icon:hover .nav-bubble {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0);
+      }
+    </style>
+
+    <!-- EAGLE → Research -->
+    <!-- Adjust top/left to sit on the eagle in the map -->
+    <a class="nav-icon" href="/research" style="top: 30%; left: 23%; width: 16%;">
+      <div class="nav-bubble">🦅 Research</div>
+      <img src="/assets/eagle_soar.png" alt="Eagle" style="width: 100%;">
     </a>
 
-    <!-- Truck → Publications -->
-    <a href="/publications" style="position: absolute; top: 52%; left: 42%; width: 22%; height: 30%; cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; text-decoration: none;"
-       onmouseover="this.querySelector('.tooltip').style.opacity='1'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(-8px)'; this.querySelector('.glow').style.opacity='1'"
-       onmouseout="this.querySelector('.tooltip').style.opacity='0'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(0)'; this.querySelector('.glow').style.opacity='0'">
-      <div class="glow" style="position: absolute; inset: 0; border-radius: 50%; background: radial-gradient(circle, rgba(184,147,90,0.35) 0%, transparent 70%); opacity: 0; transition: opacity 0.3s; pointer-events: none;"></div>
-      <div class="tooltip" style="position: absolute; top: -20%; left: 50%; transform: translateX(-50%) translateY(0); background: rgba(30,40,25,0.92); backdrop-filter: blur(6px); color: #f0f4ec; padding: 0.5rem 1rem; border-radius: 6px; font-family: 'Lora', serif; font-size: 0.85rem; white-space: nowrap; opacity: 0; transition: all 0.25s; pointer-events: none; border: 1px solid rgba(90,122,74,0.5);">
-        🚛 Publications
-      </div>
+    <!-- TRUCK → Publications -->
+    <a class="nav-icon" href="/publications" style="top: 50%; left: 43%; width: 18%;">
+      <div class="nav-bubble">🚛 Publications</div>
+      <img src="/assets/truck.png" alt="Truck" style="width: 100%;">
     </a>
 
-    <!-- Person with binoculars → About -->
-    <a href="/about" style="position: absolute; top: 35%; left: 67%; width: 10%; height: 22%; cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; text-decoration: none;"
-       onmouseover="this.querySelector('.tooltip').style.opacity='1'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(-8px)'; this.querySelector('.glow').style.opacity='1'"
-       onmouseout="this.querySelector('.tooltip').style.opacity='0'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(0)'; this.querySelector('.glow').style.opacity='0'">
-      <div class="glow" style="position: absolute; inset: 0; border-radius: 50%; background: radial-gradient(circle, rgba(90,122,74,0.35) 0%, transparent 70%); opacity: 0; transition: opacity 0.3s; pointer-events: none;"></div>
-      <div class="tooltip" style="position: absolute; top: -30%; left: 50%; transform: translateX(-50%) translateY(0); background: rgba(30,40,25,0.92); backdrop-filter: blur(6px); color: #f0f4ec; padding: 0.5rem 1rem; border-radius: 6px; font-family: 'Lora', serif; font-size: 0.85rem; white-space: nowrap; opacity: 0; transition: all 0.25s; pointer-events: none; border: 1px solid rgba(90,122,74,0.5);">
-        🔭 About
-      </div>
+    <!-- PERSON → About -->
+    <a class="nav-icon" href="/about" style="top: 34%; left: 65%; width: 9%;">
+      <div class="nav-bubble">👁️ About</div>
+      <img src="/assets/person.png" alt="Person with binoculars" style="width: 100%;">
     </a>
 
-    <!-- Scope → Contact -->
-    <a href="/contact" style="position: absolute; top: 25%; left: 60%; width: 9%; height: 18%; cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; text-decoration: none;"
-       onmouseover="this.querySelector('.tooltip').style.opacity='1'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(-8px)'; this.querySelector('.glow').style.opacity='1'"
-       onmouseout="this.querySelector('.tooltip').style.opacity='0'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(0)'; this.querySelector('.glow').style.opacity='0'">
-      <div class="glow" style="position: absolute; inset: 0; border-radius: 50%; background: radial-gradient(circle, rgba(90,122,74,0.35) 0%, transparent 70%); opacity: 0; transition: opacity 0.3s; pointer-events: none;"></div>
-      <div class="tooltip" style="position: absolute; top: -40%; left: 50%; transform: translateX(-50%) translateY(0); background: rgba(30,40,25,0.92); backdrop-filter: blur(6px); color: #f0f4ec; padding: 0.5rem 1rem; border-radius: 6px; font-family: 'Lora', serif; font-size: 0.85rem; white-space: nowrap; opacity: 0; transition: all 0.25s; pointer-events: none; border: 1px solid rgba(90,122,74,0.5);">
-        📡 Contact
-      </div>
+    <!-- SCOPE → Contact -->
+    <a class="nav-icon" href="/contact" style="top: 24%; left: 59%; width: 8%;">
+      <div class="nav-bubble">📡 Contact</div>
+      <img src="/assets/scope.png" alt="Spotting scope" style="width: 100%;">
     </a>
 
-    <!-- Backpack → CV -->
-    <a href="/cv" style="position: absolute; top: 42%; left: 78%; width: 8%; height: 16%; cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; text-decoration: none;"
-       onmouseover="this.querySelector('.tooltip').style.opacity='1'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(-8px)'; this.querySelector('.glow').style.opacity='1'"
-       onmouseout="this.querySelector('.tooltip').style.opacity='0'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(0)'; this.querySelector('.glow').style.opacity='0'">
-      <div class="glow" style="position: absolute; inset: 0; border-radius: 50%; background: radial-gradient(circle, rgba(184,147,90,0.35) 0%, transparent 70%); opacity: 0; transition: opacity 0.3s; pointer-events: none;"></div>
-      <div class="tooltip" style="position: absolute; top: -40%; left: 50%; transform: translateX(-50%) translateY(0); background: rgba(30,40,25,0.92); backdrop-filter: blur(6px); color: #f0f4ec; padding: 0.5rem 1rem; border-radius: 6px; font-family: 'Lora', serif; font-size: 0.85rem; white-space: nowrap; opacity: 0; transition: all 0.25s; pointer-events: none; border: 1px solid rgba(90,122,74,0.5);">
-        🎒 CV
-      </div>
+    <!-- BACKPACK → CV -->
+    <a class="nav-icon" href="/cv" style="top: 41%; left: 76%; width: 7%;">
+      <div class="nav-bubble">🎒 CV</div>
+      <img src="/assets/backpack.png" alt="Backpack" style="width: 100%;">
     </a>
 
   </div>
