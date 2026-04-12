@@ -6,7 +6,7 @@ title: Research
 <!-- Header: eagle left, title + blurb right — cards below are unaffected -->
 <div style="display: flex; align-items: center; gap: 2.5rem; margin-bottom: 3rem;">
   <img src="/assets/eagle_soar.png" alt="Golden Eagle"
-       style="width: 280px; flex-shrink: 0; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));">
+       style="width: 300px; flex-shrink: 0; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));">
   <div>
     <h1 style="font-size: 2.2rem; margin-bottom: 0.5rem;">Research</h1>
     <p style="font-size: 1.05rem; line-height: 1.85; color: #6b6259; margin: 0;">
