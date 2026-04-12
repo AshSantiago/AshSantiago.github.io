@@ -96,3 +96,72 @@ title: Home
        onmouseout="this.style.borderColor='rgba(220,235,210,0.4)'; this.style.color='rgba(220,235,210,0.85)'">Learn More About My Research →</a>
   </div>
 </div>
+
+<!-- Interactive Scene Navigation -->
+<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; background: #1a1a1a; margin-top: 0;">
+
+  <div style="text-align: center; padding: 3rem 0 1.5rem;">
+    <p style="font-size: 0.8rem; letter-spacing: 0.2em; text-transform: uppercase; color: #85a870; margin-bottom: 0.5rem;">Explore</p>
+    <h2 style="font-family: 'Playfair Display', serif; color: #f0f4ec; font-size: 1.8rem; margin: 0;">Click around the field site</h2>
+    <p style="color: rgba(220,235,210,0.6); font-size: 0.95rem; margin-top: 0.5rem;">Hover over each element to explore</p>
+  </div>
+
+  <!-- Scene container -->
+  <div style="position: relative; max-width: 1100px; margin: 0 auto; padding: 0 2rem 3rem; user-select: none;">
+
+    <!-- Background map -->
+    <img src="/assets/Nav_map.png" alt="Field site navigation scene"
+         style="width: 100%; display: block; border-radius: 12px;">
+
+    <!-- Eagle → Research -->
+    <a href="/research" style="position: absolute; top: 28%; left: 22%; width: 18%; height: 28%; cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; text-decoration: none;"
+       onmouseover="this.querySelector('.tooltip').style.opacity='1'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(-8px)'; this.querySelector('.glow').style.opacity='1'"
+       onmouseout="this.querySelector('.tooltip').style.opacity='0'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(0)'; this.querySelector('.glow').style.opacity='0'">
+      <div class="glow" style="position: absolute; inset: 0; border-radius: 50%; background: radial-gradient(circle, rgba(90,122,74,0.35) 0%, transparent 70%); opacity: 0; transition: opacity 0.3s; pointer-events: none;"></div>
+      <div class="tooltip" style="position: absolute; top: -20%; left: 50%; transform: translateX(-50%) translateY(0); background: rgba(30,40,25,0.92); backdrop-filter: blur(6px); color: #f0f4ec; padding: 0.5rem 1rem; border-radius: 6px; font-family: 'Lora', serif; font-size: 0.85rem; white-space: nowrap; opacity: 0; transition: all 0.25s; pointer-events: none; border: 1px solid rgba(90,122,74,0.5);">
+        🦅 Research
+      </div>
+    </a>
+
+    <!-- Truck → Publications -->
+    <a href="/publications" style="position: absolute; top: 52%; left: 42%; width: 22%; height: 30%; cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; text-decoration: none;"
+       onmouseover="this.querySelector('.tooltip').style.opacity='1'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(-8px)'; this.querySelector('.glow').style.opacity='1'"
+       onmouseout="this.querySelector('.tooltip').style.opacity='0'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(0)'; this.querySelector('.glow').style.opacity='0'">
+      <div class="glow" style="position: absolute; inset: 0; border-radius: 50%; background: radial-gradient(circle, rgba(184,147,90,0.35) 0%, transparent 70%); opacity: 0; transition: opacity 0.3s; pointer-events: none;"></div>
+      <div class="tooltip" style="position: absolute; top: -20%; left: 50%; transform: translateX(-50%) translateY(0); background: rgba(30,40,25,0.92); backdrop-filter: blur(6px); color: #f0f4ec; padding: 0.5rem 1rem; border-radius: 6px; font-family: 'Lora', serif; font-size: 0.85rem; white-space: nowrap; opacity: 0; transition: all 0.25s; pointer-events: none; border: 1px solid rgba(90,122,74,0.5);">
+        🚛 Publications
+      </div>
+    </a>
+
+    <!-- Person with binoculars → About -->
+    <a href="/about" style="position: absolute; top: 35%; left: 67%; width: 10%; height: 22%; cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; text-decoration: none;"
+       onmouseover="this.querySelector('.tooltip').style.opacity='1'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(-8px)'; this.querySelector('.glow').style.opacity='1'"
+       onmouseout="this.querySelector('.tooltip').style.opacity='0'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(0)'; this.querySelector('.glow').style.opacity='0'">
+      <div class="glow" style="position: absolute; inset: 0; border-radius: 50%; background: radial-gradient(circle, rgba(90,122,74,0.35) 0%, transparent 70%); opacity: 0; transition: opacity 0.3s; pointer-events: none;"></div>
+      <div class="tooltip" style="position: absolute; top: -30%; left: 50%; transform: translateX(-50%) translateY(0); background: rgba(30,40,25,0.92); backdrop-filter: blur(6px); color: #f0f4ec; padding: 0.5rem 1rem; border-radius: 6px; font-family: 'Lora', serif; font-size: 0.85rem; white-space: nowrap; opacity: 0; transition: all 0.25s; pointer-events: none; border: 1px solid rgba(90,122,74,0.5);">
+        🔭 About
+      </div>
+    </a>
+
+    <!-- Scope → Contact -->
+    <a href="/contact" style="position: absolute; top: 25%; left: 60%; width: 9%; height: 18%; cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; text-decoration: none;"
+       onmouseover="this.querySelector('.tooltip').style.opacity='1'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(-8px)'; this.querySelector('.glow').style.opacity='1'"
+       onmouseout="this.querySelector('.tooltip').style.opacity='0'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(0)'; this.querySelector('.glow').style.opacity='0'">
+      <div class="glow" style="position: absolute; inset: 0; border-radius: 50%; background: radial-gradient(circle, rgba(90,122,74,0.35) 0%, transparent 70%); opacity: 0; transition: opacity 0.3s; pointer-events: none;"></div>
+      <div class="tooltip" style="position: absolute; top: -40%; left: 50%; transform: translateX(-50%) translateY(0); background: rgba(30,40,25,0.92); backdrop-filter: blur(6px); color: #f0f4ec; padding: 0.5rem 1rem; border-radius: 6px; font-family: 'Lora', serif; font-size: 0.85rem; white-space: nowrap; opacity: 0; transition: all 0.25s; pointer-events: none; border: 1px solid rgba(90,122,74,0.5);">
+        📡 Contact
+      </div>
+    </a>
+
+    <!-- Backpack → CV -->
+    <a href="/cv" style="position: absolute; top: 42%; left: 78%; width: 8%; height: 16%; cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; text-decoration: none;"
+       onmouseover="this.querySelector('.tooltip').style.opacity='1'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(-8px)'; this.querySelector('.glow').style.opacity='1'"
+       onmouseout="this.querySelector('.tooltip').style.opacity='0'; this.querySelector('.tooltip').style.transform='translateX(-50%) translateY(0)'; this.querySelector('.glow').style.opacity='0'">
+      <div class="glow" style="position: absolute; inset: 0; border-radius: 50%; background: radial-gradient(circle, rgba(184,147,90,0.35) 0%, transparent 70%); opacity: 0; transition: opacity 0.3s; pointer-events: none;"></div>
+      <div class="tooltip" style="position: absolute; top: -40%; left: 50%; transform: translateX(-50%) translateY(0); background: rgba(30,40,25,0.92); backdrop-filter: blur(6px); color: #f0f4ec; padding: 0.5rem 1rem; border-radius: 6px; font-family: 'Lora', serif; font-size: 0.85rem; white-space: nowrap; opacity: 0; transition: all 0.25s; pointer-events: none; border: 1px solid rgba(90,122,74,0.5);">
+        🎒 CV
+      </div>
+    </a>
+
+  </div>
+</div>
