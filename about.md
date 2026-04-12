@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+icon: person.png
 ---
 
 <div style="width: 100%; height: 520px; overflow: hidden; border-radius: 8px; margin-bottom: 2.5rem; position: relative;">
