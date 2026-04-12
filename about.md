@@ -5,12 +5,10 @@ icon: person.png
 ---
 <div style="max-width: 1100px; margin: 0 auto;">
 
-<!-- Top section: icon | bio text | photo -->
-<div style="display: grid; grid-template-columns: 160px 1fr 340px; gap: 3rem; align-items: center; margin-bottom: 3rem;">
+<div style="display: grid; grid-template-columns: 220px 1fr 340px; gap: 3rem; align-items: center; margin-bottom: 3rem;">
 
-  <!-- Person icon -->
   <img src="/assets/person.png" alt="Researcher with binoculars"
-       style="width: 400px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));">
+       style="width: 220px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));">
 
   <!-- Bio text -->
   <div>
