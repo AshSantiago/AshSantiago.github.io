@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research
+icon: eagle_soar.png
 ---
 
 ## Research
