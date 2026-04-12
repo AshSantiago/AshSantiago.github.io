@@ -2,21 +2,19 @@
 layout: default
 title: Research
 ---
-<div style="max-width: 1100px; margin: 0 auto;">
 
-<!-- Header with icon -->
-<div style="display: flex; align-items: center; gap: 3rem; margin-bottom: 3rem;">
-  <img src="/assets/eagle_soar.png" alt="Golden Eagle" 
-       style="width: 220px; flex-shrink: 0; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));">
-  <div>
-    <h1 style="font-size: 2.2rem; margin-bottom: 0.5rem;">Research</h1>
-    <p style="font-size: 1.05rem; line-height: 1.85; color: #6b6259;">
-      My research follows Golden Eagles (<em>Aquila chrysaetos</em>) across years of environmental 
-      change, combining long-term field monitoring, statistical modeling, and genomics to understand 
-      how individual responses to a shifting landscape accumulate into population-level patterns.
-    </p>
-  </div>
-</div>
+<div style="max-width: 1100px; margin: 0 auto; position: relative;">
+
+<!-- Eagle floats to the left, outside the text flow -->
+<img src="/assets/eagle_soar.png" alt="Golden Eagle"
+     style="position: absolute; left: -180px; top: 0; width: 200px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15)); pointer-events: none;">
+
+<h1 style="font-size: 2.2rem; margin-bottom: 0.5rem;">Research</h1>
+<p style="font-size: 1.05rem; line-height: 1.85; color: #6b6259; margin-bottom: 3rem;">
+  My research follows Golden Eagles (<em>Aquila chrysaetos</em>) across years of environmental 
+  change, combining long-term field monitoring, statistical modeling, and genomics to understand 
+  how individual responses to a shifting landscape accumulate into population-level patterns.
+</p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.5rem; margin-top: 1rem; align-items: stretch;">
 
