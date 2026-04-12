@@ -3,35 +3,36 @@ layout: default
 title: About
 icon: person.png
 ---
+<div style="max-width: 1100px; margin: 0 auto;">
 
-<div style="width: 100%; height: 520px; overflow: hidden; border-radius: 8px; margin-bottom: 2.5rem; position: relative;">
-  <img src="../assets/profile.jpg" alt="Ashley Santiago in the field"
-       style="width: 100%; height: 100%; object-fit: cover; object-position: center 30%;"
-       onerror="this.parentElement.style.background='#a8b89a'; this.style.display='none';">
-  <div style="position: absolute; bottom: 1.5rem; left: 1.5rem;">
-    <div style="display: inline-block; background: rgba(247,243,238,0.82); backdrop-filter: blur(4px); padding: 1rem 1.4rem; border-radius: 6px;">
-      <h1 style="color: #4a3f35; margin: 0; font-size: 2rem;">Ashley Santiago</h1>
-      <p style="color: #6b6259; margin: 0.25rem 0 0; font-style: italic; font-size: 1.1rem;">
-        Population Ecology · Raptor Research · Conservation Genomics
-      </p>
-    </div>
+<!-- Top section: icon | bio text | photo -->
+<div style="display: grid; grid-template-columns: 160px 1fr 340px; gap: 3rem; align-items: center; margin-bottom: 3rem;">
+
+  <!-- Person icon -->
+  <img src="/assets/person.png" alt="Researcher with binoculars"
+       style="width: 160px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));">
+
+  <!-- Bio text -->
+  <div>
+    <h1 style="font-size: 2.2rem; margin-bottom: 0.3rem;">Ashley Santiago</h1>
+    <p style="color: #5a7a4a; font-style: italic; font-size: 1rem; margin-bottom: 1.2rem;">Population Ecology · Raptor Research · Conservation Genomics</p>
+    <p style="font-size: 1.05rem; line-height: 1.85; color: #4a3f35; margin: 0;">
+      I am a Ph.D. student in the Ecology, Evolution, and Behavior program at Boise State
+      University studying Golden Eagle ecology and population dynamics. My work focuses on
+      uncovering the potential drivers of population decline using a combination of telemetry,
+      statistical modeling, genomics, and bioinformatics. My goal is to bridge research and
+      management to provide actionable conservation strategies that will have the greatest impact
+      on population health.
+    </p>
   </div>
+
+  <!-- Photo — smaller, right side -->
+  <img src="/assets/profile.jpg" alt="Ashley Santiago in the field"
+       style="width: 100%; height: 400px; object-fit: cover; object-position: center top; border-radius: 8px; box-shadow: 4px 4px 20px rgba(44,40,32,0.15);">
+
 </div>
 
-<div style="max-width: 900px; margin: 0 auto;">
-
-  <p style="font-size: 1.3rem; line-height: 1.85;">
-    I am a Ph.D. student in the Ecology, Evolution, and Behavior program at Boise State University studying 
-    Golden Eagle ecology and population dynamics. My work focuses on uncovering the potential 
-    drivers of population decline using a combination of telemetry, statistical modeling, genomics, and 
-    bioinformatics. My goal is to bridge research and management to provide actionable conservation strategies 
-    that will have the greatest impact on population health.
-  </p>
-
-  <p style="font-size: 1.3rem; line-height: 1.85;">
-    I work in the <a href="https://www.heathlab.com" target="_blank">Heath Lab</a> at Boise State 
-    University, where I have been studying the Golden Eagle population in southwestern Idaho since 2021.
-  </p>
+<hr style="border: none; border-top: 1px solid #c8dabb; margin-bottom: 3rem;">
 
   <hr style="border: none; border-top: 1px solid #dde6d5; margin: 2rem 0;">
 
