@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+icon: scope.png
 ---
 
 <div style="max-width: 1100px; margin: 0 auto;">
