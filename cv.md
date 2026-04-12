@@ -21,7 +21,6 @@ icon: truck.png
 
 <hr style="border: none; border-top: 1px solid #c8dabb; margin-bottom: 2.5rem;">
 
----
 
 ## Education
 
