@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publications
+icon: backpack.png
 ---
 
 ## Publications
