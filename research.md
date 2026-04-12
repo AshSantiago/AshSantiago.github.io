@@ -7,7 +7,7 @@ title: Research
 
 <!-- Eagle floats to the left, outside the text flow -->
 <img src="/assets/eagle_soar.png" alt="Golden Eagle"
-     style="position: absolute; left: -180px; top: 0; width: 200px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15)); pointer-events: none;">
+     style="position: absolute; left: -180px; top: 0; width: 260px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15)); pointer-events: none;">
 
 <h1 style="font-size: 2.2rem; margin-bottom: 0.5rem;">Research</h1>
 <p style="font-size: 1.05rem; line-height: 1.85; color: #6b6259; margin-bottom: 3rem;">
