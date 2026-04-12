@@ -106,99 +106,96 @@ title: Home
     <p style="color: rgba(220,235,210,0.6); font-size: 0.95rem; margin-top: 0.5rem;">Hover over each element to explore</p>
   </div>
 
+  <style>
+    .nav-icon {
+      position: absolute;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      cursor: pointer;
+      text-decoration: none;
+      transition: transform 0.25s ease;
+      z-index: 2;
+    }
+    .nav-icon:hover {
+      transform: translateY(-14px);
+      z-index: 10;
+    }
+    .nav-icon img {
+      display: block;
+      filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
+      transition: filter 0.25s ease;
+    }
+    .nav-icon:hover img {
+      filter: drop-shadow(0 10px 20px rgba(0,0,0,0.5)) brightness(1.08);
+    }
+    .nav-bubble {
+      position: absolute;
+      bottom: calc(100% + 10px);
+      left: 50%;
+      transform: translateX(-50%) translateY(4px);
+      background: #ffffff;
+      color: #2c3828;
+      font-family: 'Lora', serif;
+      font-size: 0.85rem;
+      font-weight: 700;
+      padding: 0.45rem 1.1rem;
+      border-radius: 20px;
+      white-space: nowrap;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.2s ease, transform 0.2s ease;
+      box-shadow: 0 3px 14px rgba(0,0,0,0.25);
+      z-index: 20;
+    }
+    .nav-bubble::after {
+      content: '';
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      border: 7px solid transparent;
+      border-top-color: #ffffff;
+    }
+    .nav-icon:hover .nav-bubble {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+  </style>
+
   <!-- Scene container -->
   <div style="position: relative; max-width: 1100px; margin: 0 auto; padding: 0 2rem 3rem; user-select: none;">
 
-    <!-- Background map — no black background so icons blend in -->
+    <!-- Background map — swap to Nav_map_blank.png once you export it -->
     <img src="/assets/Nav_map.png" alt="Field site navigation scene"
          style="width: 100%; display: block; border-radius: 12px;">
 
-    <!-- Shared tooltip + icon styles via a style block -->
-    <style>
-      .nav-icon {
-        position: absolute;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        cursor: pointer;
-        text-decoration: none;
-        transition: transform 0.25s ease;
-      }
-      .nav-icon:hover {
-        transform: translateY(-14px);
-      }
-      .nav-icon img {
-        /* strip black background from PNGs */
-        mix-blend-mode: multiply;
-        display: block;
-        filter: drop-shadow(0 4px 8px rgba(0,0,0,0.4));
-        transition: filter 0.25s ease;
-      }
-      .nav-icon:hover img {
-        filter: drop-shadow(0 8px 18px rgba(0,0,0,0.55)) brightness(1.08);
-      }
-      .nav-bubble {
-        position: absolute;
-        bottom: calc(100% + 8px);
-        left: 50%;
-        transform: translateX(-50%);
-        background: white;
-        color: #2c3828;
-        font-family: 'Lora', serif;
-        font-size: 0.82rem;
-        font-weight: 600;
-        padding: 0.4rem 0.9rem;
-        border-radius: 20px;
-        white-space: nowrap;
-        opacity: 0;
-        pointer-events: none;
-        transition: opacity 0.2s ease, transform 0.2s ease;
-        transform: translateX(-50%) translateY(4px);
-        box-shadow: 0 3px 12px rgba(0,0,0,0.25);
-      }
-      /* little tail on bubble */
-      .nav-bubble::after {
-        content: '';
-        position: absolute;
-        top: 100%;
-        left: 50%;
-        transform: translateX(-50%);
-        border: 6px solid transparent;
-        border-top-color: white;
-      }
-      .nav-icon:hover .nav-bubble {
-        opacity: 1;
-        transform: translateX(-50%) translateY(0);
-      }
-    </style>
-
     <!-- EAGLE → Research -->
-    <!-- Adjust top/left to sit on the eagle in the map -->
-    <a class="nav-icon" href="/research" style="top: 28%; left: 18%; width: 25%;">
+    <a class="nav-icon" href="/research" style="top: 23.5%; left: 24%; width: 24.5%;">
       <div class="nav-bubble">Research</div>
       <img src="/assets/eagle_soar.png" alt="Eagle" style="width: 100%;">
     </a>
 
     <!-- TRUCK → Publications -->
-    <a class="nav-icon" href="/publications" style="top: 44%; left: 48%; width: 26%;">
+    <a class="nav-icon" href="/publications" style="top: 37.5%; left: 46.5%; width: 28%;">
       <div class="nav-bubble">Publications</div>
       <img src="/assets/truck.png" alt="Truck" style="width: 100%;">
     </a>
 
     <!-- PERSON → About -->
-    <a class="nav-icon" href="/about" style="top: 33%; left: 64%; width: 13%;">
+    <a class="nav-icon" href="/about" style="top: 28%; left: 65%; width: 14%;">
       <div class="nav-bubble">About</div>
       <img src="/assets/person.png" alt="Person with binoculars" style="width: 100%;">
     </a>
 
     <!-- SCOPE → Contact -->
-    <a class="nav-icon" href="/contact" style="top: 22%; left: 59%; width: 9%;">
+    <a class="nav-icon" href="/contact" style="top: 23.5%; left: 59%; width: 12%;">
       <div class="nav-bubble">Contact</div>
       <img src="/assets/scope.png" alt="Spotting scope" style="width: 100%;">
     </a>
 
     <!-- BACKPACK → CV -->
-    <a class="nav-icon" href="/cv" style="top: 40%; left: 75%; width: 8%;">
+    <a class="nav-icon" href="/cv" style="top: 34%; left: 74%; width: 9%;">
       <div class="nav-bubble">CV</div>
       <img src="/assets/backpack.png" alt="Backpack" style="width: 100%;">
     </a>
