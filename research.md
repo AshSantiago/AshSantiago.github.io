@@ -1,14 +1,22 @@
 ---
 layout: default
 title: Research
-icon: eagle_soar.png
 ---
+<div style="max-width: 1100px; margin: 0 auto;">
 
-## Research
-
-<p style="color: #6b6259; font-size: 1.3rem; line-height: 1.8; margin-bottom: 2.5rem;">
-My research follows Golden Eagles (<em>Aquila chrysaetos</em>) across years of environmental change, combining long-term field monitoring, statistical modeling, and genomics to understand how individual responses to a shifting landscape accumulate into population-level patterns.
-</p>
+<!-- Header with icon -->
+<div style="display: flex; align-items: center; gap: 3rem; margin-bottom: 3rem;">
+  <img src="/assets/eagle_soar.png" alt="Golden Eagle" 
+       style="width: 220px; flex-shrink: 0; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));">
+  <div>
+    <h1 style="font-size: 2.2rem; margin-bottom: 0.5rem;">Research</h1>
+    <p style="font-size: 1.05rem; line-height: 1.85; color: #6b6259;">
+      My research follows Golden Eagles (<em>Aquila chrysaetos</em>) across years of environmental 
+      change, combining long-term field monitoring, statistical modeling, and genomics to understand 
+      how individual responses to a shifting landscape accumulate into population-level patterns.
+    </p>
+  </div>
+</div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.5rem; margin-top: 1rem; align-items: stretch;">
 
