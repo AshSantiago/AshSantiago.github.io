@@ -180,13 +180,13 @@ title: Home
     </a>
 
     <!-- TRUCK → Publications -->
-    <a class="nav-icon" href="/publications" style="top: 48%; left: 46%; width: 22%;">
+    <a class="nav-icon" href="/publications" style="top: 44%; left: 48%; width: 26%;">
       <div class="nav-bubble">Publications</div>
       <img src="/assets/truck.png" alt="Truck" style="width: 100%;">
     </a>
 
     <!-- PERSON → About -->
-    <a class="nav-icon" href="/about" style="top: 35%; left: 65%; width: 10%;">
+    <a class="nav-icon" href="/about" style="top: 33%; left: 64%; width: 13%;">
       <div class="nav-bubble">About</div>
       <img src="/assets/person.png" alt="Person with binoculars" style="width: 100%;">
     </a>
