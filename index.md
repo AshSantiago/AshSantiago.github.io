@@ -174,31 +174,31 @@ title: Home
 
     <!-- EAGLE → Research -->
     <!-- Adjust top/left to sit on the eagle in the map -->
-    <a class="nav-icon" href="/research" style="top: 32%; left: 24%; width: 14%;">
+    <a class="nav-icon" href="/research" style="top: 28%; left: 26%; width: 15%;">
       <div class="nav-bubble">Research</div>
       <img src="/assets/eagle_soar.png" alt="Eagle" style="width: 100%;">
     </a>
 
     <!-- TRUCK → Publications -->
-    <a class="nav-icon" href="/publications" style="top: 48%; left: 44%; width: 16%;">
+    <a class="nav-icon" href="/publications" style="top: 47%; left: 50%; width: 17%;">
       <div class="nav-bubble">Publications</div>
       <img src="/assets/truck.png" alt="Truck" style="width: 100%;">
     </a>
 
     <!-- PERSON → About -->
-    <a class="nav-icon" href="/about" style="top: 38%; left: 64%; width: 8%;">
+    <a class="nav-icon" href="/about" style="top: 36%; left: 67%; width: 8%;">
       <div class="nav-bubble">About</div>
       <img src="/assets/person.png" alt="Person with binoculars" style="width: 100%;">
     </a>
 
     <!-- SCOPE → Contact -->
-    <a class="nav-icon" href="/contact" style="top: 26%; left: 57%; width: 7%;">
+    <a class="nav-icon" href="/contact" style="top: 23%; left: 61%; width: 7%;">
       <div class="nav-bubble">Contact</div>
       <img src="/assets/scope.png" alt="Spotting scope" style="width: 100%;">
     </a>
 
     <!-- BACKPACK → CV -->
-    <a class="nav-icon" href="/cv" style="top: 44%; left: 74%; width: 6%;">
+    <a class="nav-icon" href="/cv" style="top: 40%; left: 77%; width: 6%;">
       <div class="nav-bubble">CV</div>
       <img src="/assets/backpack.png" alt="Backpack" style="width: 100%;">
     </a>
