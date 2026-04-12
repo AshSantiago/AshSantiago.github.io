@@ -4,13 +4,22 @@ title: CV
 icon: truck.png
 ---
 
-# Curriculum Vitae
+<div style="max-width: 1100px; margin: 0 auto;">
 
-<p style="color: #8c7f72; font-size: 1rem;">
-ashleysantiago@u.boisestate.edu · 630-335-4195 · Boise State University, 1910 University Dr., Boise, ID 83725
-</p>
+<!-- Header: truck left, CV info right -->
+<div style="display: flex; align-items: center; gap: 2.5rem; margin-bottom: 2rem;">
+  <img src="/assets/truck.png" alt="Field truck"
+       style="width: 200px; flex-shrink: 0; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));">
+  <div>
+    <h1 style="font-size: 2.2rem; margin-bottom: 0.4rem;">Curriculum Vitae</h1>
+    <p style="color: #8c7f72; font-size: 0.9rem; margin-bottom: 1rem;">
+      ashleysantiago@u.boisestate.edu · 630-335-4195 · Boise State University, 1910 University Dr., Boise, ID 83725
+    </p>
+    <a href="assets/Ashley_Santiago_CV.pdf" style="display: inline-block; padding: 0.5rem 1.2rem; background: #f0f4ec; border: 1px solid #a8b89a; color: #4a3f35; border-radius: 4px; font-size: 0.85rem; letter-spacing: 0.05em; text-decoration: none;">↓ Download PDF</a>
+  </div>
+</div>
 
-<a href="assets/Ashley_Santiago_CV.pdf" style="display: inline-block; margin: 0.5rem 0 2rem; padding: 0.5rem 1.2rem; background: #f0f4ec; border: 1px solid #a8b89a; color: #4a3f35; border-radius: 4px; font-size: 1rem; letter-spacing: 0.05em; text-decoration: none;">↓ Download PDF</a>
+<hr style="border: none; border-top: 1px solid #c8dabb; margin-bottom: 2.5rem;">
 
 ---
 
