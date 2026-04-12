@@ -9,7 +9,7 @@ icon: backpack.png
 <!-- Header: icon left, title + ORCID right -->
 <div style="display: flex; align-items: center; gap: 2.5rem; margin-bottom: 2.5rem;">
   <img src="/assets/backpack.png" alt="Backpack"
-       style="width: 180px; flex-shrink: 0; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));">
+       style="width: 240px; flex-shrink: 0; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));">
   <div>
     <h1 style="font-size: 2.2rem; margin-bottom: 0.3rem;">Publications</h1>
     <p style="color: #6b6259; font-size: 1rem; margin: 0;">ORCID: <a href="https://orcid.org/0009-0008-8372-4077" target="_blank" style="color: #5a7a4a;">0009-0008-8372-4077</a></p>
