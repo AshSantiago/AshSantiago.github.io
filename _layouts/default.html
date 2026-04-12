@@ -184,6 +184,16 @@
   </header>
 
   <main class="page-content">
+    <main class="page-content">
+  {% if page.icon %}
+  <div style="position: fixed; left: 1.5rem; top: 50%; transform: translateY(-50%); width: 120px; z-index: 50; pointer-events: none; opacity: 0.92;">
+    <img src="/assets/{{ page.icon }}" alt="" style="width: 100%; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));">
+  </div>
+  {% endif %}
+  <div class="site-wrapper">
+    {{ content }}
+  </div>
+</main>
     <div class="site-wrapper">
       {{ content }}
     </div>
