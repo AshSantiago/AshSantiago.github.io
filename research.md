@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-<div style="max-width: 1100px; margin: 0 auto; position: relative;">
+<div style="max-width: 100%; margin: 0 auto; position: relative;">
 
 <!-- Eagle floats to the left, outside the text flow -->
 <img src="/assets/eagle_soar.png" alt="Golden Eagle"
