@@ -1,21 +1,28 @@
 ---
 layout: default
 title: Contact
-icon: scope.png
 ---
 
 <div style="max-width: 1100px; margin: 0 auto;">
 
-<!-- Top section: scope icon + contact info side by side -->
-<div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;">
-  <img src="/assets/scope.png" alt="Spotting scope"
-       style="width: 160px; flex-shrink: 0; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: start;">
+
+  <!-- Left: contact info -->
   <div>
-    <h1 style="font-size: 2.2rem; margin-bottom: 0.5rem;">Let's Connect!</h1>
-    <p style="color: #6b6259; font-size: 1.05rem; margin-bottom: 1.5rem; line-height: 1.75;">
-      I'd love to hear from you — whether you have questions about my research, are interested in collaborating, or just want to talk eagles.
-    </p>
-    <div style="display: flex; flex-direction: column; gap: 0.8rem;">
+
+    <!-- Scope + header in flex row -->
+    <div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;">
+      <img src="/assets/scope.png" alt="Spotting scope"
+           style="width: 140px; flex-shrink: 0; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));">
+      <div>
+        <h1 style="font-size: 2.2rem; margin-bottom: 0.5rem;">Let's Connect!</h1>
+        <p style="color: #6b6259; font-size: 1.05rem; margin: 0; line-height: 1.75;">
+          I'd love to hear from you — whether you have questions about my research, are interested in collaborating, or just want to talk eagles.
+        </p>
+      </div>
+    </div>
+
+    <div style="display: flex; flex-direction: column; gap: 0.8rem; margin-bottom: 2.5rem;">
       <div style="display: flex; align-items: center; gap: 0.8rem;">
         <span style="font-size: 1.1rem;">✉️</span>
         <a href="mailto:ashleysantiago@u.boisestate.edu" style="color: #5a7a4a; font-size: 1rem;">ashleysantiago@u.boisestate.edu</a>
@@ -25,8 +32,6 @@ icon: scope.png
         <span style="color: #4a3f35; font-size: 1rem;">Boise State University · Boise, ID</span>
       </div>
     </div>
-  </div>
-</div>
 
     <hr style="border: none; border-top: 1px solid #c8dabb; margin-bottom: 2rem;">
 
@@ -64,10 +69,10 @@ icon: scope.png
     </div>
   </div>
 
-  <!-- Right: eagle photo -->
-  <div style="display: flex; align-items: flex-start; justify-content: center; padding-top: 1rem;">
-    <img src="/assets/baby_eag.jpg" alt="Golden Eagle nestling in the field"
-         style="width: 100%; max-width: 480px; border-radius: 8px; box-shadow: 6px 6px 28px rgba(44,40,32,0.15);"
+  <!-- Right: eagle photo cropped to match left column height -->
+  <div>
+    <img src="/assets/eag_transmitter.JPG" alt="Golden Eagle in the field"
+         style="width: 100%; height: 500px; object-fit: cover; object-position: center top; border-radius: 8px; box-shadow: 6px 6px 28px rgba(44,40,32,0.15);"
          onerror="this.src='/assets/profile.jpg';">
   </div>
 
