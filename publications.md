@@ -7,12 +7,15 @@ icon: backpack.png
 <div style="max-width: 1100px; margin: 0 auto; position: relative;">
 
   <img src="/assets/backpack.png" alt="Backpack"
-       style="position: absolute; left: -300px; top: 0px; width: 220px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15)); pointer-events: none;">
+       style="position: absolute; left: -300px; top: 0px; width: 210px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15)); pointer-events: none;">
 
   <h1 style="font-size: 2.2rem; margin-bottom: 0.3rem;">Publications</h1>
   <p style="color: #6b6259; font-size: 1rem; margin: 0;">ORCID: <a href="https://orcid.org/0009-0008-8372-4077" target="_blank" style="color: #5a7a4a;">0009-0008-8372-4077</a></p>
 
 </div>
+
+
+
 
   <!-- 2025 label -->
   <p style="font-family: 'Playfair Display', serif; font-size: 1.3rem; color: #4a3f35; margin: 0; padding-bottom: 0.4rem; border-bottom: 1px solid #dde6d5;">2025</p>
