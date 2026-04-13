@@ -6,7 +6,7 @@ icon: backpack.png
 
 <div style="max-width: 1100px; margin: 0 auto; position: relative;">
 
-  <img src="/assets/backpack.png" alt="Backpack"
+  <img src="/assets/truck.png" alt="truck"
        style="position: absolute; left: -300px; top: 0px; width: 210px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15)); pointer-events: none;">
 
   <h1 style="font-size: 2.2rem; margin-bottom: 0.3rem;">Publications</h1>
@@ -18,7 +18,7 @@ icon: backpack.png
 
 
   <!-- 2025 label -->
-  <p style="font-family: 'Playfair Display', serif; font-size: 1.3rem; color: #4a3f35; margin: 0; padding-bottom: 0.4rem; border-bottom: 1px solid #dde6d5;">2025</p>
+<p style="font-family: 'Playfair Display', serif; font-size: 1.3rem; color: #4a3f35; margin: 2.5rem 0 0; padding-bottom: 0.4rem; border-bottom: 1px solid #dde6d5;">2025</p>
 
   <div style="display: flex; align-items: center; gap: 2rem;">
     <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; flex-shrink: 0;">
