@@ -12,7 +12,7 @@ title: Contact
 
   <!-- Scope floats in the left margin -->
   <img src="/assets/scope.png" alt="Spotting scope"
-       style="position: absolute; left: -260px; top: 0; width: 300px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15)); pointer-events: none;">
+       style="position: absolute; left: -300px; top: 0; width: 300px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15)); pointer-events: none;">
 
   <h1 style="font-size: 2.2rem; margin-bottom: 0.5rem;">Let's Connect!</h1>
   <p style="color: #6b6259; font-size: 1.05rem; margin-bottom: 1.5rem; line-height: 1.75;">
