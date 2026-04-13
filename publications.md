@@ -26,7 +26,7 @@ icon: backpack.png
            style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.2); transform-origin: center;"
            onerror="this.parentElement.style.background='#dde6d5';">
     </div>
-    <p style="font-size: 0.95rem; line-height: 1.75; margin: 0; color: #4a3f35;">
+    <p style="font-size: 0.95rem; line-height: 1.75; margin: 1rem 0 0; color: #4a3f35;">
       <strong>Santiago, A.L.</strong>, Cruz, J., Delparte, D.M., Kochert, M.N., Steenhof, K., Weldon, J.M., Heath, J.A. (2025). Landscape Changes and Declines in Golden Eagle (<em>Aquila chrysaetos</em>) Territory Occupancy in Southwestern Idaho. <em>Ornithological Applications</em> 128(1), 1–10.
       <a href="https://doi.org/10.1093/ornithapp/duaf054" target="_blank" style="color: #7a8c6e;">https://doi.org/10.1093/ornithapp/duaf054</a>
     </p>
