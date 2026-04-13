@@ -167,7 +167,7 @@ title: Home
   <div style="position: relative; max-width: 1100px; margin: 0 auto; padding: 0 2rem 3rem; user-select: none;">
 
     <!-- Background map — swap to Nav_map_blank.png once you export it -->
-    <img src="/assets/Nav_map.png" alt="Field site navigation scene"
+    <img src="/assets/Nav_map_blank.png" alt="Field site navigation scene"
          style="width: 100%; display: block; border-radius: 12px;">
 
     <!-- EAGLE → Research -->
