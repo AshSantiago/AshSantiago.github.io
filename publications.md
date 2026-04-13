@@ -7,7 +7,7 @@ icon: backpack.png
 <div style="max-width: 1100px; margin: 0 auto; position: relative;">
 
   <img src="/assets/backpack.png" alt="Backpack"
-       style="position: absolute; left: -180px; top: -10px; width: 180px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15)); pointer-events: none;">
+       style="position: absolute; left: -200px; top: -10px; width: 200px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15)); pointer-events: none;">
 
   <h1 style="font-size: 2.2rem; margin-bottom: 0.3rem;">Publications</h1>
   <p style="color: #6b6259; font-size: 1rem; margin: 0;">ORCID: <a href="https://orcid.org/0009-0008-8372-4077" target="_blank" style="color: #5a7a4a;">0009-0008-8372-4077</a></p>
