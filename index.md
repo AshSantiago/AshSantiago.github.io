@@ -98,10 +98,10 @@ title: Home
 </div>
 
 <!-- Interactive Scene Navigation -->
-<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; background: #1a1a1a; margin-top: 0;">
+<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; background: #fffcfc; margin-top: 0;">
 
   <div style="text-align: center; padding: 3rem 0 1.5rem;">
-    <p style="font-size: 0.8rem; letter-spacing: 0.2em; text-transform: uppercase; color: #85a870; margin-bottom: 0.5rem;">Explore</p>
+    <p style="font-size: 0.8rem; letter-spacing: 0.2em; text-transform: uppercase; color: #2c3828; margin-bottom: 0.5rem;">Explore</p>
     <h2 style="font-family: 'Playfair Display', serif; color: #f0f4ec; font-size: 1.8rem; margin: 0;">Click around the field site</h2>
     <p style="color: rgba(220,235,210,0.6); font-size: 0.95rem; margin-top: 0.5rem;">Hover over each element to explore</p>
   </div>
