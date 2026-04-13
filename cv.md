@@ -6,7 +6,7 @@ icon: truck.png
 
 <div style="max-width: 1100px; margin: 0 auto; position: relative;">
 
-  <img src="/assets/truck.png" alt="Field truck"
+  <img src="/assets/backpack.png" alt="backpack"
        style="position: absolute; left: -275px; top: -10px; width: 200px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15)); pointer-events: none;">
 
   <h1 style="font-size: 2.2rem; margin-bottom: 0.4rem;">Curriculum Vitae</h1>
