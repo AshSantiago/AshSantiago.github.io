@@ -7,7 +7,7 @@ icon: person.png
 
   <!-- Person floats into left margin -->
   <img src="/assets/person.png" alt="Researcher with binoculars"
-       style="position: absolute; left: -300px; top: 250; width: 280px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15)); pointer-events: none;">
+       style="position: absolute; left: -300px; top: 300; width: 280px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15)); pointer-events: none;">
 
   <!-- Title + photo side by side at full width -->
   <div style="display: grid; grid-template-columns: 1fr 380px; gap: 3rem; align-items: center;">
