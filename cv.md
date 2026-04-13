@@ -7,7 +7,7 @@ icon: truck.png
 <div style="max-width: 1100px; margin: 0 auto; position: relative;">
 
   <img src="/assets/truck.png" alt="Field truck"
-       style="position: absolute; left: -310px; top: -10px; width: 200px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15)); pointer-events: none;">
+       style="position: absolute; left: -290px; top: -10px; width: 200px; filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15)); pointer-events: none;">
 
   <h1 style="font-size: 2.2rem; margin-bottom: 0.4rem;">Curriculum Vitae</h1>
   <p style="color: #8c7f72; font-size: 0.9rem; margin-bottom: 1rem;">
