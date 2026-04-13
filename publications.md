@@ -58,5 +58,3 @@ icon: backpack.png
       <a href="https://doi.org/10.3356/jrr24505" target="_blank" style="color: #7a8c6e;">https://doi.org/10.3356/jrr24505</a>
     </p>
   </div>
-
-</div>
