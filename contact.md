@@ -68,7 +68,7 @@ title: Contact
   <!-- Right: eagle illustration -->
   <div>
     <img src="/assets/eag_letter.png" alt="Eagle illustration"
-         style="width: 100%; height: 500px; object-fit: cover; object-position: center top; border-radius: 8px; box-shadow: 6px 6px 28px rgba(44,40,32,0.15);"
+         style="width: 100%; height: 500px; object-fit: cover; object-position: center top;"
          onerror="this.src='/assets/profile.jpg';">
   </div>
 
