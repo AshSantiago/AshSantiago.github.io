@@ -65,9 +65,9 @@ title: Contact
     </div>
   </div>
 
-  <!-- Right: eagle photo cropped to match left column height -->
+  <!-- Right: eagle illustration -->
   <div>
-    <img src="/assets/eag_transmitter.JPG" alt="Golden Eagle in the field"
+    <img src="/assets/eag_letter.png" alt="Eagle illustration"
          style="width: 100%; height: 500px; object-fit: cover; object-position: center top; border-radius: 8px; box-shadow: 6px 6px 28px rgba(44,40,32,0.15);"
          onerror="this.src='/assets/profile.jpg';">
   </div>
