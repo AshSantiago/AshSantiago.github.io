@@ -91,15 +91,15 @@ Golden eagles in southwestern Idaho are heavily tied to black-tailed jackrabbits
       </p>
       <div style="display: flex; flex-direction: column; gap: 0.65rem;">
         <div style="padding: 0.8rem 1.1rem; background: #f0f4ec; border-left: 3px solid #5a7a4a; border-radius: 0 6px 6px 0;">
-          <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.15rem; font-size: 0.95rem;">🌿 Shrub Cover</p>
+          <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.15rem; font-size: 0.95rem;">Shrub Cover</p>
           <p style="font-size: 0.88rem; color: #6b6259; margin: 0;">A proxy for habitat quality and prey availability</p>
         </div>
         <div style="padding: 0.8rem 1.1rem; background: #f0f4ec; border-left: 3px solid #b8935a; border-radius: 0 6px 6px 0;">
-          <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.15rem; font-size: 0.95rem;">🌾 Annual Grass Cover</p>
+          <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.15rem; font-size: 0.95rem;">Annual Grass Cover</p>
           <p style="font-size: 0.88rem; color: #6b6259; margin: 0;">An indicator of cheatgrass invasion and habitat degradation</p>
         </div>
         <div style="padding: 0.8rem 1.1rem; background: #f0f4ec; border-left: 3px solid #8c7f72; border-radius: 0 6px 6px 0;">
-          <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.15rem; font-size: 0.95rem;">🔥 Fire History</p>
+          <p style="font-weight: 600; color: #4a3f35; margin: 0 0 0.15rem; font-size: 0.95rem;">Fire History</p>
           <p style="font-size: 0.88rem; color: #6b6259; margin: 0;">Years since last fire, capturing how recently and frequently a territory burns</p>
         </div>
       </div>
@@ -253,7 +253,7 @@ Golden eagles in southwestern Idaho are heavily tied to black-tailed jackrabbits
   </p>
   <p style="font-size: 1rem; line-height: 1.9; color: #5a7a4a; font-style: italic; margin: 0;">
     Stay tuned! My dissertation research digs deeper into survival, population health, and what the future
-    holds for Golden Eagles in southwestern Idaho. 🦅
+    holds for Golden Eagles in southwestern Idaho.
   </p>
 </div>
 
