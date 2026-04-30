@@ -38,7 +38,7 @@ title: Home
 
   <!-- Centered header -->
   <div style="text-align: center; margin-bottom: 3.5rem;">
-    <h2 style="font-size: 2rem; color: #f0f4ec; margin: 0 0 1rem; line-height: 1.2;">Reseach</h2>
+    <h2 style="font-size: 2rem; color: #f0f4ec; margin: 0 0 1rem; line-height: 1.2;">Research</h2>
     <p style="font-size: 1.05rem; line-height: 1.8; color: rgba(220,235,210,0.8); max-width: 600px; margin: 0 auto;">
       My work integrates long-term field data, statistical modeling, and genomics to understand raptor population dynamics and inform conservation management.
     </p>
