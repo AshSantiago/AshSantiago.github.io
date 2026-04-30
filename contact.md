@@ -16,7 +16,7 @@ title: Contact
 
   <h1 style="font-size: 2.2rem; margin-bottom: 0.5rem;">Let's Connect!</h1>
   <p style="color: #6b6259; font-size: 1.05rem; margin-bottom: 1.5rem; line-height: 1.75;">
-    I'd love to hear from you — whether you have questions about my research, are interested in collaborating, or just want to talk eagles.
+    If you have any questions about my research, here's how to find me.
   </p>
 
   <div style="display: flex; flex-direction: column; gap: 0.8rem; margin-bottom: 2.5rem;">
