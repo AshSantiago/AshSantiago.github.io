@@ -125,7 +125,7 @@ Golden eagles in southwestern Idaho are heavily tied to black-tailed jackrabbits
         the pair the opportunity to subsume, increasing their nearby foraging range. But pairs surrounded by 
         occupied territories on all sides have nowhere to expand, potentially pushing them out entirely. It 
         is possible that the combination of degraded habitat and having nowhere to expand is causing territories to 
-        become vacant ane remain vacant.
+        become vacant and remain vacant.
       </p>
       <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35;">
         We evaluated conspecific neighbor density alongside land cover covariates to capture how eagles may 
