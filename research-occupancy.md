@@ -83,7 +83,7 @@ Golden eagles in southwestern Idaho are heavily tied to black-tailed jackrabbits
     <div>
           <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1rem;">
         We used a multi-season Bayesian occupancy model with imperfect detection to evaluate how landscape 
-        characteristics within 36 historically occupied territories predicted whether eagles eagles occupied 
+        characteristics within 36 historically occupied territories predicted whether eagles occupied 
         each territory in a given year across a 36-year monitoring period.
       </p>
       <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1.2rem;">
