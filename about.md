@@ -58,3 +58,43 @@ icon: person.png
     community, and real opportunities to inform conservation management.
 
   </p>
+
+  <hr style="border: none; border-top: 1px solid #dde6d5; margin: 2rem 0;">
+
+  <h2 style="font-size: 1.35rem; margin-bottom: 1rem;">Field Photos</h2>
+
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin-bottom: 2rem;">
+
+    <img src="/assets/gallery/kes_sky.PNG" alt="Fieldwork photo"
+         style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
+         onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
+
+    <img src="/assets/gallery/Ash_kes.jpg" alt="Fieldwork photo"
+         style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
+         onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
+
+    <img src="/assets/gallery/Ash_kes2.JPG" alt="Fieldwork photo"
+         style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
+         onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
+
+    <img src="/assets/gallery/Kes.jpg" alt="Fieldwork photo"
+         style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
+         onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
+
+    <img src="/assets/gallery/Ash_RLHA.jpg" alt="Fieldwork photo"
+         style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
+         onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
+
+  </div>
+
+  <!-- Lightbox overlay: click any thumbnail to view full-size, click anywhere to close -->
+  <div id="lightbox" onclick="this.style.display='none';"
+       style="display: none; position: fixed; inset: 0; background: rgba(44,40,32,0.85); z-index: 999; align-items: center; justify-content: center; cursor: zoom-out; padding: 2rem;">
+    <img id="lightbox-img" src="" alt="Enlarged photo"
+         style="max-width: 90%; max-height: 90%; border-radius: 8px; box-shadow: 0 8px 40px rgba(0,0,0,0.4);">
+  </div>
