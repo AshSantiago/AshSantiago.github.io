@@ -24,7 +24,7 @@ title: Home
 <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; background: #f0f4ec; padding: 5rem 6rem; display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: center; margin-bottom: 0;">
   <div>
     <p style="font-size: 1.35rem; line-height: 1.85; color: #6b6259; margin-bottom: 1.5rem;">
-           I am currently a researcher in the <a href="https://www.boisestate.edu/biology-gcebirds/" target="_blank">Heath Lab</a> at Boise State University, where I study Golden Eagle ecology and population dynamics. My work integrates field ecology, statistical modeling, and novel genomic approaches to uncover the drivers of population decline and guide conservation efforts.
+           I am currently a researcher in the <a href="https://www.boisestate.edu/biology-gcebirds/" target="_blank">Heath Lab</a> at Boise State University, where I study Golden Eagle ecology and population dynamics. My work integrates field ecology, statistical modeling, and genomic approaches to uncover the drivers of population decline and guide conservation efforts.
     </p>
   </div>
   <div style="display: flex; justify-content: center;">
@@ -40,7 +40,7 @@ title: Home
   <div style="text-align: center; margin-bottom: 3.5rem;">
     <h2 style="font-size: 2rem; color: #f0f4ec; margin: 0 0 1rem; line-height: 1.2;">Research</h2>
     <p style="font-size: 1.05rem; line-height: 1.8; color: rgba(220,235,210,0.8); max-width: 600px; margin: 0 auto;">
-      My work integrates long-term field data, statistical modeling, and genomics to understand raptor population dynamics and inform conservation management.
+      My current work focuses on territory occupancy, juvenile survival, and adult turnover of the Golden Eagle Population in southwestern Idaho. 
     </p>
   </div>
 
