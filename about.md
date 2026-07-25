@@ -165,11 +165,6 @@ icon: person.png
          onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
          onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
 
-    <img src="/assets/gallery/eag_nest.jpeg" alt="Fieldwork photo"
-         style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
-         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
-         onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
-
     <img src="/assets/gallery/gyr.JPG" alt="Fieldwork photo"
          style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
          onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
