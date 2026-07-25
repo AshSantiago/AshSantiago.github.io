@@ -90,6 +90,56 @@ icon: person.png
          onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
          onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
 
+    <img src="/assets/gallery/Ash_eider.jpg" alt="Fieldwork photo"
+         style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
+         onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
+
+    <img src="/assets/gallery/RTHA.jpeg" alt="Fieldwork photo"
+         style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
+         onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
+
+    <img src="/assets/gallery/PEFA.jpeg" alt="Fieldwork photo"
+         style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
+         onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
+
+    <img src="/assets/gallery/SSHA.jpeg" alt="Fieldwork photo"
+         style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
+         onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
+
+    <img src="/assets/gallery/Ash_bino.JPG" alt="Fieldwork photo"
+         style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
+         onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
+
+    <img src="/assets/gallery/Ash_eag.JPG" alt="Fieldwork photo"
+         style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
+         onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
+
+    <img src="/assets/gallery/Ash_climb.JPG" alt="Fieldwork photo"
+         style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
+         onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
+
+    <img src="/assets/gallery/Ash_transmitter.jpeg" alt="Fieldwork photo"
+         style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
+         onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
+
+    <img src="/assets/gallery/T_transmitter.jpeg" alt="Fieldwork photo"
+         style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
+         onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
+
+    <img src="/assets/gallery/eag_transmitters.JPG" alt="Fieldwork photo"
+         style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 2px 2px 12px rgba(44,40,32,0.12); cursor: pointer; transition: transform 0.2s;"
+         onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'"
+         onclick="document.getElementById('lightbox-img').src=this.src; document.getElementById('lightbox').style.display='flex';">
+
   </div>
 
   <!-- Lightbox overlay: click any thumbnail to view full-size, click anywhere to close -->
