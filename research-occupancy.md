@@ -55,7 +55,7 @@ Golden eagles in southwestern Idaho are heavily tied to black-tailed jackrabbits
       </p>
     </div>
     <div>
-      <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden;">
+      <div>
         <img src="/assets/grass-fire_cycle.png" alt="Annual grass-fire cycle diagram"
              style="width: 100%; display: block;"
              onerror="this.style.display='none'; this.parentElement.style.minHeight='280px'; this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.innerHTML='<p style=\'color:#8c7f72; font-size:0.85rem; padding:1.5rem; text-align:center;\'>Graphic: annual grass–fire cycle<br><span style=\'font-size:0.78rem; opacity:0.7\'>(coming soon)</span></p>';">
