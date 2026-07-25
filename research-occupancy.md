@@ -139,7 +139,7 @@ Golden eagles in southwestern Idaho are heavily tied to black-tailed jackrabbits
              onerror="this.style.display='none'; this.parentElement.style.minHeight='300px'; this.parentElement.style.display='flex'; this.parentElement.style.alignItems='center'; this.parentElement.style.justifyContent='center'; this.parentElement.innerHTML='<p style=\'color:#8c7f72; font-size:0.85rem; padding:1.5rem; text-align:center;\'>Map: territory occupancy across the NCA<br><span style=\'font-size:0.78rem; opacity:0.7\'>(add your map here)</span></p>';">
       </div>
       <p style="font-size: 0.82rem; color: #8c7f72; font-style: italic; line-height: 1.5;">
-        Which of the 36 territories were occupied and which were vacant in 2022, showing the patchwork of use across the study area.
+        Occupied territories (blue) and unoccupied territories (orange) across the study area.
       </p>
     </div>
   </div>
