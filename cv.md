@@ -481,6 +481,7 @@ Heath, J.A., Davis, C.M., Dudek, B.M., McClure, C.J.W., Myers, K.T., Regnier, E.
     <span style="font-size: 1.1rem; color: #4a3f35;">Member, Raptor Research Foundation</span>
     <span style="color: #8c7f72; font-size: 1.05rem;">2019–Present</span>
   </div>
+  
 </div>
 
 ---
