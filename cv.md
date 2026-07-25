@@ -364,10 +364,26 @@ Heath, J.A., Davis, C.M., Dudek, B.M., McClure, C.J.W., Myers, K.T., Regnier, E.
 
   <div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 1.18rem;">BSU booth volunteer</strong>
+      <span style="color: #8c7f72; font-size: 1.05rem; white-space: nowrap;">May 2025 & 2026</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 1.08rem; margin: 0.1rem 0 0;">Raptorfest · Kuna, ID</p>
+  </div>
+  
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 1.18rem;">Adopt-a-Scientist volunteer</strong>
+      <span style="color: #8c7f72; font-size: 1.05rem; white-space: nowrap;">May 2026</span>
+    </div>
+    <p style="color: #7a8c6e; font-size: 1.08rem; margin: 0.1rem 0 0;">Adopt-a-Scientist · Boise, ID</p>
+  </div>
+
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
       <strong style="color: #4a3f35; font-size: 1.18rem;">STEM Day Volunteer</strong>
       <span style="color: #8c7f72; font-size: 1.05rem; white-space: nowrap;">Feb 2025 & 2026</span>
     </div>
-    <p style="color: #7a8c6e; font-size: 1.08rem; margin: 0.1rem 0 0;">Engineering and Science Festival</p>
+    <p style="color: #7a8c6e; font-size: 1.08rem; margin: 0.1rem 0 0;">Engineering and Science Festival · Boise, ID</p>
   </div>
 
   <div>
@@ -418,7 +434,17 @@ Heath, J.A., Davis, C.M., Dudek, B.M., McClure, C.J.W., Myers, K.T., Regnier, E.
       <strong style="color: #4a3f35; font-size: 1.18rem;">CITI Training Certified</strong>
       <span style="color: #8c7f72; font-size: 1.05rem; white-space: nowrap;">Mar 2018–present</span>
     </div>
+ 
+  <div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
+      <strong style="color: #4a3f35; font-size: 1.18rem;"IRCP Certified</strong>
+      <span style="color: #8c7f72; font-size: 1.05rem; white-space: nowrap;">Dec 2025–present</span>
+    </div>
+  </div>  
+  
   </div>
+
+  
 
 </div>
 
