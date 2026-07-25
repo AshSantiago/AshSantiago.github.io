@@ -172,8 +172,7 @@ Golden eagles in southwestern Idaho are heavily tied to black-tailed jackrabbits
 <div style="margin-bottom: 3.5rem;">
   <h2 style="font-size: 1.5rem; margin-bottom: 0.8rem;">A Regional Decline</h2>
   <p style="font-size: 1rem; line-height: 1.85; color: #4a3f35; margin-bottom: 1.8rem;">
-    The probability of occupancy at historically occupied territories dropped 25% over 36 years — from 
-    0.83 in 1986 to 0.58 in 2022.
+    The probability of occupancy at historically occupied territories has dropped 25% over 36 years.
   </p>
   <div style="background: #f0f4ec; border: 1px solid #dde6d5; border-radius: 8px; overflow: hidden; margin-bottom: 0.7rem;">
     <img src="/assets/occupancy_decline.png" alt="Overall occupancy trend over time"
