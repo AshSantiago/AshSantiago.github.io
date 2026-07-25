@@ -429,18 +429,19 @@ Heath, J.A., Davis, C.M., Dudek, B.M., McClure, C.J.W., Myers, K.T., Regnier, E.
     <p style="font-size: 1.1rem; color: #6b6259; margin: 0;">Instructors: Michael Schaub, Marc Kéry, José Jimenez.</p>
   </div>
 
-  <div>
+<div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
       <strong style="color: #4a3f35; font-size: 1.18rem;">CITI Training Certified</strong>
       <span style="color: #8c7f72; font-size: 1.05rem; white-space: nowrap;">Mar 2018–present</span>
     </div>
- 
+  </div>
+
   <div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 0.3rem;">
-      <strong style="color: #4a3f35; font-size: 1.18rem;"IRCP Certified</strong>
+      <strong style="color: #4a3f35; font-size: 1.18rem;">IRCP Certified</strong>
       <span style="color: #8c7f72; font-size: 1.05rem; white-space: nowrap;">Dec 2025–present</span>
     </div>
-  </div>  
+  </div> 
 
   
 
