@@ -1,9 +1,11 @@
 ---
 layout: single
+author_profile: false
+sidebar:
+  - image: /assets/scope.png
+    image_alt: "Spotting scope"
 title: "Let's Connect!"
 ---
-
-![Spotting scope](/assets/scope.png){: .align-right width="160"}
 
 If you have any questions about my research, here's how to find me.
 
