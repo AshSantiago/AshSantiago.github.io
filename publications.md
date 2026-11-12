@@ -1,10 +1,11 @@
 ---
 layout: single
+author_profile: false
+sidebar:
+  - image: /assets/truck.png
+    image_alt: "Field truck"
 title: Publications
-icon: backpack.png
 ---
-
-![Truck](/assets/truck.png){: .align-right width="170"}
 
 ORCID: [0009-0008-8372-4077](https://orcid.org/0009-0008-8372-4077)
 
