@@ -1,10 +1,32 @@
 title: Ashley Santiago
 description: Ecologist · Golden Eagle Research · Quantitative Ecology
-header_pages:
-  - about.md
-  - research.md
-  - publications.md
-  - cv.md
-  - contact.md
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dirt"   # try "mint" or "air" too
+
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+
+author:
+  name: "Ashley Santiago"
+  avatar: "/assets/profile.jpg"
+  bio: "PhD student · Golden Eagle population ecology · Boise State University"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:ashleysantiago@u.boisestate.edu"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/AshSantiago"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Ashley-Santiago"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0009-0008-8372-4077"
+
+defaults:
+  - scope: { path: "" }
+    values:
+      layout: single
+      author_profile: true
