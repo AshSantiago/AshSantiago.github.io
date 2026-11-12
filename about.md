@@ -1,7 +1,10 @@
 ---
 layout: single
+author_profile: false
+sidebar:
+  - image: /assets/person.png
+    image_alt: "Researcher with binoculars"
 title: About
-icon: person.png
 gallery:
   - url: /assets/gallery/kes_sky.PNG
     image_path: /assets/gallery/kes_sky.PNG
@@ -76,8 +79,6 @@ gallery:
     image_path: /assets/gallery/eag_truck.JPG
     alt: "Field photo"
 ---
-
-![Researcher with binoculars](/assets/person.png){: .align-right width="170"}
 
 *Population Ecology · Raptor Research · Conservation Genomics*
 
