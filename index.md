@@ -1,202 +1,117 @@
 ---
 layout: splash
-title: Home
+title: "Ashley Santiago"
+permalink: /
+header:
+  overlay_image: /assets/landscape.jpg
+  overlay_filter: 0.45
+  actions:
+    - label: "Explore my research"
+      url: "/research"
+excerpt: "Ph.D. student in Ecology, Evolution, and Behavior at Boise State University studying Golden Eagle population dynamics."
+
+bio_row:
+  - image_path: /assets/profile.jpg
+    alt: "Ashley Santiago in the field"
+    excerpt: "I am currently a researcher in the <a href="https://www.boisestate.edu/biology-gcebirds/" target="_blank">Heath Lab</a> at Boise State University, where I study Golden Eagle ecology and population dynamics. My work integrates field ecology, statistical modeling, and genomic approaches to uncover the drivers of population decline and guide conservation efforts."
+    url: "/about"
+    btn_label: "More about me"
+    btn_class: "btn--primary"
+
+research_intro:
+  - excerpt: "## Research\n\nMy current work focuses on territory occupancy, juvenile survival, and adult turnover of the Golden Eagle population in southwestern Idaho."
+
+feature_row:
+  - image_path: /assets/occupancy.png
+    alt: "Territory occupancy"
+    title: "Territory Occupancy"
+    excerpt: "**Territory Ecology.** How landscape attributes shape breeding territory occupancy."
+    url: "/research-occupancy"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+  - image_path: /assets/nestling.png
+    alt: "Golden Eagle nestling"
+    title: "First-year Survival"
+    excerpt: "**Survival Analysis.** How nest parasites and disease affect juvenile survival."
+    url: "/research-survival"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+  - image_path: /assets/adult_DNA.png
+    alt: "Adult Golden Eagle and DNA"
+    title: "Adult Turnover"
+    excerpt: "**Population Genomics.** Using genetic mark-recapture to estimate breeding adult survival and turnover."
+    url: "/research-turnover"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 ---
 
-<!-- Full-viewport hero with text overlay -->
-<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; height: 70vh; min-height: 500px; overflow: hidden; display: flex; align-items: flex-end; margin-bottom: 0;">
-  <img src="assets/landscape.jpg" alt="Sagebrush steppe landscape"
-       style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center 40%;"
-       onerror="this.parentElement.style.background='#3d5c30'; this.style.display='none';">
-  <div style="position: absolute; inset: 0; background: linear-gradient(to top, rgba(30,40,20,0.75) 0%, rgba(30,40,20,0.3) 40%, transparent 70%);"></div>
-  <div style="position: relative; z-index: 2; padding: 4rem 6rem; width: 100%;">
-    <div style="display: inline-block; background: rgba(44,56,40,0.55); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); padding: 2rem 2.5rem; border-radius: 8px; max-width: 620px;">
-      <p style="font-family: 'Lora', serif; font-size: 0.85rem; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(220,235,210,0.85); margin-bottom: 0.8rem;">Ecology, Evolution, & Behavior PhD Student · Boise State University · Raptor Research Center</p>
-      <h1 style="font-family: 'Playfair Display', serif; font-size: 4.5rem; color: #f7f3ee; margin: 0 0 1rem; line-height: 1.05;">Ashley Santiago</h1>
-      <p style="font-size: 1.15rem; color: rgba(240,245,235,0.9); line-height: 1.8; margin: 0;">
-        Ph.D. Student in Ecology, Evolution, and Behavior at Boise State University currently studying Golden Eagle population dynamics.
-      </p>
-    </div>
-  </div>
+{% include feature_row id="bio_row" type="left" %}
+
+{% include feature_row id="research_intro" type="center" %}
+
+{% include feature_row %}
+
+<!-- Interactive field-site map (your custom piece; kept as HTML) -->
+<style>
+  .field-site { position: relative; max-width: 1100px; margin: 0 auto 3rem; user-select: none; }
+  .field-site > img { width: 100%; display: block; border-radius: 12px; }
+  .nav-icon {
+    position: absolute; display: flex; flex-direction: column; align-items: center;
+    text-decoration: none; transition: transform 0.25s ease; z-index: 2;
+  }
+  .nav-icon:hover { transform: translateY(-14px); z-index: 10; }
+  .nav-icon img { display: block; width: 100%; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3)); transition: filter 0.25s ease; }
+  .nav-icon:hover img { filter: drop-shadow(0 10px 20px rgba(0,0,0,0.5)) brightness(1.08); }
+  .nav-bubble {
+    position: absolute; bottom: calc(100% + 10px); left: 50%;
+    transform: translateX(-50%) translateY(4px);
+    background: #fff; color: #2c3828; font-size: 0.85rem; font-weight: 700;
+    padding: 0.45rem 1.1rem; border-radius: 20px; white-space: nowrap;
+    opacity: 0; pointer-events: none; transition: opacity 0.2s ease, transform 0.2s ease;
+    box-shadow: 0 3px 14px rgba(0,0,0,0.25); z-index: 20;
+  }
+  .nav-bubble::after {
+    content: ''; position: absolute; top: 100%; left: 50%; transform: translateX(-50%);
+    border: 7px solid transparent; border-top-color: #fff;
+  }
+  .nav-icon:hover .nav-bubble { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+  /* Phones and tablets can't hover, so show the labels all the time */
+  @media (hover: none) {
+    .nav-bubble { opacity: 1; transform: translateX(-50%); font-size: 0.65rem; padding: 0.25rem 0.6rem; }
+  }
+</style>
+
+<div style="text-align: center; margin: 3rem 0 1.5rem;">
+  <p style="font-size: 0.8rem; letter-spacing: 0.2em; text-transform: uppercase; margin-bottom: 0.3rem;">Explore</p>
+  <h2 style="margin: 0;">Click around the field site</h2>
 </div>
 
-<!-- Bio strip — full width, two columns -->
-<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; background: #f0f4ec; padding: 5rem 6rem; display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: center; margin-bottom: 0;">
-  <div>
-    <p style="font-size: 1.35rem; line-height: 1.85; color: #6b6259; margin-bottom: 1.5rem;">
-           I am currently a researcher in the <a href="https://www.boisestate.edu/biology-gcebirds/" target="_blank">Heath Lab</a> at Boise State University, where I study Golden Eagle ecology and population dynamics. My work integrates field ecology, statistical modeling, and genomic approaches to uncover the drivers of population decline and guide conservation efforts.
-    </p>
-  </div>
-  <div style="display: flex; justify-content: center;">
-    <img src="assets/profile.jpg" alt="Ashley Santiago"
-         style="width: 380px; height: 480px; object-fit: cover; object-position: center top; border-radius: 4px; box-shadow: 8px 8px 32px rgba(44,40,32,0.18);">
-  </div>
-</div>
+<div class="field-site">
+  <img src="/assets/Nav_map_blank.png" alt="Field site navigation scene">
 
-<!-- Research section — dark background, full width -->
-<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; background: #2c3828; padding: 5rem 6rem; margin-bottom: 0;">
+  <a class="nav-icon" href="/research" style="top: 23.5%; left: 24%; width: 24.5%;">
+    <div class="nav-bubble">Research</div>
+    <img src="/assets/eagle_soar.png" alt="Eagle">
+  </a>
 
-  <!-- Centered header -->
-  <div style="text-align: center; margin-bottom: 3.5rem;">
-    <h2 style="font-size: 2rem; color: #f0f4ec; margin: 0 0 1rem; line-height: 1.2;">Research</h2>
-    <p style="font-size: 1.05rem; line-height: 1.8; color: rgba(220,235,210,0.8); max-width: 600px; margin: 0 auto;">
-      My current work focuses on territory occupancy, juvenile survival, and adult turnover of the Golden Eagle Population in southwestern Idaho. 
-    </p>
-  </div>
+  <a class="nav-icon" href="/publications" style="top: 37.5%; left: 46.5%; width: 28%;">
+    <div class="nav-bubble">Publications</div>
+    <img src="/assets/truck.png" alt="Truck">
+  </a>
 
-  <!-- Smaller circles, centered -->
-  <div style="display: flex; justify-content: center; gap: 4rem; flex-wrap: wrap; margin-bottom: 3rem;">
+  <a class="nav-icon" href="/about" style="top: 28%; left: 65%; width: 14%;">
+    <div class="nav-bubble">About</div>
+    <img src="/assets/person.png" alt="Person with binoculars">
+  </a>
 
-    <!-- Territory Occupancy -->
-    <a href="research-occupancy" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 1rem; width: 220px;">
-      <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; transition: all 0.25s;"
-           onmouseover="this.style.filter='drop-shadow(0 8px 20px rgba(90,122,74,0.7))'; this.style.transform='translateY(-6px)'"
-           onmouseout="this.style.filter='none'; this.style.transform='translateY(0)'">
-        <img src="/assets/occupancy.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.2); transform-origin: center;">
-      </div>
-      <div style="text-align: center;">
-        <p style="font-size: 0.72rem; letter-spacing: 0.15em; text-transform: uppercase; color: #85a870; margin: 0 0 0.25rem;">Territory Ecology</p>
-        <p style="font-size: 1rem; color: #f0f4ec; font-family: 'Playfair Display', serif; margin: 0; font-weight: 600;">Territory Occupancy</p>
-      </div>
-    </a>
+  <a class="nav-icon" href="/contact" style="top: 23.5%; left: 59%; width: 12%;">
+    <div class="nav-bubble">Contact</div>
+    <img src="/assets/scope.png" alt="Spotting scope">
+  </a>
 
-    <!-- First-year Survival -->
-    <a href="research-survival" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 1rem; width: 220px;">
-      <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; transition: all 0.25s;"
-           onmouseover="this.style.filter='drop-shadow(0 8px 20px rgba(90,122,74,0.7))'; this.style.transform='translateY(-6px)'"
-           onmouseout="this.style.filter='none'; this.style.transform='translateY(0)'">
-        <img src="/assets/nestling.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.2); transform-origin: center;">
-      </div>
-      <div style="text-align: center;">
-        <p style="font-size: 0.72rem; letter-spacing: 0.15em; text-transform: uppercase; color: #85a870; margin: 0 0 0.25rem;">Survival Analysis</p>
-        <p style="font-size: 1rem; color: #f0f4ec; font-family: 'Playfair Display', serif; margin: 0; font-weight: 600;">First-year Survival</p>
-      </div>
-    </a>
-
-    <!-- Adult Turnover -->
-    <a href="research-turnover" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; gap: 1rem; width: 220px;">
-      <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; transition: all 0.25s;"
-           onmouseover="this.style.filter='drop-shadow(0 8px 20px rgba(90,122,74,0.7))'; this.style.transform='translateY(-6px)'"
-           onmouseout="this.style.filter='none'; this.style.transform='translateY(0)'">
-        <img src="/assets/adult_DNA.png" style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.2); transform-origin: center;">
-      </div>
-      <div style="text-align: center;">
-        <p style="font-size: 0.72rem; letter-spacing: 0.15em; text-transform: uppercase; color: #85a870; margin: 0 0 0.25rem;">Population Genomics</p>
-        <p style="font-size: 1rem; color: #f0f4ec; font-family: 'Playfair Display', serif; margin: 0; font-weight: 600;">Adult Turnover</p>
-      </div>
-    </a>
-
-  </div>
-
-  <div style="text-align: center;">
-    <a href="research" style="display: inline-block; border: 1.5px solid rgba(220,235,210,0.4); color: rgba(220,235,210,0.85); padding: 0.65rem 2rem; border-radius: 3px; font-family: 'Lora', serif; font-size: 0.88rem; letter-spacing: 0.08em; text-transform: uppercase; transition: all 0.2s;"
-       onmouseover="this.style.borderColor='#85a870'; this.style.color='#c8dabb'"
-       onmouseout="this.style.borderColor='rgba(220,235,210,0.4)'; this.style.color='rgba(220,235,210,0.85)'">Learn More About My Research →</a>
-  </div>
-</div>
-
-<!-- Interactive Scene Navigation -->
-<div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; margin-top: 0;">
-
-  <div style="text-align: center; padding: 3rem 0 1.5rem;">
-    <p style="font-size: 0.8rem; letter-spacing: 0.2em; text-transform: uppercase; color: #2c3828; margin-bottom: 0.5rem;">Explore</p>
-    <h2 style="font-family: 'Playfair Display', serif; color: #6b6259; font-size: 1.8rem; margin: 0;">Click around the field site</h2>
-    <p style="color: #6b6259; font-size: 0.95rem; margin-top: 0.5rem;">Hover over each element to explore</p>
-  </div>
-
-  <style>
-    .nav-icon {
-      position: absolute;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      cursor: pointer;
-      text-decoration: none;
-      transition: transform 0.25s ease;
-      z-index: 2;
-    }
-    .nav-icon:hover {
-      transform: translateY(-14px);
-      z-index: 10;
-    }
-    .nav-icon img {
-      display: block;
-      filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
-      transition: filter 0.25s ease;
-    }
-    .nav-icon:hover img {
-      filter: drop-shadow(0 10px 20px rgba(0,0,0,0.5)) brightness(1.08);
-    }
-    .nav-bubble {
-      position: absolute;
-      bottom: calc(100% + 10px);
-      left: 50%;
-      transform: translateX(-50%) translateY(4px);
-      background: #ffffff;
-      color: #2c3828;
-      font-family: 'Lora', serif;
-      font-size: 0.85rem;
-      font-weight: 700;
-      padding: 0.45rem 1.1rem;
-      border-radius: 20px;
-      white-space: nowrap;
-      opacity: 0;
-      pointer-events: none;
-      transition: opacity 0.2s ease, transform 0.2s ease;
-      box-shadow: 0 3px 14px rgba(0,0,0,0.25);
-      z-index: 20;
-    }
-    .nav-bubble::after {
-      content: '';
-      position: absolute;
-      top: 100%;
-      left: 50%;
-      transform: translateX(-50%);
-      border: 7px solid transparent;
-      border-top-color: #ffffff;
-    }
-    .nav-icon:hover .nav-bubble {
-      opacity: 1;
-      transform: translateX(-50%) translateY(0);
-    }
-  </style>
-
-  <!-- Scene container -->
-  <div style="position: relative; max-width: 1100px; margin: 0 auto; padding: 0 2rem 3rem; user-select: none;">
-
-    <!-- Background map — swap to Nav_map_blank.png once you export it -->
-    <img src="/assets/Nav_map_blank.png" alt="Field site navigation scene"
-         style="width: 100%; display: block; border-radius: 12px;">
-
-    <!-- EAGLE → Research -->
-    <a class="nav-icon" href="/research" style="top: 23.5%; left: 24%; width: 24.5%;">
-      <div class="nav-bubble">Research</div>
-      <img src="/assets/eagle_soar.png" alt="Eagle" style="width: 100%;">
-    </a>
-
-    <!-- TRUCK → Publications -->
-    <a class="nav-icon" href="/publications" style="top: 37.5%; left: 46.5%; width: 28%;">
-      <div class="nav-bubble">Publications</div>
-      <img src="/assets/truck.png" alt="Truck" style="width: 100%;">
-    </a>
-
-    <!-- PERSON → About -->
-    <a class="nav-icon" href="/about" style="top: 28%; left: 65%; width: 14%;">
-      <div class="nav-bubble">About</div>
-      <img src="/assets/person.png" alt="Person with binoculars" style="width: 100%;">
-    </a>
-
-    <!-- SCOPE → Contact -->
-    <a class="nav-icon" href="/contact" style="top: 23.5%; left: 59%; width: 12%;">
-      <div class="nav-bubble">Contact</div>
-      <img src="/assets/scope.png" alt="Spotting scope" style="width: 100%;">
-    </a>
-
-    <!-- BACKPACK → CV -->
-    <a class="nav-icon" href="/cv" style="top: 34%; left: 74%; width: 9%;">
-      <div class="nav-bubble">CV</div>
-      <img src="/assets/backpack.png" alt="Backpack" style="width: 100%;">
-    </a>
-
-  </div>
+  <a class="nav-icon" href="/cv" style="top: 34%; left: 74%; width: 9%;">
+    <div class="nav-bubble">CV</div>
+    <img src="/assets/backpack.png" alt="Backpack">
+  </a>
 </div>
