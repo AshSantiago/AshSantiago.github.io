@@ -1,12 +1,18 @@
 ---
 layout: single
 title: First-Year Survival
+excerpt: "Survival Analysis"
+header:
+  overlay_image: /assets/eag_transmitter.JPG
+  overlay_filter: 0.5
 ---
 
-## First-Year Survival
+[← Back to Research](/research)
 
-<p style="color: #6b6259; font-style: italic; margin-bottom: 2rem;">
-  Findings and figures coming soon.
-</p>
+Assessing how nest ectoparasites and disease affect first-year survival probability using Bayesian multistate modeling.
 
-<a href="/research" style="font-size: 0.85rem; color: #7a8c6e; letter-spacing: 0.05em;">← Back to Research</a>
+*Findings and figures coming soon.*
+{: .notice--info}
+
+[← All Research](/research){: .btn .btn--inverse}
+[Adult Turnover →](/research-turnover){: .btn .btn--primary}
