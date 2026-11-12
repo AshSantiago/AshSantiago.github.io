@@ -1,5 +1,6 @@
 ---
 layout: single
+permalink: /about/
 author_profile: false
 sidebar:
   - image: /assets/person.png
