@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: false
+permalink: /cv/
 sidebar:
   - image: /assets/backpack.png
     image_alt: "Field backpack"
