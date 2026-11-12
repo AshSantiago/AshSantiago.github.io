@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: false
+permalink: /publications/
 sidebar:
   - image: /assets/person.png
     image_alt: "Researcher with binoculars"
