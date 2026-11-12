@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: false
+permalink: /contact/
 sidebar:
   - image: /assets/scope.png
     image_alt: "Spotting scope"
