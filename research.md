@@ -1,5 +1,9 @@
 ---
 layout: single
+author_profile: false
+sidebar:
+  - image: /assets/eagle_soar.png
+    image_alt: "Soaring Golden Eagle"
 title: Research
 feature_row:
   - image_path: /assets/narrows_landscape.jpg
@@ -33,10 +37,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-![Soaring Golden Eagle](/assets/eagle_soar.png){: .align-left width="220"}
-
 My research follows Golden Eagles (*Aquila chrysaetos*) across years of environmental change, combining long-term field monitoring, statistical modeling, and genomics to understand how individual responses to a shifting landscape accumulate into population-level patterns.
-
-<div style="clear: both;"></div>
 
 {% include feature_row %}
