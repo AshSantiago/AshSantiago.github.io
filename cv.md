@@ -1,13 +1,14 @@
 ---
 layout: single
+author_profile: false
+sidebar:
+  - image: /assets/backpack.png
+    image_alt: "Field backpack"
 title: Curriculum Vitae
-icon: truck.png
 toc: true
 toc_label: "On this page"
 toc_sticky: true
 ---
-
-![Backpack](/assets/backpack.png){: .align-right width="150"}
 
 ashleysantiago@u.boisestate.edu · 630-335-4195  
 Boise State University, 1910 University Dr., Boise, ID 83725
