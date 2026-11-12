@@ -1,12 +1,18 @@
 ---
 layout: single
 title: Adult Turnover
+excerpt: "Population Genomics"
+header:
+  overlay_image: /assets/adult_nest.JPG
+  overlay_filter: 0.5
 ---
 
-## Adult Turnover
+[← Back to Research](/research)
 
-<p style="color: #6b6259; font-style: italic; margin-bottom: 2rem;">
-  Findings and figures coming soon.
-</p>
+Using a genomic mark-recapture approach to evaluate adult turnover rates and estimate breeding adult survival.
 
-<a href="/research" style="font-size: 0.85rem; color: #7a8c6e; letter-spacing: 0.05em;">← Back to Research</a>
+*Findings and figures coming soon.*
+{: .notice--info}
+
+[← All Research](/research){: .btn .btn--inverse}
+[Territory Occupancy →](/research-occupancy){: .btn .btn--primary}
