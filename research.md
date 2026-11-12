@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: false
+permalink: /research/
 sidebar:
   - image: /assets/eagle_soar.png
     image_alt: "Soaring Golden Eagle"
