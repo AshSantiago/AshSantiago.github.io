@@ -13,7 +13,13 @@ excerpt: "Ph.D. student in Ecology, Evolution, and Behavior at Boise State Unive
 bio_row:
   - image_path: /assets/profile.jpg
     alt: "Ashley Santiago in the field"
-    excerpt: "I am currently a researcher in the <a href="https://www.boisestate.edu/biology-gcebirds/" target="_blank">Heath Lab</a> at Boise State University, where I study Golden Eagle ecology and population dynamics. My work integrates field ecology, statistical modeling, and genomic approaches to uncover the drivers of population decline and guide conservation efforts."
+    excerpt: >-
+      I am currently a researcher in the
+      [Heath Lab](https://www.boisestate.edu/biology-gcebirds/)
+      at Boise State University, where I study Golden Eagle ecology
+      and population dynamics. My work integrates field ecology,
+      statistical modeling, and genomic approaches to uncover the
+      drivers of population decline and guide conservation efforts.
     url: "/about"
     btn_label: "More about me"
     btn_class: "btn--primary"
@@ -32,7 +38,7 @@ feature_row:
   - image_path: /assets/nestling.png
     alt: "Golden Eagle nestling"
     title: "First-year Survival"
-    excerpt: "**Survival Analysis.** How nest parasites and disease affect juvenile survival."
+    excerpt: "**Survival Analysis.** How nest parasites and disease affect juvenile eagle survival."
     url: "/research-survival"
     btn_label: "Read more"
     btn_class: "btn--primary"
