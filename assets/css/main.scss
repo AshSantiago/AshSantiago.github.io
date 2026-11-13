@@ -6,13 +6,22 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 
+// Overall page width (theme default 1280px). Larger = less empty space
+// at the far left and right edges of the screen.
+$max-width: 1600px;
+
 // Left sidebar width (where the page illustrations sit).
 // Theme defaults: 200px on medium-large screens, 300px on large screens.
-// Smaller numbers = narrower sidebar and more room for page content.
-$right-sidebar-width-narrow: 150px;
-$right-sidebar-width: 200px;
-
-// Uncomment the next line to make every page wider overall (theme default 1280px).
-// $max-width: 1600px;
+// Larger = bigger illustration.
+$right-sidebar-width-narrow: 220px;
+$right-sidebar-width: 280px;
 
 @import "minimal-mistakes";
+
+// ---- Custom tweaks (after the theme, so they win) ----
+
+// The theme fades the sidebar to 75% until you hover over it.
+// Keep the illustrations at full colour all the time.
+.sidebar {
+  opacity: 1 !important;
+}
