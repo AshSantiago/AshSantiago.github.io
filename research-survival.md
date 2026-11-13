@@ -1,8 +1,7 @@
 ---
 layout: single
-permalink: /research-turnover/
-title: Adult Turnover
-excerpt: "Population Genomics"
+permalink: /research-survival/
+title: Hatch-year Survival
 header:
   overlay_image: /assets/adult_nest.JPG
   overlay_filter: 0.5
@@ -15,7 +14,7 @@ header:
 
 [← Back to Research](/research)
 
-Using a genomic mark-recapture approach to evaluate adult turnover rates and estimate breeding adult survival.
+Using a multistate mark-recapture approach to estimate the effects of parasites and disease on hatch-year survival.
 
 *Findings and figures coming soon.*
 {: .notice--info}
