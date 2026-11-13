@@ -3,7 +3,7 @@ layout: single
 permalink: /research-survival/
 title: Hatch-year Survival
 header:
-  overlay_image: /assets/adult_nest.JPG
+  overlay_image: /assets/eag_transmitter.JPG
   overlay_filter: 0.5
 ---
 
