@@ -87,6 +87,12 @@ Heath, J.A., Davis, C.M., Dudek, B.M., McClure, C.J.W., Myers, K.T., Regnier, E.
 
 ## Presentations
 
+**2026**
+
+- "Early life conditions have carry-over effects on hatch-year survival of an apex predator, golden eagles" NCA Symposium. Boise, ID. (with J. Cruz, F. Abadi, S.J. Galla, J.E. Golden, C.M. Davis, B.M. Dudek, K.T. Myers, K.S. Warner, M.J. Stuber, and J.A. Heath)
+- "Early life conditions have carry-over effects on hatch-year survival of an apex predator, golden eagles" The Wildlife Society Annual Meeting. Des Moines, IA (with J. Cruz, F. Abadi, S.J. Galla, J.E. Golden, C.M. Davis, B.M. Dudek, K.T. Myers, K.S. Warner, M.J. Stuber, and J.A. Heath)
+- "Developmental and Ecological Factors Associated with the Post-Fledging Dependence Period in a Long-lived Raptor" The Wildlife Society Annual Meeting. Des Moines, IA. *Presented by K.T. Myers.*
+
 **2025**
 
 - "Depressed First-Year Survival of Golden Eagles (*Aquila chrysaetos*) in Southwestern Idaho." Raptor Research Foundation Annual Meeting. San Jose, Costa Rica. (with J. Cruz, K.T. Myers, K.S. Warner, M.J. Stuber, and J.A. Heath)
