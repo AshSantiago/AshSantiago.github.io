@@ -1,11 +1,17 @@
 ---
 layout: single
+permalink: /research-survival/
 title: First-Year Survival
 excerpt: "Survival Analysis"
 header:
   overlay_image: /assets/eag_transmitter.JPG
   overlay_filter: 0.5
 ---
+
+<style>
+  /* Which part of the banner photo shows: 0% = top of photo, 50% = middle, 100% = bottom */
+  .page__hero--overlay { background-position: center 80% !important; }
+</style>
 
 [← Back to Research](/research)
 
