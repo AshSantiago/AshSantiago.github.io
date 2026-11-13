@@ -97,4 +97,4 @@ But the story isn't only one of loss. Eagles are showing real resilience and ada
 </div>
 
 [← All Research](/research){: .btn .btn--inverse}
-[First-year Survival →](/research-survival){: .btn .btn--primary}
+[Hatch-year Survival →](/research-survival){: .btn .btn--primary}
