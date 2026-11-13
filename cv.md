@@ -11,9 +11,6 @@ toc_label: "On this page"
 toc_sticky: true
 ---
 
-ashleysantiago@u.boisestate.edu · 630-335-4195  
-Boise State University, 1910 University Dr., Boise, ID 83725
-
 [<i class="fas fa-download" aria-hidden="true"></i> Download PDF](/assets/Ashley_Santiago_CV.pdf){: .btn .btn--primary}
 
 ## Education
