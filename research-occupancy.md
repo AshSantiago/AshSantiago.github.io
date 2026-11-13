@@ -1,7 +1,6 @@
 ---
 layout: single
-title: "How do eagles respond to a drastically altered landscape?"
-excerpt: "Territory Occupancy"
+title: "Territory Occupancy"
 header:
   overlay_image: /assets/narrows_landscape.jpg
   overlay_filter: 0.5
