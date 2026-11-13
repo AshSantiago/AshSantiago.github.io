@@ -5,7 +5,7 @@ author_profile: false
 sidebar:
   - image: /assets/person.png
     image_alt: "Researcher with binoculars"
-title: About
+title: About Me
 gallery:
   - url: /assets/gallery/kes_sky.PNG
     image_path: /assets/gallery/kes_sky.PNG
