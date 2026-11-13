@@ -20,4 +20,4 @@ Using a multistate mark-recapture approach to estimate the effects of parasites 
 {: .notice--info}
 
 [← All Research](/research){: .btn .btn--inverse}
-[Territory Occupancy →](/research-occupancy){: .btn .btn--primary}
+[Adult Survival and Turnover →](/research-turnover){: .btn .btn--primary}
