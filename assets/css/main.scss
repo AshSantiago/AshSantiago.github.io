@@ -37,3 +37,37 @@ $right-sidebar-width: 280px;
 .feature__item--center .archive__item-excerpt {  // "Research" intro paragraph
   font-size: 1.2em;
 }
+
+// ---- Research cards (home page and Research page) ----
+
+// Centre the title, text and button under each image.
+.feature__item .archive__item-body {
+  text-align: center;
+}
+
+// Make the whole card clickable: the "Read more" link is stretched
+// invisibly over the card, so clicking the image (or anywhere on the card)
+// goes to the same page.
+.feature__item .archive__item {
+  position: relative;
+}
+.feature__item .archive__item .btn {
+  position: static;
+}
+.feature__item .archive__item .btn::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+
+// Hover effect: the image lifts and gets a soft shadow.
+.feature__item .archive__item-teaser img {
+  transition: transform 0.25s ease, filter 0.25s ease;
+}
+.feature__item .archive__item:hover .archive__item-teaser img {
+  transform: translateY(-8px);
+  filter: drop-shadow(0 10px 18px rgba(44, 56, 40, 0.35));
+}
+.feature__item .archive__item:hover {
+  cursor: pointer;
+}
