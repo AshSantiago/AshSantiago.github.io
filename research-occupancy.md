@@ -15,8 +15,6 @@ toc_sticky: true
 
 [← Back to Research](/research)
 
-Golden eagles in southwestern Idaho are heavily tied to black-tailed jackrabbits (*Lepus californicus*), a prey species that needs intact shrubland to survive. But the sagebrush communities in southwestern Idaho have been greatly reduced because of fire and invasive annual grass expansion. If less shrub cover means fewer jackrabbits, what does this mean for eagles?
-
 ## Shifting Landscape
 
 Increasing frequency and severity of wildfires in the West has drastically altered many sagebrush-steppe ecosystems. Sagebrush communities are slow to recover after fires, whereas annual grasses, like cheatgrass (*Bromus tectorum*), grow back quickly, outcompete native shrubs, and create fuel and ignition points for fires to spread. This perpetuates the cycle of shrub loss and annual grass expansion and creates a feedback cycle:
@@ -27,6 +25,8 @@ Increasing frequency and severity of wildfires in the West has drastically alter
 4. Shrub-reliant prey, like jackrabbits, ground squirrels, and other small mammals, decline as their habitat disappears.
 
 For Golden Eagles, this cycle has bottom-up consequences as the prey they rely on lose the shrub communities that support them.
+
+Golden eagles in southwestern Idaho are heavily tied to black-tailed jackrabbits (*Lepus californicus*), a prey species that relies on intact shrub cover to survive. But the sagebrush communities in southwestern Idaho have been greatly reduced because of fire and invasive annual grass expansion. If less shrub cover means fewer jackrabbits, what does this mean for eagles?
 
 {% include figure image_path="/assets/grass-fire_cycle.png" alt="Annual grass-fire cycle diagram" caption="The annual grass–fire cycle." %}
 
