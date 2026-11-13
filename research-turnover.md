@@ -7,6 +7,11 @@ header:
   overlay_filter: 0.5
 ---
 
+<style>
+  /* Which part of the banner photo shows: 0% = top of photo, 50% = middle, 100% = bottom */
+  .page__hero--overlay { background-position: center 20% !important; }
+</style>
+
 [← Back to Research](/research)
 
 Using a genomic mark-recapture approach to evaluate adult turnover rates and estimate breeding adult survival.
