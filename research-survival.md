@@ -9,7 +9,7 @@ header:
 
 <style>
   /* Which part of the banner photo shows: 0% = top of photo, 50% = middle, 100% = bottom */
-  .page__hero--overlay { background-position: center 40% !important; }
+  .page__hero--overlay { background-position: center 60% !important; }
 </style>
 
 [← Back to Research](/research)
