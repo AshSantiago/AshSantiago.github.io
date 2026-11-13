@@ -1,11 +1,12 @@
 ---
+---
 layout: single
-author_profile: false
 permalink: /publications/
+author_profile: false
 sidebar:
-  - image: /assets/person.png
-    image_alt: "Researcher with binoculars"
-title: About
+  - image: /assets/truck.png
+    image_alt: "Field truck"
+title: Publications
 gallery:
   - url: /assets/gallery/kes_sky.PNG
     image_path: /assets/gallery/kes_sky.PNG
