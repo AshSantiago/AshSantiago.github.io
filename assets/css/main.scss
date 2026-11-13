@@ -25,3 +25,15 @@ $right-sidebar-width: 280px;
 .sidebar {
   opacity: 1 !important;
 }
+
+// Text size in feature rows (home page and Research page).
+// 1em = normal body text size; raise or lower these numbers to taste.
+.feature__item .archive__item-excerpt {          // the three research cards
+  font-size: 1.05em;
+}
+.feature__item--left .archive__item-excerpt {    // bio next to your photo
+  font-size: 1.3em;
+}
+.feature__item--center .archive__item-excerpt {  // "Research" intro paragraph
+  font-size: 1.2em;
+}
