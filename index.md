@@ -82,6 +82,17 @@ feature_row:
   }
   .nav-icon:hover .nav-bubble { opacity: 1; transform: translateX(-50%) translateY(0); }
 
+  /* Cancel the theme's own image and link styling inside the map */
+  .field-site a,
+  .field-site img,
+  .field-site a:hover img,
+  .field-site a:focus img {
+    box-shadow: none !important;
+    border: none !important;
+    background: transparent !important;
+    text-decoration: none !important;
+  }
+
   /* Phones and tablets can't hover, so show the labels all the time */
   @media (hover: none) {
     .nav-bubble { opacity: 1; transform: translateX(-50%); font-size: 0.65rem; padding: 0.25rem 0.6rem; }
