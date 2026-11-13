@@ -17,34 +17,34 @@ toc_sticky: true
 
 Golden eagles in southwestern Idaho are heavily tied to black-tailed jackrabbits (*Lepus californicus*), a prey species that needs intact shrubland to survive. But the sagebrush communities in southwestern Idaho have been greatly reduced because of fire and invasive annual grass expansion. If less shrub cover means fewer jackrabbits, what does this mean for eagles?
 
-## An Altered Landscape
+## Shifting Landscape
 
-Increasing frequency and severity of wildfires in the West has drastically altered many sagebrush-steppe ecosystems. Sagebrush communities are slow to recover after fires, whereas annual grasses, like cheatgrass (*Bromus tectorum*), grow back quickly, outcompete native shrubs, and create fuel and ignition points for fires to spread. This perpetuates the cycle of shrub loss and annual grass expansion and creates a dangerous feedback cycle:
+Increasing frequency and severity of wildfires in the West has drastically altered many sagebrush-steppe ecosystems. Sagebrush communities are slow to recover after fires, whereas annual grasses, like cheatgrass (*Bromus tectorum*), grow back quickly, outcompete native shrubs, and create fuel and ignition points for fires to spread. This perpetuates the cycle of shrub loss and annual grass expansion and creates a feedback cycle:
 
 1. Cheatgrass establishes in disturbed areas, creating ignition points and fuel for fires to spread.
 2. Wildfires ignite more easily, spread faster, and burn more frequently than native plants can recover from.
 3. Cheatgrass outcompetes native shrubs.
 4. Shrub-reliant prey, like jackrabbits, ground squirrels, and other small mammals, decline as their habitat disappears.
 
-For Golden Eagles, this cycle has bottom-up consequences as the prey they rely on lose the plant communities that support them.
+For Golden Eagles, this cycle has bottom-up consequences as the prey they rely on lose the shrub communities that support them.
 
 {% include figure image_path="/assets/grass-fire_cycle.png" alt="Annual grass-fire cycle diagram" caption="The annual grass–fire cycle." %}
 
-## What Makes a Good Eagle Territory?
+## Territory Quality?
 
-We used a multi-season Bayesian occupancy model with imperfect detection to evaluate how landscape characteristics within 36 historically occupied territories predicted whether eagles occupied each territory in a given year across a 36-year monitoring period.
+We used a multi-season Bayesian occupancy model with imperfect detection to evaluate how landscape characteristics within 36 historically occupied territories predicted whether the territory was occupied in a given year across a 36-year monitoring period.
 
 Territory quality was assessed using three land cover covariates extracted from remotely sensed data:
 
 - **Shrub Cover:** a proxy for habitat quality and prey availability
 - **Annual Grass Cover:** an indicator of cheatgrass invasion and habitat degradation
-- **Fire History:** years since last fire, capturing how recently and frequently a territory burns
+- **Fire History:** years since last fire, capturing how recently and frequently a territory burned
 
 {% include figure image_path="/assets/NCA_terr_buff_topo.png" alt="Map of shrub cover across eagle territories in 2022" caption="Shrub cover across the 36 Golden Eagle territories in the Morley Nelson Snake River Birds of Prey National Conservation Area, southwestern Idaho (2022)." %}
 
-## It's Not Just About Habitat
+## Neighbor Density
 
-Land cover alone doesn't tell the whole story. In a degraded landscape where prey is scarce, eagles may need more space to meet their energetic needs, but their ability to expand depends on their neighborhood.
+In a degraded landscape where prey is scarce, eagles may need more space to meet their energetic needs, but their ability to expand depends on surrounding occupied territories.
 
 Eagles can expand a territory they already occupy if there are no adjacent occupied territories or if a neighboring territory becomes vacant. A neighboring vacant territory may give the pair the opportunity to subsume it, increasing their nearby foraging range. But pairs surrounded by occupied territories on all sides have nowhere to expand, potentially pushing them out entirely. It is possible that the combination of degraded habitat and having nowhere to expand is causing territories to become vacant and remain vacant.
 
@@ -52,19 +52,19 @@ We evaluated conspecific neighbor density alongside land cover covariates to cap
 
 {% include figure image_path="/assets/Occ_vac.png" alt="Map of territory occupancy" caption="Occupied territories (blue) and unoccupied territories (orange) across the study area." %}
 
-## Every Territory Has Its Own Story
+## Occupancy Trends by Territory
 
-Not all territories tell the same story. Some have been consistently occupied for decades. Others went vacant years ago and never recovered. Territories that went vacant for five or more years tended to stay vacant. Some show a slow, steady decline. And others flicker between close to 0 and 1, likely reflecting the same pair nesting in two adjacent territories in different years.
+Some territories have been consistently occupied for decades. Others went vacant years ago and never recovered. Territories that went vacant for five or more years tended to stay vacant. Some show a slow, steady decline. And others flicker between close to 0 and 1, likely reflecting the same pair nesting in two adjacent territories in different years.
 
 {% include figure image_path="/assets/OccxTime_byTerr.png" alt="Individual territory occupancy over time" caption="Estimated occupancy probability for each of the 36 territories from 1986–2022." %}
 
-## A Regional Decline
+## Declining Occupancy
 
-The probability of occupancy at historically occupied territories has dropped 25% over 36 years.
+The probability of occupancy at historically occupied breeding territories has dropped 25% over 36 years.
 
 {% include figure image_path="/assets/occupancy_decline.png" alt="Overall occupancy trend over time" caption="Mean occupancy probability across all 36 territories from 1986–2022, with 95% credible interval." %}
 
-## What Drives Occupancy?
+## Potential Drivers of Occupancy Trends
 
 Shrub cover and neighbor density emerged as the strongest predictors of territory occupancy. Shrub cover was positively associated with occupancy, while neighbor density had a strong negative effect, supporting the hypothesis that habitat degradation and spatial constraints are associated with occupancy trends.
 
