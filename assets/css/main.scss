@@ -1,0 +1,18 @@
+---
+# Keep the two dashed lines above: Jekyll needs them to process this file.
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+
+// Left sidebar width (where the page illustrations sit).
+// Theme defaults: 200px on medium-large screens, 300px on large screens.
+// Smaller numbers = narrower sidebar and more room for page content.
+$right-sidebar-width-narrow: 150px;
+$right-sidebar-width: 200px;
+
+// Uncomment the next line to make every page wider overall (theme default 1280px).
+// $max-width: 1600px;
+
+@import "minimal-mistakes";
