@@ -12,7 +12,7 @@ ORCID: [0009-0008-8372-4077](https://orcid.org/0009-0008-8372-4077)
 
 <style>
   .pub { display: flex; align-items: center; gap: 1.5rem; margin: 1.5rem 0; }
-  .pub-thumb { width: 120px; height: 120px; border-radius: 50%; overflow: hidden; flex-shrink: 0; background: #dde6d5; }
+  .pub-thumb { width: 120px; height: 120px; border-radius: 50%; overflow: hidden; flex-shrink: 0; }
   .pub-thumb img { width: 100%; height: 100%; object-fit: cover; transform: scale(1.2); }
   .pub p { margin: 0; }
   @media (max-width: 600px) {
